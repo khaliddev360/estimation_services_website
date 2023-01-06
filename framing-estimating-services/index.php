@@ -1,0 +1,284 @@
+﻿<?php include('../header-1.php') ?>
+<div id='main' class='all_colors' data-scroll-offset='88'>
+  <div class='main_color container_wrap_first container_wrap sidebar_right'>
+    <div class='container av-section-cont-open'>
+      <main role="main" itemprop="mainContentOfPage" class='template-page content  av-content-small alpha units'>
+        <div class='post-entry post-entry-type-page post-entry-1209'>
+          <div class='entry-content-wrapper clearfix'>
+            <div class='flex_column av-16jvhkp-683e365fa86f9ceed3a6cbd7e234f37d av_one_full  avia-builder-el-0  el_before_av_one_full  avia-builder-el-first  first flex_column_div '>
+              <div class='av-special-heading av-l1oivjw0-4395f57943be7ee3391bd9fbcf811104 av-special-heading-h1 blockquote modern-quote  avia-builder-el-1  avia-builder-el-no-sibling  '>
+                <h1 class='av-special-heading-tag ' itemprop="headline">Framing Estimating Services</h1>
+                <div class='special-heading-border'>
+                  <div class='special-heading-inner-border'></div>
+                </div>
+              </div>
+            </div>
+            <div class='flex_column av-l1oivxeq-6563bc526180785138106405ed7a74ee av_one_full  avia-builder-el-2  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
+              <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
+                <div class='avia_textblock  ' itemprop="text">
+                  <p>Construction without the proper estimation of framing would be impossible. Therefore, if you want accurate services to make your work done, you can hire our reliable team of experts. Our company gives you a solution to deal with the most demanding projects. Also, we provide you with complete solutions from research, design, and creation to delivery and implementation. Our company is a reliable estimation platform that offers you a complete package for your project. From this point onward, you will never again have to deal with the uncertainties of design and development. Since the approximate values always make the work difficult, therefore, you should seek help and get the Framing estimating services from our company.</p>
+                  <p>We have professional engineer estimators who can aid you in your construction project. Our experts have diverse experience in the construction industry and have worked with several clients. Moreover, they can help you understand your project and provide you with an accurate estimate. We have specialized experts to help you in your construction. You might be asked a few questions prior to working on your project since our team always wants to deliver quality work. Therefore, these questions would help in analyzing your work and make things easy. Once the estimator gives you the services, they will guide you and suggest the most appropriate solution for you. You just have to get the framing takeoffs services from our team and they will make your construction easy.</p>
+                </div>
+              </section>
+            </div>
+            <div class='flex_column av-155dprd-f83ac131f3c49761bc221126d54d0a40 av_one_full  avia-builder-el-4  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
+              <div class='av-special-heading av-l1oiwulr-9adf324b624f168e85aceb6af480cb86 av-special-heading-h2 blockquote modern-quote  avia-builder-el-5  avia-builder-el-no-sibling  '>
+                <h2 class='av-special-heading-tag ' itemprop="headline">What type of projects have our experts done in the past? </h2>
+                <div class='special-heading-border'>
+                  <div class='special-heading-inner-border'></div>
+                </div>
+              </div>
+            </div>
+            <div class='flex_column av-l1oixc9c-2f08828a4d712a7ca1d7f326732ce0fc av_one_full  avia-builder-el-6  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
+              <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
+                <div class='avia_textblock  ' itemprop="text">
+                  <p>We have expert estimators who can assist you with your estimation work. Our experts have worked on projects of all complexity levels and sizes, and we’re ready to help you with your toughest tasks. Our experts will help you determine the best approach for your particular project, and we will work closely with you to ensure that your estimates are as accurate and comprehensive as possible. Moreover, our professionals will provide you with one-on-one assistance and consultation. We’ll work together to develop a plan that meets your needs and provides you with the most value for your budget. When you hire our services, our experts will give you the most precise details with the right measurements. All of the material takeoffs will be analyzed through the software.</p>
+                  <p>Most of the software that we use for quantifying the material takeoffs is as follows:</p>
+                  <ul>
+                    <li>Planswift</li>
+                    <li>RGS Rebar</li>
+                    <li>ProEst</li>
+                    <li>On-screen takeoffs</li>
+                    <li>ASA MicroStation</li>
+                    <li>Quest estimating</li>
+                    <li>Tekla Structures</li>
+                    <li>AutoCAD</li>
+                    <li>Rebar CAD</li>
+                  </ul>
+                  <p>We use advanced technology to measure each and every detail of the material takeoffs. Our experts use the software to improve quality and give you detailed work. In short, you would not have difficulty crafting the budget for your construction since our material takeoffs are quantified precisely through the technology software. While getting the metal framing estimating services, our experts will analyze each and every detail.</p>
+                </div>
+              </section>
+            </div>
+            <div class='flex_column av-13btoc9-861431b32e99278c5f2cfd79e08d2e88 av_one_full  avia-builder-el-8  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
+              <div class='av-special-heading av-l1oiz6vs-18208d1b8ad0b7ef9703d0b29cdf0fdb av-special-heading-h2 blockquote modern-quote  avia-builder-el-9  avia-builder-el-no-sibling  '>
+                <h2 class='av-special-heading-tag ' itemprop="headline">Past work portfolio</h2>
+                <div class='special-heading-border'>
+                  <div class='special-heading-inner-border'></div>
+                </div>
+              </div>
+            </div>
+            <div class='flex_column av-11fph0p-4c9841331a3bfc19014bbc6fc61bf654 av_one_full  avia-builder-el-10  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
+              <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
+                <div class='avia_textblock  ' itemprop="text">
+                  <p>Our company has catered to a variety of clients with reliable services. If you look at our work portfolio you would see a lot of work with precision and accuracy. Many clients have hired our services and they all are glad about our reliable services.</p>
+                  <ul>
+                    <li>Erectors</li>
+                    <li>Lumber retailers</li>
+                    <li>Lumberyards</li>
+                    <li>Steel manufacturers</li>
+                    <li>Home centers</li>
+                    <li>Lumber wholesale supply companies</li>
+                    <li>Carpenters</li>
+                    <li>Retailers</li>
+                    <li>Installers</li>
+                    <li>Wholesale distributors</li>
+                    <li>Framing contractors</li>
+                    <li>Architects/designers</li>
+                    <li>Builders</li>
+                    <li>General Contractors</li>
+                    <li>Sheet metal fabricators</li>
+                    <li>Framers</li>
+                    <li>Fabricators</li>
+                  </ul>
+                </div>
+              </section>
+            </div>
+            <div class='flex_column av-z3u515-65eb9a158b1a3af089244072c4dd62ca av_one_full  avia-builder-el-12  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
+              <div class='av-special-heading av-l1oj0x9b-566d2d07fa09b63917e2f94ae4b5f5de av-special-heading-h2 blockquote modern-quote  avia-builder-el-13  avia-builder-el-no-sibling  '>
+                <h2 class='av-special-heading-tag ' itemprop="headline">Experts follow the international guidelines </h2>
+                <div class='special-heading-border'>
+                  <div class='special-heading-inner-border'></div>
+                </div>
+              </div>
+            </div>
+            <div class='flex_column av-ygbax5-fc1748edc583926277eb040d243efb78 av_one_full  avia-builder-el-14  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
+              <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
+                <div class='avia_textblock  ' itemprop="text">
+                  <p>Using these services is one of the most significant parts of any construction project. The more accurate the estimation, the less costly the construction project will be. It is important to use the right guidelines and methods for the type of construction being performed. The most commonly used method for estimating the cost of construction work that our experts follow for giving our services are below:</p>
+                  <ul>
+                    <li>CRSI (Concrete Reinforcing Steel Institute)</li>
+                    <li>ASTM (American society for testing and materials)</li>
+                    <li>ACI (American Concrete Institute)</li>
+                    <li>BS (British Standard)</li>
+                    <li>AASHTO (American Association of state highway and transportation officials)</li>
+                  </ul>
+                </div>
+              </section>
+            </div>
+            <div class='flex_column av-wezzhl-1cb66ad1c25b545a645ed9d750180a04 av_one_full  avia-builder-el-16  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
+              <div class='av-special-heading av-l1oj27wd-06a819fcc4e88e41bb20547eae1395ea av-special-heading-h2 blockquote modern-quote  avia-builder-el-17  avia-builder-el-no-sibling  '>
+                <h2 class='av-special-heading-tag ' itemprop="headline">Why should you trust us for FRAMING ESTIMATING SERVICES?</h2>
+                <div class='special-heading-border'>
+                  <div class='special-heading-inner-border'></div>
+                </div>
+              </div>
+            </div>
+            <div class='flex_column av-v1qd6h-634c2e7fc3c7513e17756d9a74cef7a3 av_one_full  avia-builder-el-18  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
+              <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
+                <div class='avia_textblock  ' itemprop="text">
+                  <p>Choosing an estimation company is quite a frustrating task, especially when there are plenty of other estimation companies in the market. However, it is very important to select the estimation company for your dream projects. You will make it when starting a small business since you are working on construction projects. Your construction procedure will become easy if you get accurate framing takeoff services. That’s why it’s important to choose a reliable company that will provide the best services for your business. Therefore, if you invest money in our reliable team, you will not regret it.</p>
+                </div>
+              </section>
+            </div>
+            <div class='flex_column av-sujxft-16ad1e5b516b1a3146a0341e461321e8 av_one_full  avia-builder-el-20  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
+              <div class='av-special-heading av-l1oj3hn9-f51db1bc7d2cbc78314ae618bc4b5921 av-special-heading-h2 blockquote modern-quote  avia-builder-el-21  avia-builder-el-no-sibling  '>
+                <h2 class='av-special-heading-tag ' itemprop="headline">Handed your work within the deadline</h2>
+                <div class='special-heading-border'>
+                  <div class='special-heading-inner-border'></div>
+                </div>
+              </div>
+            </div>
+            <div class='flex_column av-rg6fy1-7e96f478cc1facea42eb525af2228580 av_one_full  avia-builder-el-22  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
+              <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
+                <div class='avia_textblock  ' itemprop="text">
+                  <p>Our experts will hand in your work within the decided time frame. Since we believe in working within the deadline, our experts will always meet the deadlines.</p>
+                </div>
+              </section>
+            </div>
+            <div class='flex_column av-pw4hc9-52f3215e73b52b32caa220c2d8fd4367 av_one_full  avia-builder-el-24  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
+              <div class='av-special-heading av-l1oj496j-66b8a5cd852cf3d405ce6fa51ca51396 av-special-heading-h2 blockquote modern-quote  avia-builder-el-25  avia-builder-el-no-sibling  '>
+                <h2 class='av-special-heading-tag ' itemprop="headline">Get the framing services in almost every sector</h2>
+                <div class='special-heading-border'>
+                  <div class='special-heading-inner-border'></div>
+                </div>
+              </div>
+            </div>
+            <div class='flex_column av-2dknpl-5095be78825513f055608f1f76798e05 av_one_full  avia-builder-el-26  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
+              <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
+                <div class='avia_textblock  ' itemprop="text">
+                  <p>Our estimators work in almost every sector; our company would cater to you whether you want residential, commercial, or industrial work.</p>
+                </div>
+              </section>
+            </div>
+            <div class='flex_column av-n1h4xl-60f890b1d01ac53fd7741ec2f1419cc4 av_one_full  avia-builder-el-28  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
+              <div class='av-special-heading av-l1oj552i-7e07ec1a48bd2dbcfe6778d8f5dc674a av-special-heading-h2 blockquote modern-quote  avia-builder-el-29  avia-builder-el-no-sibling  '>
+                <h2 class='av-special-heading-tag ' itemprop="headline">You will get the comprehensive report</h2>
+                <div class='special-heading-border'>
+                  <div class='special-heading-inner-border'></div>
+                </div>
+              </div>
+            </div>
+            <div class='flex_column av-kawm0p-c4366f35b344bb1e04080e64efca846d av_one_full  avia-builder-el-30  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
+              <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
+                <div class='avia_textblock  ' itemprop="text">
+                  <p>Our company will give you the full report of all the labor, equipment, welders, fuel, cranes, and more. Also, you will hand in the right number of hours.</p>
+                </div>
+              </section>
+            </div>
+            <div class='flex_column av-j8mftl-fa88743bfb52281473ae88fab38868ff av_one_full  avia-builder-el-32  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
+              <div class='av-special-heading av-l1oj5tlc-33d40243f756fd1d9a6784ac6e6d6d1b av-special-heading-h2 blockquote modern-quote  avia-builder-el-33  avia-builder-el-no-sibling  '>
+                <h2 class='av-special-heading-tag ' itemprop="headline">Get support from our professional team</h2>
+                <div class='special-heading-border'>
+                  <div class='special-heading-inner-border'></div>
+                </div>
+              </div>
+            </div>
+            <div class='flex_column av-hb1icp-2f117c175d1ceb095db6cf15c1a0b614 av_one_full  avia-builder-el-34  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
+              <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
+                <div class='avia_textblock  ' itemprop="text">
+                  <p>Our experts are quite skilled and professional in their work. So choose us!</p>
+                </div>
+              </section>
+            </div>
+            <div class='flex_column av-fo2b61-8f41fcb15e47a00db0d9d05b59f1d419 av_one_full  avia-builder-el-36  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
+              <div class='av-special-heading av-l1oj6mpl-7a63747b2b41bd3ae9b7e7034bea7537 av-special-heading-h2 blockquote modern-quote  avia-builder-el-37  avia-builder-el-no-sibling  '>
+                <h2 class='av-special-heading-tag ' itemprop="headline">In which sectors our experts have catered to the clients?</h2>
+                <div class='special-heading-border'>
+                  <div class='special-heading-inner-border'></div>
+                </div>
+              </div>
+            </div>
+            <div class='flex_column av-efbsrt-b1f496e190ee6c29225e17ef497bc658 av_one_full  avia-builder-el-38  el_after_av_one_full  el_before_av_one_half  first flex_column_div column-top-margin'>
+              <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
+                <div class='avia_textblock  ' itemprop="text">
+                  <p>Our estimators work with different clients to provide them with quality Wood Estimating services that meet their needs and expectations. Moreover, our experts are quite responsible for handling all the delivery and installation needs, as well as scheduling, etc.</p>
+                </div>
+              </section>
+            </div>
+            <div class='flex_column av-l1oj7pac-9e553a53b5d7fb3e9795945b818b29d3 av_one_half  avia-builder-el-40  el_after_av_one_full  el_before_av_one_half  first flex_column_div column-top-margin'>
+              <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
+                <div class='avia_textblock  ' itemprop="text">
+                  <ul>
+                    <li>Multiplexes</li>
+                    <li>Residential</li>
+                    <li>Renovation</li>
+                    <li>Industrial</li>
+                    <li>Manufacturing units</li>
+                    <li>Monuments</li>
+                    <li>Institutional</li>
+                    <li>Bridges and flyovers</li>
+                    <li>High rise buildings</li>
+                    <li>Additions</li>
+                  </ul>
+                </div>
+              </section>
+            </div>
+            <div class='flex_column av-ck28uh-bc3bd669cefd41c55130cafe294040a2 av_one_half  avia-builder-el-42  el_after_av_one_half  el_before_av_one_full  flex_column_div column-top-margin'>
+              <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
+                <div class='avia_textblock  ' itemprop="text">
+                  <ul>
+                    <li>Water treatment plants</li>
+                    <li>Hotels</li>
+                    <li>Culverts</li>
+                    <li>Sports clubs</li>
+                    <li>Public</li>
+                    <li>Parking</li>
+                    <li>Dams</li>
+                    <li>Power plants</li>
+                    <li>Commercial</li>
+                  </ul>
+                </div>
+              </section>
+            </div>
+            <div class='flex_column av-aigurd-62b3871cabbdf51cf9948d92c76ab8a0 av_one_full  avia-builder-el-44  el_after_av_one_half  el_before_av_one_full  first flex_column_div column-top-margin'>
+              <div class='av-special-heading av-l1oj91xj-9a340238c1beafb976d08decec9fda4e av-special-heading-h2 blockquote modern-quote  avia-builder-el-45  avia-builder-el-no-sibling  '>
+                <h2 class='av-special-heading-tag ' itemprop="headline">How can you book the slot?</h2>
+                <div class='special-heading-border'>
+                  <div class='special-heading-inner-border'></div>
+                </div>
+              </div>
+            </div>
+            <div class='flex_column av-vq01l-2c0128ad21934cb6780c8b591d6fbc06 av_one_full  avia-builder-el-46  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
+              <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
+                <div class='avia_textblock  ' itemprop="text">
+                  <p>MEP estimating is a renowned company that has been catering to people for many years. Our experts have catered to various clients from different sectors. Though many other companies are already working in the market, if you hire us, you will get lots of benefits. Simply send us your work plan and upload it to our site to get it examined. Our experts would analyze your project and give you services.</p>
+                </div>
+              </section>
+            </div>
+            <div class='flex_column av-oq5op-de2747d4b9e5efd2fd023f839d6831b3 av_one_full  avia-builder-el-48  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
+              <div class='av-special-heading av-l1oja9jz-8d2ef2867549fbbd16db65d28f545c7a av-special-heading-h2 blockquote modern-quote  avia-builder-el-49  avia-builder-el-no-sibling  '>
+                <h2 class='av-special-heading-tag ' itemprop="headline">Call us directly</h2>
+                <div class='special-heading-border'>
+                  <div class='special-heading-inner-border'></div>
+                </div>
+              </div>
+            </div>
+            <div class='flex_column av-6gv321-9fee1756b3e627f3cf5b2d7a7109ed27 av_one_full  avia-builder-el-50  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
+              <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
+                <div class='avia_textblock  ' itemprop="text">
+                  <p>If you have made the mind to hire us, you have to make a call on our given number. However, you can also write us an email. As your email or call would receive our representative would talk to you directly regarding your project.</p>
+                </div>
+              </section>
+            </div>
+            <div class='flex_column av-3qmzo9-808600712bcf1b3d6a9f1c010412bcf3 av_one_full  avia-builder-el-52  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
+              <div class='av-special-heading av-l1ojbe5l-45e118a8e167e128d4e10c1c102d77d2 av-special-heading-h2 blockquote modern-quote  avia-builder-el-53  avia-builder-el-no-sibling  '>
+                <h2 class='av-special-heading-tag ' itemprop="headline">You will be handed a quote </h2>
+                <div class='special-heading-border'>
+                  <div class='special-heading-inner-border'></div>
+                </div>
+              </div>
+            </div>
+            <div class='flex_column av-2jzxbt-256e1edf20d8492239082a25003d793c av_one_full  avia-builder-el-54  el_after_av_one_full  avia-builder-el-last  first flex_column_div column-top-margin'>
+              <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
+                <div class='avia_textblock  ' itemprop="text">
+                  <p>As your project is analyzed and examined by the experts, a quote will be generated. The quote would include the invoice, delivery time, and date. At this stage, you have to pay us online. You can either send money through PayPal or debit card, etc. This is how we offer our FRAMING ESTIMATING SERVICES, so call us now.</p>
+                </div>
+              </section>
+            </div>
+          </div>
+        </div>
+      </main>
+      <?php include('../include/our-main-services.php') ?>
+    </div>
+  </div>
+  <?php include('../footer-1.php') ?>

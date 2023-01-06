@@ -1,0 +1,227 @@
+﻿<?php include('../header-1.php') ?>
+<div id='main' class='all_colors' data-scroll-offset='88'>
+  <div class='main_color container_wrap_first container_wrap sidebar_right'>
+    <div class='container av-section-cont-open'>
+      <main role="main" itemprop="mainContentOfPage" class='template-page content  av-content-small alpha units'>
+        <div class='post-entry post-entry-type-page post-entry-440'>
+          <div class='entry-content-wrapper clearfix'>
+            <div class='flex_column av-1u583s-12d1b15194ee42bf3ccbef167bcfc22e av_one_full  avia-builder-el-0  el_before_av_one_full  avia-builder-el-first  first flex_column_div '>
+              <div class='av-special-heading av-kylfsh1x-4886d30376b2dd5bd57601b28009527f av-special-heading-h1 blockquote modern-quote  avia-builder-el-1  avia-builder-el-no-sibling  '>
+                <h1 class='av-special-heading-tag ' itemprop="headline">Construction Estimation Services</h1>
+                <div class='special-heading-border'>
+                  <div class='special-heading-inner-border'></div>
+                </div>
+              </div>
+            </div>
+            <div class='flex_column av-kylfsp5r-7433865ce16351fe11d3c8e33d38b15a av_one_full  avia-builder-el-2  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
+              <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
+                <div class='avia_textblock  ' itemprop="text">
+                  <p><img decoding="async" class="size-full wp-image-1529 alignleft" style="margin-right: 20px;" src="../asset-1/uploads/2022/08/CONSTRUCTION-ESTIMATING-SERVICES.png" alt="Construction Estimating Services" width="416" height="205">Are you looking for a reliable, accurate, and precise construction estimation service provider? ESTIMATING is here to solve all your estimation and takeoff issues. ESTIMATING is the best and most accurate construction cost estimation services providers in the industry. Our goal is to assist busy contractors and builders with the best cost estimations for a smooth start. Our professionals use advanced software to create an error-free estimation draft about the cost of material and labor you will need in the construction project.</p>
+                  <p>We are an expert construction Estimation Company and years of expertise. We offer many construction estimations in the USA and takeoff services to our valued clients all across the USA. Firms who want to make sure they invest their funds in the correct supplies and labor might benefit from our estimation solutions.</p>
+                  <p>To get the greatest value for your investment when performing renovations on your house or place of business, use our affordable estimation service. Our services have a long history of producing reliable estimates for the construction sector thanks to our sizable crew. We provide quick response times for many building trade services.</p>
+                </div>
+              </section>
+            </div>
+            <div class='flex_column av-mq6tc-92b4485025a7746da80e366a27f1c121 av_one_full  avia-builder-el-4  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
+              <div id='avia-messagebox-' class='avia_message_box av_notification av-kzzf85ih-c60b9b0604a774ac4c9fee909d448ac4 avia-color-red avia-size-large avia-icon_select-yes avia-border-  avia-builder-el-5  avia-builder-el-no-sibling  '><span class='avia_message_box_title'>Note</span>
+                <div class="avia_message_box_content"><span class='avia_message_box_icon' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span>
+                  <p>We are Your next construction estimating services partner! Call Us Now!</p>
+                </div>
+              </div>
+            </div>
+            <div class='flex_column av-dxqu8-a556e753c2fde91e9ba0c177747e1455 av_one_full  avia-builder-el-6  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
+              <section class="avia_codeblock_section  avia_code_block_0" itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
+                <div class='avia_codeblock ' itemprop="text">
+                  <center> <a class="paoc-popup-click paoc-popup-cust-816 paoc-popup-button paoc-popup-btn subpages_btn" href="javascript:void(0);">Upload Plans</a> </center>
+                </div>
+              </section>
+            </div>
+            <div class='flex_column av-1si4sg-a9e15dee74b6c83a3b4e512b8f1dc12c av_one_full  avia-builder-el-8  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
+              <div class='av-special-heading av-kylg1df4-d5863138f16ac4791524f7378257ece3 av-special-heading-h2 blockquote modern-quote  avia-builder-el-9  avia-builder-el-no-sibling  '>
+                <h2 class='av-special-heading-tag ' itemprop="headline">Our Services:</h2>
+                <div class='special-heading-border'>
+                  <div class='special-heading-inner-border'></div>
+                </div>
+              </div>
+            </div>
+            <div class='flex_column av-kylg4uju-f98e930bf6f0b728f9511b46c9e7d92a av_one_full  avia-builder-el-10  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
+              <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
+                <div class='avia_textblock  ' itemprop="text">
+                  <p>Our estimation services provide you with the knowledge and resources you need to effectively manage your projects.</p>
+                  <p>We offer a wide range of services for the construction industry, including:</p>
+                  <ul>
+                    <li aria-level="1">Precise building design and engineering services</li>
+                    <li aria-level="1">Precise construction estimation help</li>
+                    <li aria-level="1">Construction management services</li>
+                    <li aria-level="1">Project management services</li>
+                  </ul>
+                </div>
+              </section>
+            </div>
+            <div class='flex_column av-1mzq1k-18b41d9b5f2570a6083411d1709ce248 av_one_full  avia-builder-el-12  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
+              <div class='av-special-heading av-kylg2109-9bc13f8a59a8bf7d905b5b155e5e2cf9 av-special-heading-h2 blockquote modern-quote  avia-builder-el-13  avia-builder-el-no-sibling  '>
+                <h2 class='av-special-heading-tag ' itemprop="headline">Our Goal</h2>
+                <div class='special-heading-border'>
+                  <div class='special-heading-inner-border'></div>
+                </div>
+              </div>
+            </div>
+            <div class='flex_column av-kylg4olm-161f27d64421e9ab106b655cedc798ba av_one_full  avia-builder-el-14  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
+              <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
+                <div class='avia_textblock  ' itemprop="text">
+                  <p>We are a team of experts in construction estimation. Our goal is to provide you with the most precise information possible about your project so that you can make informed decisions about what to do next.</p>
+                  <p>We have extensive experience working with businesses of all sizes and types, from large corporations to start-ups and everything in between. We have worked on projects ranging from small residential renovations to large commercial developments, and we are among those Construction estimation companies who are passionate about helping our clients achieve their goals by providing the best possible advice for their specific needs.</p>
+                  <p>If you are looking for a professional, reliable contractor who can provide accurate estimates and honest feedback on your project, look no further than ESTIMATING. We&#8217;re ready to get started!</p>
+                </div>
+              </section>
+            </div>
+            <div class='flex_column av-1g63g8-0fdea0fb5245c0a8bf1fdb3bc5a91bd7 av_one_full  avia-builder-el-16  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
+              <div class='av-special-heading av-kylg2mf4-b4e7bce1581b3341a7be260d7dd30cdc av-special-heading-h2 blockquote modern-quote  avia-builder-el-17  avia-builder-el-no-sibling  '>
+                <h2 class='av-special-heading-tag ' itemprop="headline">Our Estimates Comprises</h2>
+                <div class='special-heading-border'>
+                  <div class='special-heading-inner-border'></div>
+                </div>
+              </div>
+            </div>
+            <div class='flex_column av-19xa34-daea76a3785a70cf36715742355ef6d4 av_one_full  avia-builder-el-18  el_after_av_one_full  el_before_av_one_half  first flex_column_div column-top-margin'>
+              <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
+                <div class='avia_textblock  ' itemprop="text">
+                  <p>At ESTIMATING, you will get the most reliable and accurate services. Precise estimation services are what get you going to win any bid. We understand its significance, which is why our skilled estimators are devoted deliver their best. They can facilitate you with the following estimation solutions to be precise with:</p>
+                </div>
+              </section>
+            </div>
+            <div class='flex_column av-xvkns-c6fc640e99fd5ca1a25e3aa704aef0dd av_one_half  avia-builder-el-20  el_after_av_one_full  el_before_av_one_half  first flex_column_div column-top-margin'>
+              <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
+                <div class='avia_textblock  ' itemprop="text">
+                  <ul>
+                    <li aria-level="1">Paint</li>
+                    <li aria-level="1">Caulking</li>
+                    <li aria-level="1">Civil estimates</li>
+                    <li aria-level="1">Masonry veneer</li>
+                    <li aria-level="1">Exterior finishes</li>
+                    <li aria-level="1">HVAC estimates</li>
+                    <li aria-level="1">Drywall estimates</li>
+                    <li aria-level="1">Flooring estimates</li>
+                    <li aria-level="1">Roofing and siding</li>
+                    <li aria-level="1">Electrical estimates</li>
+                  </ul>
+                </div>
+              </section>
+            </div>
+            <div class='flex_column av-p79ls-6a6945a88f4fc413faed54106f8659ef av_one_half  avia-builder-el-22  el_after_av_one_half  el_before_av_one_full  flex_column_div column-top-margin'>
+              <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
+                <div class='avia_textblock  ' itemprop="text">
+                  <ul>
+                    <li aria-level="1">Doors and windows</li>
+                    <li aria-level="1">Remodel estimation</li>
+                    <li aria-level="1">Insulation estimates</li>
+                    <li aria-level="1">Facade repair works</li>
+                    <li aria-level="1">Structural steelworks</li>
+                    <li aria-level="1">Preliminary Estimates</li>
+                    <li aria-level="1">Lumber and sheathing</li>
+                    <li aria-level="1">CMU and bricks estimates</li>
+                    <li aria-level="1">Concrete &#038; rebar estimates</li>
+                    <li aria-level="1">Home Construction Estimation</li>
+                  </ul>
+                </div>
+              </section>
+            </div>
+            <div class='flex_column av-kkccg-b5983c6096b9aea44b6e0c80f5cfd926 av_one_full  avia-builder-el-24  el_after_av_one_half  el_before_av_one_full  first flex_column_div column-top-margin'>
+              <div id='avia-messagebox-' class='avia_message_box av_notification av-lauo78gv-fe8a9f97258cdcc76b6e9003b333774b avia-color-red avia-size-large avia-icon_select-yes avia-border-  avia-builder-el-25  avia-builder-el-no-sibling  '><span class='avia_message_box_title'>Note</span>
+                <div class="avia_message_box_content"><span class='avia_message_box_icon' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span>
+                  <p>Our estimators are ready to help. Gear Up! More Projects are on the way! </p>
+                </div>
+              </div>
+            </div>
+            <div class='flex_column av-doxpk-4e35802fc585fc179b004a45e30752ee av_one_full  avia-builder-el-26  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
+              <div class='avia-button-wrap avia-button-center  avia-builder-el-27  avia-builder-el-no-sibling '><a href='../get-estimate/index.htm' class='avia-button av-lauojs8d-64e7164668935433b1f6a22f11d88ca6 avia-icon_select-no avia-size-x-large avia-position-center avia-color-theme-color ' target="_blank" rel="noopener noreferrer"><span class='avia_iconbox_title'>Get 50% Discount</span></a></div>
+            </div>
+            <div class='flex_column av-1597xk-e1cf2b5d210b33a47b3b0465554dda7c av_one_full  avia-builder-el-28  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
+              <div class='av-special-heading av-kylg8i1c-e0e2e00b30e202a8a11611b8bcba6622 av-special-heading-h2 blockquote modern-quote  avia-builder-el-29  avia-builder-el-no-sibling  '>
+                <h2 class='av-special-heading-tag ' itemprop="headline">Why Choose Estimation</h2>
+                <div class='special-heading-border'>
+                  <div class='special-heading-inner-border'></div>
+                </div>
+              </div>
+            </div>
+            <div class='flex_column av-v79u8-5ffb6b09ba2d4110a597a4dfc2964f3f av_one_full  avia-builder-el-30  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
+              <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
+                <div class='avia_textblock  ' itemprop="text">
+                  <p>Choosing ESTIMATING will be your wise decision to date. Our experts will give unbeatable estimations that guarantee winning bids. With more bids in your hands, you can effortlessly start more projects and expand your construction business. And the growth cycle continues.</p>
+                  <p>Our estimators are skilled in their field as they have been working in the industry for a considerable time and know exactly how to assist you in business growth. We have served clients from every field in the construction sector with precise project estimations.</p>
+                  <p>Our portfolio includes services to contractors, builders, architects, and many more in the residential, commercial and industrial sectors. Our company has evolved with technological advancement.</p>
+                  <p>Our experts will use advanced software like PlanSwift, Quest, and rest to deliver human error-free estimations. We take pride in delivering the best estimation services for all construction projects, so our clients get a smooth start.</p>
+                  <p><strong>Related Services:</strong></p>
+                  <p><a title="Outsource Estimating Services in US" href="../outsource-estimating-services/index.htm" rel="nofollow">Outsource Estimating Services</a> / <a title="Freelance Estimating Services in US" href="../freelance-estimating-services/index.htm" rel="nofollow">Freelance Estimating Services</a> / <a title="Blueprint Estimating Service in US" href="../blueprint-estimating/index.htm" rel="nofollow">Blueprint Estimating Services</a> / <a title="Xactimate Estimating Service in US" href="../xactimate-estimating-services/index.htm" rel="nofollow">Xactimate Estimating Services</a></p>
+                </div>
+              </section>
+            </div>
+            <div class='flex_column av-8acb4-d220f64669249620b46fca47a1de5cf3 av_one_full  avia-builder-el-32  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
+              <div class='av-special-heading av-kylgd5to-16bab8e2e650b38ac8e34acf5e483337 av-special-heading-h2 blockquote modern-quote  avia-builder-el-33  avia-builder-el-no-sibling  '>
+                <h2 class='av-special-heading-tag ' itemprop="headline">FAQs</h2>
+                <div class='special-heading-border'>
+                  <div class='special-heading-inner-border'></div>
+                </div>
+              </div>
+            </div>
+            <div class='flex_column av-kylgdpam-b0b9d97e564fd81c078e3c8378f98bb6 av_one_full  avia-builder-el-34  el_after_av_one_full  avia-builder-el-last  first flex_column_div column-top-margin'>
+              <div class='togglecontainer av-kylgg0gz-5ad986dcc5f48357509d09c2b0becc5e  avia-builder-el-35  avia-builder-el-no-sibling  toggle_close_all '>
+                <section class='av_toggle_section av-kylgeb1v-5c7fd232cbb767f2ae0e4b37d365735d' itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
+                  <div role="tablist" class="single_toggle" data-tags="{All} ">
+                    <p data-fake-id='#toggle-id-1' class='toggler   ' itemprop="headline" role='tab' tabindex='0' aria-controls='toggle-id-1'>How can You Help with My Estimation?<span class="toggle_icon"><span class="vert_icon"></span><span class="hor_icon"></span></span></p>
+                    <div id='toggle-id-1' class='toggle_wrap  '>
+                      <div class='toggle_content invers-color ' itemprop="text">
+                        <p>Our expert estimators will analyze your initial drafts, rough plans, or blueprints. They will make your project estimation based on the information they will obtain from you. We deliver the best services with the surety that you will definitely win your next bid with our project estimations.</p>
+                      </div>
+                    </div>
+                  </div>
+                </section>
+                <section class='av_toggle_section av-kylgeb1v-ec0249527cf4864d980565741615baaf' itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
+                  <div role="tablist" class="single_toggle" data-tags="{All} ">
+                    <p data-fake-id='#toggle-id-2' class='toggler   ' itemprop="headline" role='tab' tabindex='0' aria-controls='toggle-id-2'>What is your expertise in the field?<span class="toggle_icon"><span class="vert_icon"></span><span class="hor_icon"></span></span></p>
+                    <div id='toggle-id-2' class='toggle_wrap  '>
+                      <div class='toggle_content invers-color ' itemprop="text">
+                        <p>We have many years of experience in the construction industry, and we have built up a reputation for providing accurate, precise estimates. You know we can meet your needs because we have a wide variety of clients. We offer a wide variety of services to suit your needs and budget.</p>
+                      </div>
+                    </div>
+                  </div>
+                </section>
+                <section class='av_toggle_section av-kylgeb1v-e47d7de90b2fc1571ea1292e24a4489a' itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
+                  <div role="tablist" class="single_toggle" data-tags="{All} ">
+                    <p data-fake-id='#toggle-id-3' class='toggler   ' itemprop="headline" role='tab' tabindex='0' aria-controls='toggle-id-3'>What Type of Construction Related Estimation Services Do you Provide?<span class="toggle_icon"><span class="vert_icon"></span><span class="hor_icon"></span></span></p>
+                    <div id='toggle-id-3' class='toggle_wrap  '>
+                      <div class='toggle_content invers-color ' itemprop="text">
+                        <p>We offer comprehensive construction estimation services for all types of projects. We can provide you with a detailed budget, design, and build cost estimates, as well as bid proposals for your projects. Our team of engineers and designers can help create the best possible estimates for any project at a competitive price.</p>
+                      </div>
+                    </div>
+                  </div>
+                </section>
+                <section class='av_toggle_section av-kylgeb1v-2836d43cd5646b563ecedc59abbac712' itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
+                  <div role="tablist" class="single_toggle" data-tags="{All} ">
+                    <p data-fake-id='#toggle-id-4' class='toggler   ' itemprop="headline" role='tab' tabindex='0' aria-controls='toggle-id-4'>How Do Your Estimators Work?<span class="toggle_icon"><span class="vert_icon"></span><span class="hor_icon"></span></span></p>
+                    <div id='toggle-id-4' class='toggle_wrap  '>
+                      <div class='toggle_content invers-color ' itemprop="text">
+                        <p>Our trained estimators, having years of expertise can plan your project cost, labor cost, material takeoff, and estimations for other required equipment needed for your construction project. You will get the best pricing and costs as they prepare every project estimation in real time, keeping exact location, local costs, and other requirements in mind. They do thorough research and consult regional contractors and suppliers to know the exact pricing.</p>
+                      </div>
+                    </div>
+                  </div>
+                </section>
+                <section class='av_toggle_section av-kylgeb1v-cd73703c22c6f5bfef14360e9151dc3f' itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
+                  <div role="tablist" class="single_toggle" data-tags="{All} ">
+                    <p data-fake-id='#toggle-id-5' class='toggler   ' itemprop="headline" role='tab' tabindex='0' aria-controls='toggle-id-5'>Why Estimating is different than the rest?<span class="toggle_icon"><span class="vert_icon"></span><span class="hor_icon"></span></span></p>
+                    <div id='toggle-id-5' class='toggle_wrap  '>
+                      <div class='toggle_content invers-color ' itemprop="text">
+                        <p>We take pride in serving a large number of clients all across the USA with extensive industry knowledge. Our expertise comprises over two long decades. We facilitate our clients to save some time out of their busy schedules while our expert will ensure accuracy and perfection to win their next bid. Along with cost estimation services, we can also facilitate you with cost analysis and also managing your project seamlessly.</p>
+                      </div>
+                    </div>
+                  </div>
+                </section>
+              </div>
+            </div>
+          </div>
+        </div>
+      </main>
+      <?php include('../include/our-main-services.php') ?>
+    </div>
+  </div>
+  <?php include('../footer-1.php') ?>

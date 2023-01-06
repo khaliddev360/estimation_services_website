@@ -1,0 +1,208 @@
+﻿<?php include('../header-1.php') ?>
+<div id='main' class='all_colors' data-scroll-offset='88'>
+  <div class='main_color container_wrap_first container_wrap sidebar_right'>
+    <div class='container av-section-cont-open'>
+      <main role="main" itemprop="mainContentOfPage" class='template-page content  av-content-small alpha units'>
+        <div class='post-entry post-entry-type-page post-entry-1013'>
+          <div class='entry-content-wrapper clearfix'>
+            <div class='flex_column av-xnwphx-c14c0a48eca35aed09bf227510ecdf1d av_one_full  avia-builder-el-0  el_before_av_one_full  avia-builder-el-first  first flex_column_div '>
+              <div class='av-special-heading av-kzwas42z-d04f2a01ba3b56602c2fcff2c9191484 av-special-heading-h1 blockquote modern-quote  avia-builder-el-1  avia-builder-el-no-sibling  '>
+                <h1 class='av-special-heading-tag ' itemprop="headline">Construction Takeoff Services</h1>
+                <div class='special-heading-border'>
+                  <div class='special-heading-inner-border'></div>
+                </div>
+              </div>
+            </div>
+            <div class='flex_column av-kzwasdji-6af38e9b9738e297e03fc48648adc4e4 av_one_full  avia-builder-el-2  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
+              <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
+                <div class='avia_textblock  ' itemprop="text">
+                  <p>Rome didn&#8217;t build in a day. Likewise, for any building construction, you need to take care of a lot of things and costs. Being a busy contractor, you might be working on many different tasks simultaneously and could have missed many bids that can be a breakthrough in your career. If so, that will not be the case anymore with us! ESTIMATING is a construction and &#8220;<strong>takeoff services&#8221;</strong> provider, offering the most precise construction and takeoffs at the most affordable rates. We are committed to providing you with the best possible &#8220;construction takeoff services&#8221;.</p>
+                  <p><img decoding="async" class="size-full wp-image-1546 alignleft" style="margin-right: 20px;" src="../asset-1/uploads/2022/08/CONSTRUCTION-TAKEOFF-SERVICES.png" alt="Construction Estimating Services" width="416" height="205">We have a team of highly-experienced professionals who are well trained in handling all kinds of construction takeoff work. Our team members are skilled in handling all types of projects, including commercial, residential and industrial buildings. They can provide you with all kinds of building materials required for your project at an affordable price. Our bid winning ratio is 99%, which means there is no risk when you hire us for your next construction project. Our turnaround time is quick, and we offer refunds if you are not happy with our work. Our team is qualified and experienced, so you can be sure that they will deliver what you want from the project at hand.</p>
+                </div>
+              </section>
+            </div>
+            <div class='flex_column av-5hy7zp-27904ce618f290fc45146b5f4f2fa4d1 av_one_full  avia-builder-el-4  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
+              <div id='avia-messagebox-' class='avia_message_box av_notification av-kzzg6g1g-f43334c6fe76872fd6db7a4370cc6a28 avia-color-red avia-size-large avia-icon_select-yes avia-border-  avia-builder-el-5  avia-builder-el-no-sibling  '><span class='avia_message_box_title'>Note</span>
+                <div class="avia_message_box_content"><span class='avia_message_box_icon' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span>
+                  <p>Get our professional services for precise construction takeoffs and win your next bid!</p>
+                </div>
+              </div>
+            </div>
+            <div class='flex_column av-45yomt-e3627bce94697e3559e2fb4d275d3313 av_one_full  avia-builder-el-6  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
+              <section class="avia_codeblock_section  avia_code_block_0" itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
+                <div class='avia_codeblock ' itemprop="text">
+                  <center> <a class="paoc-popup-click paoc-popup-cust-816 paoc-popup-button paoc-popup-btn subpages_btn" href="javascript:void(0);">Upload Plans</a> </center>
+                </div>
+              </section>
+            </div>
+            <div class='flex_column av-sphb7p-3929ecf592ccad177e1cd05dafb6925d av_one_full  avia-builder-el-8  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
+              <div class='av-special-heading av-kzwatlyp-c83cb86c2c11b49e874274b3cf03c92a av-special-heading-h2 blockquote modern-quote  avia-builder-el-9  avia-builder-el-no-sibling  '>
+                <h2 class='av-special-heading-tag ' itemprop="headline">What Do Our Construction Takeoff services Include?</h2>
+                <div class='special-heading-border'>
+                  <div class='special-heading-inner-border'></div>
+                </div>
+              </div>
+            </div>
+            <div class='flex_column av-kzwauc8b-0a4d539dc488d95889269a435e109d94 av_one_full  avia-builder-el-10  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
+              <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
+                <div class='avia_textblock  ' itemprop="text">
+                  <p>When you&#8217;re looking for a place to takeoff your home or commercial site, there are many factors to consider. You want someone who&#8217;s qualified and experienced, and who can give you an accurate quote right away. You need someone who will work with you on revisions until you&#8217;re satisfied. And above all else, you need someone who&#8217;s going to be easy to work with—someone who&#8217;ll make sure that the process goes smoothly and quickly, without any surprises or hassles.</p>
+                  <p> ESTIMATING is a reliable and precise &#8220;<strong>Construction Takeoff Services&#8221;</strong> provider. We offer our services at a very affordable price. Our experience in this field enables us to provide the best services for you.</p>
+                  <ul>
+                    <li aria-level="1">Material Takeoff</li>
+                    <li aria-level="1">Lumber takeoffs</li>
+                    <li aria-level="1">Profit percentage</li>
+                    <li aria-level="1">Taxes List</li>
+                    <li aria-level="1">Material lists</li>
+                  </ul>
+                </div>
+              </section>
+            </div>
+            <div class='flex_column av-ratys5-d74d2fa4892c87f76caa227d9391089c av_one_full  avia-builder-el-12  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
+              <div class='av-special-heading av-kzwaur9j-73177fafcc9d9ba261c4c62550c280e5 av-special-heading-h2 blockquote modern-quote  avia-builder-el-13  avia-builder-el-no-sibling  '>
+                <h2 class='av-special-heading-tag ' itemprop="headline">How Will Our Estimators Process Your Construction Projects?</h2>
+                <div class='special-heading-border'>
+                  <div class='special-heading-inner-border'></div>
+                </div>
+              </div>
+            </div>
+            <div class='flex_column av-2l0cwl-449fb8aa72d5d4c310b5afbdf7ce83d5 av_one_full  avia-builder-el-14  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
+              <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
+                <div class='avia_textblock  ' itemprop="text">
+                  <p>We are Estimators, a company that has been in the market for over 2 decades. So, we know the construction industry inside out. We have a team of qualified and experienced who can help you get your job done.</p>
+                  <p>We know what it takes to get a project started on time and right, so we have made sure that all our clients are satisfied with our services. Our <a href="../quantity-surveyor-services/index.htm" target="_blank" rel="noopener"><strong>Quantity Takeoff Services</strong></a> professional work on your project takeoff on the following framework:</p>
+                  <p><b>1) Site Inspection: </b>This is done by our experts before they start working on the site to identify any issues or repair them if required. This helps save time and money as well as ensures that everything goes smoothly during construction work.</p>
+                  <p><b>2) Project Analysis: </b>After having your blueprints, initial plan, and other relevant data, our experts will critically evaluate the project scope, material requirement, labor cost, and local pricing. So they can come up with the most accurate and error-free estimation for the &#8220;<strong>material takeoff&#8221;</strong> of your construction project. Accuracy in material takeoff is critical for providing an accurate takeoff of a project. Our estimators are skilled in reading blueprints even if it&#8217;s incomplete and give perfect item quantities from the initial plans.</p>
+                  <p><b>3) Takeoff:</b> Our experts will prepare takeoff of any project, either residential or commercial after careful analysis of your blueprints so that you don&#8217;t have to worry about getting started with your construction work or leaving it amidst the developmental phase. Our experts also ensure that no stone is left unturned while critically examining your project&#8217;s &#8220;<b>takeoff construction&#8221;</b>. so that it doesn&#8217;t pose any problem to anyone around it during construction.</p>
+                </div>
+              </section>
+            </div>
+            <div class='flex_column av-lg0swl-484f582f7e3a9b049872273f0477abe0 av_one_full  avia-builder-el-16  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
+              <div class='av-special-heading av-kzwawv4p-15c176dfa120c6da686c9af02ef45d09 av-special-heading-h2 blockquote modern-quote  avia-builder-el-17  avia-builder-el-no-sibling  '>
+                <h2 class='av-special-heading-tag ' itemprop="headline">Our Portfolio Consist of the Following Clients:</h2>
+                <div class='special-heading-border'>
+                  <div class='special-heading-inner-border'></div>
+                </div>
+              </div>
+            </div>
+            <div class='flex_column av-jsn8qt-b1a3a94e51455749b7b1be443c2ab38d av_one_full  avia-builder-el-18  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
+              <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
+                <div class='avia_textblock  ' itemprop="text">
+                  <p>Our skilled professionals have served countless clients in the following fields all across the United States:</p>
+                  <ul>
+                    <li aria-level="1">Developers</li>
+                    <li aria-level="1">Vendors</li>
+                    <li aria-level="1">Owners</li>
+                    <li aria-level="1">Investors</li>
+                    <li aria-level="1">Subcontractors</li>
+                    <li aria-level="1">Engineering Firms</li>
+                    <li aria-level="1">Architectural Firms</li>
+                    <li aria-level="1">General Contracting Corporations</li>
+                  </ul>
+                </div>
+              </section>
+            </div>
+            <div class='flex_column av-2pv979-33f8736ab7a4d8252b54e914c5cbdde0 av_one_full  avia-builder-el-20  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
+              <div class='av-special-heading av-lauru8d0-a28d6645f0079bc3ea2fbc8b6342d20c av-special-heading-h2 blockquote modern-quote  avia-builder-el-21  avia-builder-el-no-sibling  '>
+                <h2 class='av-special-heading-tag ' itemprop="headline">What Type of Software Do Our Professionals Use?</h2>
+                <div class='special-heading-border'>
+                  <div class='special-heading-inner-border'></div>
+                </div>
+              </div>
+            </div>
+            <div class='flex_column av-kzway1zl-125f31853a63e40a0c14fd0a530f5170 av_one_full  avia-builder-el-22  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
+              <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
+                <div class='avia_textblock  ' itemprop="text">
+                  <p>Using Advanced software not only sped up the entire take off process for the clients but also gives the advantage of providing the most accurate quantities. At ESTIMATING, our professionals use the following &#8220;<strong>blueprint takeoff&#8221; </strong>software.</p>
+                  <ul>
+                    <li aria-level="1">Bluebeam</li>
+                    <li aria-level="1">Planswift</li>
+                    <li aria-level="1">Xactimate</li>
+                    <li aria-level="1">FastDUCT</li>
+                    <li aria-level="1">RS Means</li>
+                    <li aria-level="1">Cost Works</li>
+                    <li aria-level="1">Fast WRAP</li>
+                    <li aria-level="1">Quest Estimating</li>
+                  </ul>
+                  <p><strong>Related Services: </strong><br> <a title="Material Takeoff Services in US" href="https://https://estimating.com/material-takeoff-services//" rel="nofollow">Material Takeoff Services</a> / <a title="Quantity Takeoff Services in US" href="../quantity-takeoff-services/index.htm" rel="nofollow">Quantity Takeoff Services</a></p>
+                </div>
+              </section>
+            </div>
+            <div class='flex_column av-6529p1-c6c9275ce4dbfc54792fc9f5bfbe6222 av_one_full  avia-builder-el-24  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
+              <div id='avia-messagebox-' class='avia_message_box av_notification av-kzzgaqr4-6e9ae72ef0610f3c9d9928d578ad5ff3 avia-color-red avia-size-large avia-icon_select-yes avia-border-  avia-builder-el-25  avia-builder-el-no-sibling  '><span class='avia_message_box_title'>Note</span>
+                <div class="avia_message_box_content"><span class='avia_message_box_icon' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span>
+                  <p> Estimating is the Most Reliable Solution for Construction<br> Takeoff and estimations!</p>
+                </div>
+              </div>
+            </div>
+            <div class='flex_column av-40g7kl-c3b0c7db8f576ddfd89c0f4a73647179 av_one_full  avia-builder-el-26  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
+              <div class='avia-button-wrap avia-button-center  avia-builder-el-27  avia-builder-el-no-sibling '><a href='../get-estimate/index.htm' class='avia-button av-lauryp2u-c72433a79b5260bf06509239a3405ced avia-icon_select-no avia-size-x-large avia-position-center avia-color-theme-color ' target="_blank" rel="noopener noreferrer"><span class='avia_iconbox_title'>Get 50% Discount</span></a></div>
+            </div>
+            <div class='flex_column av-h4avmt-4cd528961c14da8023ba899400686f91 av_one_full  avia-builder-el-28  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
+              <div class='av-special-heading av-kzwb0inq-f0d2eb330753a02b09fe12fc1fcb4bc4 av-special-heading-h2 blockquote modern-quote  avia-builder-el-29  el_before_av_toggle_container  avia-builder-el-first  '>
+                <h2 class='av-special-heading-tag ' itemprop="headline">FAQs: </h2>
+                <div class='special-heading-border'>
+                  <div class='special-heading-inner-border'></div>
+                </div>
+              </div>
+              <div class='togglecontainer av-laurxww2-171a102c72f9d8d3157bd66f977c5b1d  avia-builder-el-30  el_after_av_heading  avia-builder-el-last  toggle_close_all '>
+                <section class='av_toggle_section av-laurwzdw-5fb95747d3852430a35521741aa2cf50' itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
+                  <div role="tablist" class="single_toggle" data-tags="{All} ">
+                    <p data-fake-id='#toggle-id-1' class='toggler   ' itemprop="headline" role='tab' tabindex='0' aria-controls='toggle-id-1'>What is the accuracy of your takeoff ?<span class="toggle_icon"><span class="vert_icon"></span><span class="hor_icon"></span></span></p>
+                    <div id='toggle-id-1' class='toggle_wrap  '>
+                      <div class='toggle_content invers-color ' itemprop="text">
+                        <p>Our professionals provide the most accurate and effective <strong>construction takeoff</strong> <strong>services</strong>. We are able to guarantee the accuracy of our takeoffs by using the most up-to-date software in conjunction with a building takeoff database that is organized according to zip code.</p>
+                      </div>
+                    </div>
+                  </div>
+                </section>
+                <section class='av_toggle_section av-laurx7cv-cc7ec8338e54c174369e5813035fe38e' itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
+                  <div role="tablist" class="single_toggle" data-tags="{All} ">
+                    <p data-fake-id='#toggle-id-2' class='toggler   ' itemprop="headline" role='tab' tabindex='0' aria-controls='toggle-id-2'>How Strong is your bid-to-hit ratio?<span class="toggle_icon"><span class="vert_icon"></span><span class="hor_icon"></span></span></p>
+                    <div id='toggle-id-2' class='toggle_wrap  '>
+                      <div class='toggle_content invers-color ' itemprop="text">
+                        <p>According to the bid data from our previous contractors, the percentage of our takeoffs that are successful in bidding is more than 92%.</p>
+                      </div>
+                    </div>
+                  </div>
+                </section>
+                <section class='av_toggle_section av-laurxfuy-439ab12cd198f9ffd0e267e5cb7daee1' itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
+                  <div role="tablist" class="single_toggle" data-tags="{All} ">
+                    <p data-fake-id='#toggle-id-3' class='toggler   ' itemprop="headline" role='tab' tabindex='0' aria-controls='toggle-id-3'>What is your turnaround time?<span class="toggle_icon"><span class="vert_icon"></span><span class="hor_icon"></span></span></p>
+                    <div id='toggle-id-3' class='toggle_wrap  '>
+                      <div class='toggle_content invers-color ' itemprop="text">
+                        <p>We have a team of highly skilled and experienced professionals. As reported by our group. It is made up of professionals in the construction industry, such as construction managers, engineers, field experts. We deliver the quickest possible response time. We provide takeoff services and quantity takeoffs for the construction industry within a quick response time of about 24 to 48 hours</p>
+                      </div>
+                    </div>
+                  </div>
+                </section>
+                <section class='av_toggle_section av-laurxnvx-6326bc26a6f27508ea8df531872e530a' itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
+                  <div role="tablist" class="single_toggle" data-tags="{All} ">
+                    <p data-fake-id='#toggle-id-4' class='toggler   ' itemprop="headline" role='tab' tabindex='0' aria-controls='toggle-id-4'>Do You have Accredited Estimators?<span class="toggle_icon"><span class="vert_icon"></span><span class="hor_icon"></span></span></p>
+                    <div id='toggle-id-4' class='toggle_wrap  '>
+                      <div class='toggle_content invers-color ' itemprop="text">
+                        <p>Our group includes a very diverse assortment of building takeoffs. Every single one of them has legitimate accreditations in addition to years of expertise. In addition to this, they are experts in the use of a variety of construction takeoff software. Software programs such as Plan quick, Bluebeam, Trimble, Accubid, RS Means are included in this category.</p>
+                      </div>
+                    </div>
+                  </div>
+                </section>
+                <section class='av_toggle_section av-laurxw65-9ab64d92699b4b6b77f0403223c0d555' itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
+                  <div role="tablist" class="single_toggle" data-tags="{All} ">
+                    <p data-fake-id='#toggle-id-5' class='toggler   ' itemprop="headline" role='tab' tabindex='0' aria-controls='toggle-id-5'>How do your customers’ services work?<span class="toggle_icon"><span class="vert_icon"></span><span class="hor_icon"></span></span></p>
+                    <div id='toggle-id-5' class='toggle_wrap  '>
+                      <div class='toggle_content invers-color ' itemprop="text">
+                        <p>We offer help for our valued customers around the clock. To better serve you, we make our customer support team accessible around the clock, seven days a week.</p>
+                      </div>
+                    </div>
+                  </div>
+                </section>
+              </div>
+            </div>
+            <div class='flex_column av-foavnp-d9b8bab35226770a6e45f97ea49eaee0 av_one_full  avia-builder-el-31  el_after_av_one_full  avia-builder-el-last  first flex_column_div column-top-margin'></div>
+          </div>
+        </div>
+      </main>
+      <?php include('../include/our-main-services.php') ?>
+    </div>
+  </div>
+  <?php include('../footer-1.php') ?>

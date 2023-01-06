@@ -1,0 +1,14 @@
+#top .av-default-style .av-countdown-cell-inner {
+    border-style: solid;
+    border-width: 1px;
+    margin: 2px;
+    color: RED;
+}
+
+span.av-countdown-cell.av-countdown-seconds span {
+    color: #fff !important;
+}
+
+.av-countdown-active.av-countdown-timer {
+    opacity: 1;
+}
