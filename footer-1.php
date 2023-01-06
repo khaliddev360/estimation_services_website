@@ -86,22 +86,7 @@
                      <div style="text-align: center;">
                          <h3 style="line-height: 1.5;">Give Us A Call</h3>
                          <h2 style="line-height: 1.5;"><a href="tel:+1 (917) 983-4975">+1 (917) 983-4975</a></h2>
-                         <h3 style="line-height: 1.5;">or</h3>
-                     </div>
-                     <div class='avia-button-wrap avia-button-center '>
-                         <style type="text/css" id="style-css-av-av_button-c393601c12440da9c43bec871ad5e629">
-                             #top #wrap_all .avia-button.av-av_button-c393601c12440da9c43bec871ad5e629 {
-                                 background-color: #084702;
-                                 border-color: #084702;
-                                 color: #ffffff;
-                                 transition: all 0.4s ease-in-out;
-                                 -webkit-transition: all 0.4s ease-in-out;
-                                 -moz-transition: all 0.4s ease-in-out;
-                                 -ms-transition: all 0.4s ease-in-out;
-                                 -o-transition: all 0.4s ease-in-out;
-                             }
-                         </style>
-                         <a href='../contact-us.php' class='avia-button av-av_button-c393601c12440da9c43bec871ad5e629 avia-icon_select-no avia-size-x-large avia-position-center '><span class='avia_iconbox_title'>GET A QUOTE</span></a>
+
                      </div>
                  </div>
                  <span class="seperator extralight-border"></span>
