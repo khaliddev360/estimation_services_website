@@ -36495,9 +36495,9 @@ div .main_color .button,
 .main_color .av-colored-style .av-countdown-cell-inner,
 .responsive #top .main_color .av-open-submenu.av-subnav-menu>li>a:hover,
 #top .main_color .av-open-submenu.av-subnav-menu li>ul a:hover {
-    background-color: #000;
+    background-color: #00a2b4;
     color: #fff;
-    border-color: #000
+    border-color: #00a2b4
 }
 
 #top #wrap_all .main_color .av-menu-button-colored>a .avia-menu-text {
@@ -38353,7 +38353,7 @@ span.toggle_icon {
 
 a.prev-slide,
 a.next-slide {
-    background: #008092
+    background: #ff9c00
 }
 
 span.hor_icon,
