@@ -246,6 +246,8 @@
     align-items: normal !important
 }
 
+
+
 @media (min-width:782px) {
     .wp-block-columns {
         flex-wrap: nowrap !important
@@ -28391,6 +28393,8 @@ div .avia-table {
     }
 }
 
+
+
 .avia-testimonial {
     border-right-style: dashed;
     border-right-width: 1px;
@@ -30158,6 +30162,7 @@ body .flex_column.avia-link-column.avia-link-column-hover:hover {
 
 .avia-section.av-minimum-height .container {
     display: table;
+    opacity: 1;
     table-layout: fixed
 }
 
@@ -38702,7 +38707,7 @@ span.avia_button_icon.avia_button_icon_left {
 
 .avia-section.av-kxhe4wro-18df39bfb8bc84c28b4a83b6752adfaf .av-parallax .av-parallax-inner {
     background-repeat: no-repeat;
-    background-image: url(https://nedesestimating.com/wp-content/uploads/2021/12/parallax1.jpg);
+    background-image: url(../../../uploads/2021/12/background.jpg);
     background-position: top center;
     background-attachment: scroll
 }
@@ -38869,7 +38874,7 @@ span.avia_button_icon.avia_button_icon_left {
 
 .avia-section.av-2hbfy-aa325cc856211b462713dd540d9cade2 .av-parallax .av-parallax-inner {
     background-repeat: no-repeat;
-    background-image: url(https://nedesestimating.com/wp-content/uploads/2021/12/work-bg.jpg.webp);
+    background-image: url(../../../uploads/2021/12/background.jpg);
     background-position: top center;
     background-attachment: scroll
 }

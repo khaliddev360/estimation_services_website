@@ -978,6 +978,21 @@ body .is-layout-flex>* {
     background-image: url(../asset-1/plugins/site-reviews/assets/images/star-full.svg) !important
 }
 
+.avia-section.av-minimum-height .container {
+    opacity: 1;
+}
+.avia-section.av-minimum-height .container{opacity: 1; }
+.av-minimum-height-100 .container, .avia-fullscreen-slider .avia-slideshow, #top.avia-blank .av-minimum-height-100 .container, .av-cell-min-height-100 > .flex_cell{height:389px;}
+.av-minimum-height-25 .container, .av-cell-min-height-25 > .flex_cell	{height:97px;}
+.av-minimum-height-50 .container, .av-cell-min-height-50 > .flex_cell	{height:195px;}
+.av-minimum-height-75 .container, .av-cell-min-height-75 > .flex_cell	{height:292px;}
+.av-minimum-height-35 .container, .av-cell-min-height-35 > .flex_cell	{height:136px;}
+.avia-builder-el-0.av-minimum-height-100 .container, .avia-builder-el-0.avia-fullscreen-slider .avia-slideshow, .avia-builder-el-0.av-cell-min-height-100 > .flex_cell{height:308px;}
+#top .av-solo-full .avia-slideshow {min-height:0px;}
+#top .av-element-cover iframe, #top .av-element-cover embed, #top .av-element-cover object, #top .av-element-cover video{height:810px; top: -210.5px;}
+#top .avia-builder-el-0 .av-element-cover iframe, #top .avia-builder-el-0 .av-element-cover embed, #top .avia-builder-el-0 .av-element-cover object, #top .avia-builder-el-0 .av-element-cover video{height:810px; top: -251px;}
+
+
 
 
 

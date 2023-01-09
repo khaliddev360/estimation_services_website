@@ -677,6 +677,10 @@
      display: none !important;
  }
 
+ .avia-section.av-minimum-height .container {
+     opacity: 1;
+ }
+
  
    
 

@@ -17,6 +17,7 @@
     <link rel="stylesheet" href="asset-1/cache/min/1/6574745356116e42003212d261325b37.css" media="all" data-minify="1">
     <link rel="stylesheet" href="include/header.css" media="all" data-minify="1">
     <link rel="stylesheet" href="include/footer.css" media="all" data-minify="1">
+    <link rel="stylesheet" href="include/footer.css" media="all" data-minify="1">
     <meta name="description" content=" is an established, prominent company which is providing the Construction Estimating and Material Takeoff Services for their clients.">
     <link rel="canonical" href="index.php">
     <meta property="og:locale" content="en_US">
@@ -47,6 +48,64 @@
     <link rel="pingback" href="https://estimating/xmlrpc.php">
     <!--[if lt IE 9]><script src="https://estimating/asset-1/themes/enfold/js/html5shiv.js"></script><![endif]-->
     <link rel="icon" href="logo/logo-1.png" type="image/x-icon">
+    <style type="text/css" id="av-browser-height">
+        .avia-section.av-minimum-height .container {
+            opacity: 1;
+        }
+
+        .av-minimum-height-100 .container,
+        .avia-fullscreen-slider .avia-slideshow,
+        #top.avia-blank .av-minimum-height-100 .container,
+        .av-cell-min-height-100>.flex_cell {
+            height: 389px;
+        }
+
+        .av-minimum-height-25 .container,
+        .av-cell-min-height-25>.flex_cell {
+            height: 97px;
+        }
+
+        .av-minimum-height-50 .container,
+        .av-cell-min-height-50>.flex_cell {
+            height: 195px;
+        }
+
+        .av-minimum-height-75 .container,
+        .av-cell-min-height-75>.flex_cell {
+            height: 292px;
+        }
+
+        .av-minimum-height-35 .container,
+        .av-cell-min-height-35>.flex_cell {
+            height: 136px;
+        }
+
+        .avia-builder-el-0.av-minimum-height-100 .container,
+        .avia-builder-el-0.avia-fullscreen-slider .avia-slideshow,
+        .avia-builder-el-0.av-cell-min-height-100>.flex_cell {
+            height: 308px;
+        }
+
+        #top .av-solo-full .avia-slideshow {
+            min-height: 0px;
+        }
+
+        #top .av-element-cover iframe,
+        #top .av-element-cover embed,
+        #top .av-element-cover object,
+        #top .av-element-cover video {
+            height: 810px;
+            top: -210.5px;
+        }
+
+        #top .avia-builder-el-0 .av-element-cover iframe,
+        #top .avia-builder-el-0 .av-element-cover embed,
+        #top .avia-builder-el-0 .av-element-cover object,
+        #top .avia-builder-el-0 .av-element-cover video {
+            height: 810px;
+            top: -251px;
+        }
+    </style>
     <script type="8812578fd72693437226d69d-text/javascript">
         if (navigator.userAgent.match(/MSIE|Internet Explorer/i) || navigator.userAgent.match(/Trident\/7\..*?rv:11/i)) {
             var href = document.location.href;
@@ -481,6 +540,8 @@ s.parentNode.insertBefore(t,s)}(window, document,'script',
 fbq('init', '746747216368269');
 fbq('track', 'PageView');
 </script> <noscript><img height="1" width="1" style="display:none" src="tr?id=746747216368269&ev=PageView&noscript=1"></noscript>
+
+
 </head>
 
 <body id="top" class="home page-template-default page page-id-14  rtl_columns stretched pt_sans avia-responsive-images-support" itemscope="itemscope" itemtype="https://schema.org/WebPage"> <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">

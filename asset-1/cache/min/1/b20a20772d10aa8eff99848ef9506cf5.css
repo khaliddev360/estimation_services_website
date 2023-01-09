@@ -30154,6 +30154,7 @@ body .flex_column.avia-link-column.avia-link-column-hover:hover {
 
 .avia-section.av-minimum-height .container {
     display: table;
+    opacity: 1;
     table-layout: fixed
 }
 
