@@ -4,7 +4,7 @@
     <div class='container template-blog template-single-blog '>
       <main class='content units av-content-small alpha ' role="main" itemscope="itemscope" itemtype="https://schema.org/Blog">
         <article class='post-entry post-entry-type-standard post-entry-1925 post-loop-1 post-parity-odd post-entry-last single-big with-slider post-1925 post type-post status-publish format-standard has-post-thumbnail hentry category-blog tag-construction tag-construction-estimating-companies tag-estimating-in-usa tag-estimators tag-usa-estimators' itemscope="itemscope" itemtype="https://schema.org/BlogPosting" itemprop="blogPost">
-          <div class="big-preview single-big" itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject"><a href="../asset-1/uploads/2022/12/9.jpg" title="Construction cost Estimators"><img width="612" height="321" src="../asset-1/uploads/2022/12/9-612x321.jpg" class="wp-image-1927 avia-img-lazy-loading-1927 attachment-entry_with_sidebar size-entry_with_sidebar wp-post-image" alt="Construction cost Estimators" decoding="async"></a></div>
+          <div class="big-preview single-big" itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject"><a href="../asset-1/uploads/2022/01/xactimate.jpg" title="Construction cost Estimators"><img width="612" height="321" src="../asset-1/uploads/2022/01/xactimate.jpg" class="wp-image-1927 avia-img-lazy-loading-1927 attachment-entry_with_sidebar size-entry_with_sidebar wp-post-image" alt="Construction cost Estimators" decoding="async"></a></div>
           <div class='blog-meta'></div>
           <div class='entry-content-wrapper clearfix standard-content'>
             <header class="entry-content-header">

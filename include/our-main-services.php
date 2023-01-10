@@ -30,7 +30,7 @@
              </div> <span class="seperator extralight-border"></span>
          </section>
          <section id="media_image-2" class="widget clearfix widget_media_image">
-             <h3 class="widgettitle">Current Offers</h3><a href="../get-estimate.php"><img width="500" height="500" src="../asset-1/uploads/2022/12/Untitled-1-1.png" class="image wp-image-1884  attachment-full size-full" alt="" decoding="async" style="max-width: 100%; height: auto;"></a><span class="seperator extralight-border"></span>
+             <h3 class="widgettitle">Current Offers</h3><a href="../get-estimate.php"><img width="500" height="500" src="../asset-1/uploads/2022/12/poster.png" class="image wp-image-1884  attachment-full size-full" alt="" decoding="async" style="max-width: 100%; height: auto;"></a><span class="seperator extralight-border"></span>
          </section>
      </div>
  </aside>

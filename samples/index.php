@@ -16,7 +16,7 @@
             <div class='flex_column av-1e7fkt-0f9c8ea70fd24f3f9aab6fb681a0aca9 av_one_fourth  avia-builder-el-2  el_after_av_one_full  el_before_av_one_fourth  first flex_column_div column-top-margin'>
               <div class='avia-image-container av-19h1bh-932146b47da33a3ed563b11eacae348c av-styling- avia-align-center  avia-builder-el-3  el_before_av_heading  avia-builder-el-first  ' itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
                 <div class="avia-image-container-inner">
-                  <div class="avia-image-overlay-wrap"><img decoding="async" class='wp-image-589 avia-img-lazy-loading-not-589 avia_image' src="../asset-1/uploads/2022/02/MEP1.png" alt='MEP Estimating Sample' title='MEP Estimating Sample' height="170" width="170" itemprop="thumbnailUrl"></div>
+                  <div class="avia-image-overlay-wrap"><img decoding="async" style="width: 170px;height:170px; border-radius:50%" class='wp-image-589 avia-img-lazy-loading-not-589 avia_image' src="../asset-1/uploads/2022/01/blueprint.jpg" alt='MEP Estimating Sample' title='MEP Estimating Sample' height="170" width="170" itemprop="thumbnailUrl"></div>
                 </div>
               </div>
               <div class='av-special-heading av-2dis3h-b68209a594775f34d2ea6bf45c475095 av-special-heading-h3 blockquote modern-quote modern-centered  avia-builder-el-4  el_after_av_image  el_before_av_button  '>
@@ -30,7 +30,7 @@
             <div class='flex_column av-1n88h9-9a21bc39bb2c3f369feac538f10df040 av_one_fourth  avia-builder-el-6  el_after_av_one_fourth  el_before_av_one_fourth  flex_column_div column-top-margin'>
               <div class='avia-image-container av-1dzo99-8b5a2dccaecf30344955d98ca6fb8528 av-styling- avia-align-center  avia-builder-el-7  el_before_av_heading  avia-builder-el-first  ' itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
                 <div class="avia-image-container-inner">
-                  <div class="avia-image-overlay-wrap"><img decoding="async" class='wp-image-596 avia-img-lazy-loading-not-596 avia_image' src="../asset-1/uploads/2022/02/Mechanical-Estimating-Sample.png" alt='Mechanical Estimating Sample' title='Mechanical-Estimating-Sample' height="170" width="170" itemprop="thumbnailUrl"></div>
+                  <div class="avia-image-overlay-wrap"><img decoding="async" class='wp-image-596 avia-img-lazy-loading-not-596 avia_image' style="width: 170px;height:170px; border-radius:50%" src="../asset-1/uploads/2022/01/electrical.jpg" alt='Mechanical Estimating Sample' title='Mechanical-Estimating-Sample' height="170" width="170" itemprop="thumbnailUrl"></div>
                 </div>
               </div>
               <div class='av-special-heading av-kz89ot6c-d413d7d71f26c9b1722203302d8e4798 av-special-heading-h3 blockquote modern-quote modern-centered  avia-builder-el-8  el_after_av_image  el_before_av_button  '>

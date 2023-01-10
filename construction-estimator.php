@@ -16,7 +16,7 @@
             <div class='flex_column av-kznyk3v2-1340d74526ea31aada0769364a922dc9 av_one_full  avia-builder-el-2  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
               <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                 <div class='avia_textblock  ' itemprop="text">
-                  <p><img decoding="async" class="size-full wp-image-1556 alignleft" style="margin-right: 20px;" src="asset-1/uploads/2022/08/CONSTRUCTION-Estimator.png" alt="Construction Estimator" width="416" height="205">Our professional construction estimators are the best in the business, and they&#8217;re ready to help you win bids for every project. You&#8217;ve got a great idea for a new building, but you&#8217;re worried that your plans will be too expensive to build.<br>
+                  <p><img decoding="async" class="size-full wp-image-1556 alignleft" style="margin-right: 20px;" src="asset-1/uploads/2022/01/construction.jpg" alt="Construction Estimator" width="416" height="205">Our professional construction estimators are the best in the business, and they&#8217;re ready to help you win bids for every project. You&#8217;ve got a great idea for a new building, but you&#8217;re worried that your plans will be too expensive to build.<br>
                     We can help! We&#8217;re experts at finding the right materials and equipment so that your project is everything you want it to be. Our<strong> <a href="cost-estimating-services/index.htm" target="_blank" rel="noopener">cost estimation services</a></strong> will work best for you so that every part of the process is on time, on budget, and done properly.</p>
                 </div>
               </section>

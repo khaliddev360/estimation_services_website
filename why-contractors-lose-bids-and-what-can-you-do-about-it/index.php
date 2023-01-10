@@ -4,7 +4,7 @@
 		<div class='container template-blog template-single-blog '>
 			<main class='content units av-content-small alpha ' role="main" itemscope="itemscope" itemtype="https://schema.org/Blog">
 				<article class='post-entry post-entry-type-standard post-entry-1898 post-loop-1 post-parity-odd post-entry-last single-big with-slider post-1898 post type-post status-publish format-standard has-post-thumbnail hentry category-blog tag-construction-estimating-services-in-usa tag-construction-estimator tag-construction-estimator-in-us' itemscope="itemscope" itemtype="https://schema.org/BlogPosting" itemprop="blogPost">
-					<div class="big-preview single-big" itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject"><a href="../asset-1/uploads/2022/12/28-1.jpg" data-sizes="(max-width: 612px) 100vw, 612px" title="construction estimating services in USA"><img width="612" height="321" src="../asset-1/uploads/2022/12/28-1-612x321.jpg" class="wp-image-1900 avia-img-lazy-loading-1900 attachment-entry_with_sidebar size-entry_with_sidebar wp-post-image" alt="construction estimating services in USA" decoding="async"></a></div>
+					<div class="big-preview single-big" itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject"><a href="../asset-1/uploads/2022/1/budget.jpg" data-sizes="(max-width: 612px) 100vw, 612px" title="construction estimating services in USA"><img width="612" height="321" src="../asset-1/uploads/2022/01/budget.jpg" class="wp-image-1900 avia-img-lazy-loading-1900 attachment-entry_with_sidebar size-entry_with_sidebar wp-post-image" alt="construction estimating services in USA" decoding="async"></a></div>
 					<div class='blog-meta'></div>
 					<div class='entry-content-wrapper clearfix standard-content'>
 						<header class="entry-content-header">
@@ -63,7 +63,7 @@
 					</div>
 					<div class='post_author_timeline'></div><span class='hidden'>
 						<span class='av-structured-data' itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
-							<span itemprop='url'>https://estimating.com/asset-1/uploads/2022/12/28-1.jpg</span>
+							<span itemprop='url'>https://estimating.com/asset-1/uploads/2022/1/budget.jpg</span>
 							<span itemprop='height'>408</span>
 							<span itemprop='width'>612</span>
 						</span>
