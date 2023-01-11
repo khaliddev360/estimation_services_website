@@ -47,7 +47,7 @@
     <link rel="alternate" type="application/rss+xml" title="Construction Estimating Services RSS2 Feed" href="feed/index.htm">
     <link rel="pingback" href="https://estimating/xmlrpc.php">
     <!--[if lt IE 9]><script src="https://estimating/asset-1/themes/enfold/js/html5shiv.js"></script><![endif]-->
-    <link rel="icon" href="logo/logo-1.png" type="image/x-icon">
+    <link rel="icon" href="logo/ESTIMATION.png" type="image/x-icon">
     <style type="text/css" id="av-browser-height">
         .avia-section.av-minimum-height .container {
             opacity: 1;
@@ -470,7 +470,6 @@
             var dots = document.getElementById("dots");
             var moreText = document.getElementById("more");
             var btnText = document.getElementById("myBtn2");
-
             if (dots.style.display === "none") {
                 dots.style.display = "inline";
                 btnText.innerHTML = "Read more";
@@ -482,13 +481,11 @@
             }
         }
     </script>
-
     <script>
         function myFunctions() {
             var dots = document.getElementById("dotss");
             var moreText = document.getElementById("moree");
             var btnText = document.getElementById("myBtn1");
-
             if (dots.style.display === "none") {
                 dots.style.display = "inline";
                 btnText.innerHTML = "Read more";
@@ -504,7 +501,6 @@
             var dots = document.getElementById("dotss");
             var moreText = document.getElementById("moreee");
             var btnText = document.getElementById("myBtn3");
-
             if (dots.style.display === "none") {
                 dots.style.display = "inline";
                 btnText.innerHTML = "Read more";
@@ -516,17 +512,12 @@
             }
         }
     </script>
-
-
     <script type="rocketlazyloadscript" data-rocket-type="text/javascript">'use strict';var avia_is_mobile=!1;if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)&&'ontouchstart' in document.documentElement){avia_is_mobile=!0;document.documentElement.className+=' avia_mobile '}
 else{document.documentElement.className+=' avia_desktop '};document.documentElement.className+=' js_active ';(function(){var e=['-webkit-','-moz-','-ms-',''],n='';for(var t in e){if(e[t]+'transform' in document.documentElement.style){document.documentElement.className+=' avia_transform ';n=e[t]+'transform'};if(e[t]+'perspective' in document.documentElement.style)document.documentElement.className+=' avia_transform3d '};if(typeof document.getElementsByClassName=='function'&&typeof document.documentElement.getBoundingClientRect=='function'&&avia_is_mobile==!1){if(n&&window.innerHeight>0){setTimeout(function(){var e=0,o={},a=0,t=document.getElementsByClassName('av-parallax'),i=window.pageYOffset||document.documentElement.scrollTop;for(e=0;e<t.length;e++){t[e].style.top='0px';o=t[e].getBoundingClientRect();a=Math.ceil((window.innerHeight+i-o.top)*0.3);t[e].style[n]='translate(0px, '+a+'px)';t[e].style.top='auto';t[e].className+=' enabled-parallax '}},50)}}})();</script>
-
-
     <script type="rocketlazyloadscript" async="" src="gtag/js?id=UA-216678955-1"></script>
     <script type="rocketlazyloadscript"> window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
   gtag('config', 'UA-216678955-1');
 </script>
     <script type="rocketlazyloadscript"> !function(f,b,e,v,n,t,s)
@@ -540,8 +531,6 @@ s.parentNode.insertBefore(t,s)}(window, document,'script',
 fbq('init', '746747216368269');
 fbq('track', 'PageView');
 </script> <noscript><img height="1" width="1" style="display:none" src="tr?id=746747216368269&ev=PageView&noscript=1"></noscript>
-
-
 </head>
 
 <body id="top" class="home page-template-default page page-id-14  rtl_columns stretched pt_sans avia-responsive-images-support" itemscope="itemscope" itemtype="https://schema.org/WebPage"> <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
@@ -892,7 +881,6 @@ fbq('track', 'PageView');
                                     </li> -->
                                     <li id="menu-item-search" class="noMobile menu-item menu-item-search-dropdown menu-item-avia-special">
                                         <a aria-label="Search" href="index-1.php?s=" rel="nofollow" data-avia-search-tooltip="
-
                      &lt;form role=&quot;search&quot; action=&quot;https://estimating/&quot; id=&quot;searchform&quot; method=&quot;get&quot; class=&quot;&quot;&gt;
                      	&lt;div&gt;
                      		&lt;input type=&quot;text&quot; id=&quot;s&quot; name=&quot;s&quot; value=&quot;&quot; placeholder='Search' /&gt;
