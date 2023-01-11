@@ -70,7 +70,7 @@
           <div class='related_entries_container '>
             <div class='av_one_eighth no_margin  alpha relThumb relThumb1 relThumbOdd post-format-standard related_column'>
               <a href='../5-suggestions-for-effective-construction-management/index.htm' class='relThumWrap noLightbox' title='5 Suggestions for Effective Construction Management'>
-                <span class='related_image_wrap' data-avia-related-tooltip="5 Suggestions for Effective Construction Management"><img width="180" height="180" src="../asset-1/uploads/2022/12/9-180x180.jpg" class="wp-image-1927 avia-img-lazy-loading-1927 attachment-square size-square wp-post-image" alt="Construction cost Estimators" decoding="async" title="Construction cost Estimators" loading="lazy"> <span class='related-format-icon '><span class='related-format-icon-inner' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span></span> </span><strong class='av-related-title'>5 Suggestions for Effective Construction Management</strong> </a>
+                <span class='related_image_wrap' data-avia-related-tooltip="5 Suggestions for Effective Construction Management"><img style="width: 180px; height:100px;" src="../asset-1/uploads/2022/01/construction.jpg" class="wp-image-1927 avia-img-lazy-loading-1927 attachment-square size-square wp-post-image" alt="Construction cost Estimators" decoding="async" title="Construction cost Estimators" loading="lazy"> <span class='related-format-icon '><span class='related-format-icon-inner' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span></span> </span><strong class='av-related-title'>5 Suggestions for Effective Construction Management</strong> </a>
             </div>
           </div>
         </div>

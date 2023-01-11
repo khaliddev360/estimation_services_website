@@ -16,7 +16,7 @@
             <div class='flex_column av-kyvf5e0u-f7987eba2e67b55e8c36a09c09660c24 av_one_full  avia-builder-el-2  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
               <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                 <div class='avia_textblock  ' itemprop="text">
-                  <p><img decoding="async" class="size-full wp-image-1626 alignleft" style="margin-right: 20px;" src="../asset-1/uploads/2022/08/Metal-ESTIMATING.png" alt="Metals Estimating Services" width="416" height="205">We provide metals estimating services to builders, fabricators, framers, distributors, and a variety of other buyers at Estimating. Producing an authenticated and reliable material takeoff aids in cost reduction, waste prevention, and environmental protection. Let us discuss how we may help you with competent structural steel estimating services.</p>
+                  <p><img decoding="async" class="size-full wp-image-1626 alignleft" style="margin-right: 20px;" src="../asset-1/uploads/2022/01/metals.jpg" alt="Metals Estimating Services" width="416" height="205">We provide metals estimating services to builders, fabricators, framers, distributors, and a variety of other buyers at Estimating. Producing an authenticated and reliable material takeoff aids in cost reduction, waste prevention, and environmental protection. Let us discuss how we may help you with competent structural steel estimating services.</p>
                 </div>
               </section>
             </div>

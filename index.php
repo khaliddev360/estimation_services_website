@@ -913,7 +913,7 @@
                     <p data-fake-id='#toggle-id-1' class='toggler hasCustomColor  ' itemprop="headline" role='tab' tabindex='0' aria-controls='toggle-id-1'>27 Years of Experience<span class="toggle_icon"><span class="vert_icon"></span><span class="hor_icon"></span></span></p>
                     <div id='toggle-id-1' class='toggle_wrap  '>
                       <div class='toggle_content invers-color ' itemprop="text">
-                        <p><img decoding="async" class="size-medium wp-image-111 alignleft" src="asset-1/uploads/2021/12/service1-300x208.jpg" alt="" width="100" height="208">Experience matters a lot and we have experience of 27 years in construction
+                        <p><img decoding="async" style="width: 100px; height:58px;" src="asset-1/uploads/2022/01/preliminary.jpg" alt="" width="100" height="208">Experience matters a lot and we have experience of 27 years in construction
                           estimating. If you want quality, then go for the such experts.</p>
                       </div>
                     </div>
@@ -924,7 +924,7 @@
                     <p data-fake-id='#toggle-id-2' class='toggler hasCustomColor  ' itemprop="headline" role='tab' tabindex='0' aria-controls='toggle-id-2'>Our Dedicated Team<span class="toggle_icon"><span class="vert_icon"></span><span class="hor_icon"></span></span></p>
                     <div id='toggle-id-2' class='toggle_wrap  '>
                       <div class='toggle_content invers-color ' itemprop="text">
-                        <p><img decoding="async" loading="lazy" class="size-medium wp-image-113 alignleft" src="asset-1/uploads/2021/12/service2-300x208.jpg" alt="" width="100" height="208"><span style="font-weight: 400;">We have a dedicated team that can calculate
+                        <p><img decoding="async" loading="lazy" style="width: 100px; height:58px;" src="asset-1/uploads/2022/01/blueprint.jpg" alt="" width="100" height="208"><span style="font-weight: 400;">We have a dedicated team that can calculate
                             and explain all your queries. Further, our team can guide you in all the matters of
                             estimation.</span></p>
                       </div>
@@ -936,7 +936,7 @@
                     <p data-fake-id='#toggle-id-3' class='toggler hasCustomColor  ' itemprop="headline" role='tab' tabindex='0' aria-controls='toggle-id-3'>Quality Assurance<span class="toggle_icon"><span class="vert_icon"></span><span class="hor_icon"></span></span></p>
                     <div id='toggle-id-3' class='toggle_wrap  '>
                       <div class='toggle_content invers-color ' itemprop="text">
-                        <p><img decoding="async" loading="lazy" class="size-medium wp-image-114 alignleft" src="asset-1/uploads/2021/12/service3-300x208.jpg" alt="" width="100" height="208">We
+                        <p><img decoding="async" loading="lazy" style="width: 100px; height:58px;" src="asset-1/uploads/2022/01/quantity-surveyr.jpg" alt="" width="100" height="208">We
                           can only assure you one thing that is quality. Quality is essential in estimation services
                           as it leads you towards the right decision-making.</p>
                       </div>

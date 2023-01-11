@@ -16,7 +16,7 @@
             <div class='flex_column av-kyimlyy5-a916400bff43f9d48894de63497d309d av_one_full  avia-builder-el-2  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
               <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                 <div class='avia_textblock  ' itemprop="text">
-                  <p><strong><img decoding="async" class="size-full wp-image-1599 alignleft" style="margin-right: 20px; margin-top: 20px;" src="../asset-1/uploads/2022/08/mep-ESTIMATING.png" alt="MEP Estimating Services" width="416" height="205"></strong></p>
+                  <p><strong><img decoding="async" class="size-full wp-image-1599 alignleft" style="margin-right: 20px; margin-top: 20px;" src="../asset-1/uploads/2022/01/budget.jpg" alt="MEP Estimating Services" width="416" height="205"></strong></p>
                   <p>Being a builder, architect, or homeowner, your prime concern is always having reliable MEP Estimating services (mechanical, electrical, and plumbing). If so, then Estimating is the right place for you. We offer all the precise MEP estimates that are essential for your business.</p>
                   <p>We offer you the best value for your money. With us, you have the guarantee of getting that project quickly. So save your hard-earned money by choosing the right MEP estimate provider. The professional <strong>MEP cost estimators</strong> at Estimating are committed to delivering the best services. We deliver precise Cost Estimating Services for all your construction needs.</p>
                 </div>

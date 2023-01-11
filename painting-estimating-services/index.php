@@ -16,7 +16,7 @@
             <div class='flex_column av-kzf73aht-4987936435391c9e901442c0a657e89b av_one_full  avia-builder-el-2  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
               <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                 <div class='avia_textblock  ' itemprop="text">
-                  <p><img decoding="async" class="size-full wp-image-1652 alignleft" style="margin-right: 20px;" src="../asset-1/uploads/2022/08/Painting-ESTIMATING.png" alt="Painting Estimating Services" width="416" height="205">There is always a need for a professional painting project that is disciplined and focused. At Estimating, we have specialists that can provide you with a <strong>high-quality Painting Estimate</strong> using our qualified and skilled painting estimating services. We provide precise painting estimates to a wide range of business kinds and commercial buildings.</p>
+                  <p><img decoding="async" class="size-full wp-image-1652 alignleft" style="margin-right: 20px;" src="../asset-1/uploads/2022/01/painting.jpg" alt="Painting Estimating Services" width="416" height="205">There is always a need for a professional painting project that is disciplined and focused. At Estimating, we have specialists that can provide you with a <strong>high-quality Painting Estimate</strong> using our qualified and skilled painting estimating services. We provide precise painting estimates to a wide range of business kinds and commercial buildings.</p>
                 </div>
               </section>
             </div>
