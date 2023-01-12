@@ -44,7 +44,7 @@
               </div>
               <div class='av-flex-placeholder'></div>
               <div class='flex_column av-1r4gq-52f8e106df7adffcf9b7448bbb2b1233 av_one_third  avia-builder-el-4  el_after_av_two_third  avia-builder-el-last  flex_column_table_cell av-equal-height-column av-align-middle '>
-                <div class='avia-button-wrap avia-button-center  avia-builder-el-5  avia-builder-el-no-sibling '><a href='contact-us/index.php' class='avia-button av-rqgu-79d8ed2577dba16dbde23785d43e7bf3 avia-icon_select-yes-left-icon avia-size-x-large avia-position-center ' target="_blank" rel="noopener noreferrer"><span class='avia_button_icon avia_button_icon_left' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span><span class='avia_iconbox_title'>Contact Us</span></a></div>
+                <div class='avia-button-wrap avia-button-center  avia-builder-el-5  avia-builder-el-no-sibling '><a href='contact-us/index.php' class='avia-button av-rqgu-79d8ed2577dba16dbde23785d43e7bf3 avia-icon_select-yes-left-icon avia-size-x-large avia-position-center ' target="_blank" rel="noopener noreferrer"><span class='avia_iconbox_title'><i style="padding-right: 20px;" class="fa-sharp fa-solid fa-phone-volume"></i>Contact Us</span></a></div>
               </div>
             </div>
           </div>
@@ -148,7 +148,7 @@
                           </li>
                           <li>
                             <div class='iconlist_icon av-kxh54ckk-1814c5f4a929db7265f11723d2515a8f avia-font-entypo-fontello'>
-                              <span class='iconlist-char ' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span>
+                              <span><i class="fa-solid fa-file-contract"></i></span>
                             </div>
                             <article class="article-icon-entry " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                               <div class='iconlist_content_wrap'>
@@ -168,7 +168,7 @@
                           </li>
                           <li>
                             <div class='iconlist_icon av-kxh54mbm-04b3045712da490f839899cd88b082be avia-font-entypo-fontello'>
-                              <span class='iconlist-char ' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span>
+                              <span><i class="fa-regular fa-thumbs-up"></i></span>
                             </div>
                             <article class="article-icon-entry " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                               <div class='iconlist_content_wrap'>
@@ -206,7 +206,7 @@
                         <ul class='avia-icon-list avia_animate_when_almost_visible avia-icon-list-left av-iconlist-big av-14l9y-b3de33daff0f5b6d18135d94f5aa149e avia-iconlist-animate'>
                           <li>
                             <div class='iconlist_icon av-kxh5pnfh-64b4e0c8c5decfa86127695c883d4c4d avia-font-entypo-fontello'>
-                              <span class='iconlist-char ' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span>
+                              <span><i class="fa-solid fa-users"></i></span>
                             </div>
                             <article class="article-icon-entry " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                               <div class='iconlist_content_wrap'>
@@ -225,7 +225,7 @@
                           </li>
                           <li>
                             <div class='iconlist_icon av-kxh5pnfh-db290552ca8d81449b235135b9416f8a avia-font-entypo-fontello'>
-                              <span class='iconlist-char ' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span>
+                              <span><i class="fa-solid fa-hourglass-start"></i></span>
                             </div>
                             <article class="article-icon-entry " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                               <div class='iconlist_content_wrap'>
@@ -280,7 +280,7 @@
                           </li>
                           <li>
                             <div class='iconlist_icon av-kxh5pnfh-a9b693e5669596b5c765bf86ca2126f6 avia-font-entypo-fontello'>
-                              <span class='iconlist-char ' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span>
+                              <span><i class="fa-solid fa-hourglass-start"></i></span>
                             </div>
                             <article class="article-icon-entry " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                               <div class='iconlist_content_wrap'>
@@ -419,7 +419,7 @@
               <div class='avia-icon-list-container av-kxkced10-c382f4845c540c7e0a6683e09b09b87d  avia-builder-el-41  avia-builder-el-no-sibling  '>
                 <ul class='avia-icon-list avia_animate_when_almost_visible avia-icon-list-left av-iconlist-big av-kxkced10-c382f4845c540c7e0a6683e09b09b87d avia-iconlist-animate'>
                   <li>
-                    <div class='iconlist_icon av-kxkcdl8s-84d43518cee6ae9ad51995af27dffb4d avia-font-fontello'><span class='iconlist-char ' aria-hidden='true' data-av_icon='' data-av_iconfont='fontello'></span></div>
+                    <div class='iconlist_icon av-kxkcdl8s-84d43518cee6ae9ad51995af27dffb4d avia-font-fontello'><span><i class="fa-solid fa-house-user"></i></span></div>
                     <article class="article-icon-entry " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                       <div class='iconlist_content_wrap'>
                         <header class="entry-content-header">
@@ -461,7 +461,7 @@
                   </li>
                   <li>
                     <div class='iconlist_icon av-kxkcdl8s-2cd6fa28ff5abd1c4a32010d845ae51c avia-font-entypo-fontello'>
-                      <span class='iconlist-char ' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span>
+                      <span><i class="fa-sharp fa-solid fa-industry"></i></span>
                     </div>
                     <article class="article-icon-entry " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                       <div class='iconlist_content_wrap'>
@@ -483,7 +483,7 @@
                   </li>
                   <li>
                     <div class='iconlist_icon av-kxkcdl8s-9720191ae4dc3233e894b18215e1c1fd avia-font-entypo-fontello'>
-                      <span class='iconlist-char ' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span>
+                      <span><i class="fa-solid fa-server"></i></span>
                     </div>
                     <article class="article-icon-entry " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                       <div class='iconlist_content_wrap'>
@@ -511,7 +511,7 @@
               <div class='avia-icon-list-container av-kxkcfg0z-50f22e29eeea2a92a2cd865b164a49c2  avia-builder-el-43  avia-builder-el-no-sibling  '>
                 <ul class='avia-icon-list avia_animate_when_almost_visible avia-icon-list-left av-iconlist-big av-kxkcfg0z-50f22e29eeea2a92a2cd865b164a49c2 avia-iconlist-animate'>
                   <li>
-                    <div class='iconlist_icon av-kxkces57-9ce907f28613f6b496ed6df991c3a593 avia-font-fontello'><span class='iconlist-char ' aria-hidden='true' data-av_icon='' data-av_iconfont='fontello'></span></div>
+                    <div class='iconlist_icon av-kxkces57-9ce907f28613f6b496ed6df991c3a593 avia-font-fontello'><span><i class="fa-solid fa-money-bill-1-wave"></i></span></div>
                     <article class="article-icon-entry " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                       <div class='iconlist_content_wrap'>
                         <header class="entry-content-header">
@@ -531,7 +531,7 @@
                     <div class='iconlist-timeline'></div>
                   </li>
                   <li>
-                    <div class='iconlist_icon av-kxkces57-9ebc6fad4f7480b99dc08f648956f798 avia-font-fontello'><span class='iconlist-char ' aria-hidden='true' data-av_icon='' data-av_iconfont='fontello'></span></div>
+                    <div class='iconlist_icon av-kxkces57-9ebc6fad4f7480b99dc08f648956f798 avia-font-fontello'><span><i class="fa-sharp fa-solid fa-building"></i></span></div>
                     <article class="article-icon-entry " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                       <div class='iconlist_content_wrap'>
                         <header class="entry-content-header">
@@ -655,7 +655,7 @@
               <article class="iconbox iconbox_top av-kxoch6y3-1fe2dc008037924a11daea3535445781 av-icon-style-no-border  avia-builder-el-55  avia-builder-el-no-sibling  hmtrades_act main_color " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                 <div class="iconbox_content">
                   <header class="entry-content-header">
-                    <div class="iconbox_icon heading-color" aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></div>
+                    <div class="iconbox_icon heading-color" aria-hidden='true'><i class="fa-solid fa-house"></i></div>
                     <h3 class='iconbox_content_title  ' itemprop="headline"><a href='drywall-estimating-services/index.php' title='Drywall Estimating Services'>RESIDENTIAL</a></h3>
                   </header>
                   <div class='iconbox_content_container  ' itemprop="text">
@@ -678,7 +678,7 @@
               <article class="iconbox iconbox_top av-kxocj9rf-d7c4ce78aea6a1ff027528bed0d5091d av-icon-style-no-border  avia-builder-el-57  avia-builder-el-no-sibling  hmtrades_act main_color " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                 <div class="iconbox_content">
                   <header class="entry-content-header">
-                    <div class="iconbox_icon heading-color" aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></div>
+                    <div class="iconbox_icon heading-color" aria-hidden='true'><i class="fa-solid fa-warehouse"></i></div>
                     <h3 class='iconbox_content_title  ' itemprop="headline"><a href='concrete-estimating-services/index.php' title='Concrete Estimating Services'>COMMERCIAL</a></h3>
                   </header>
                   <div class='iconbox_content_container  ' itemprop="text">
@@ -704,7 +704,7 @@
               <article class="iconbox iconbox_top av-kxocjhk8-0b9b8223165ee61667154527b9cea7e2 av-icon-style-no-border  avia-builder-el-59  avia-builder-el-no-sibling  hmtrades_act main_color " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                 <div class="iconbox_content">
                   <header class="entry-content-header">
-                    <div class="iconbox_icon heading-color" aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></div>
+                    <div class="iconbox_icon heading-color" aria-hidden='true'><i class="fa-solid fa-industry"></i></div>
                     <h3 class='iconbox_content_title  ' itemprop="headline"><a href='mep-estimating-services/index.php' title='MEP Estimating &lt;br /&gt; Services'>INDUSTRIAL ESTIMATING SERVICES</a></h3>
                   </header>
                   <div class='iconbox_content_container  ' itemprop="text">
@@ -721,7 +721,7 @@
               <article class="iconbox iconbox_top av-kxocjtlj-c65c01a61215dfd7b7f40c6e7e82c257 av-icon-style-no-border  avia-builder-el-61  avia-builder-el-no-sibling  hmtrades_act main_color " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                 <div class="iconbox_content">
                   <header class="entry-content-header">
-                    <div class="iconbox_icon heading-color" aria-hidden='true' data-av_icon='' data-av_iconfont='fontello'></div>
+                    <div class="iconbox_icon heading-color" aria-hidden='true'><i class="fa-solid fa-gears"></i></div>
                     <h3 class='iconbox_content_title  ' itemprop="headline"><a href='mechanical-estimating-services/index.php' title='Mechanical Estimating Services'>Mechanical Estimating Services</a></h3>
                   </header>
                   <div class='iconbox_content_container  ' itemprop="text">
@@ -738,7 +738,7 @@
               <article class="iconbox iconbox_top av-kxock1lv-955a22a73ef845084afea666bb8b087c av-icon-style-no-border  avia-builder-el-63  avia-builder-el-no-sibling  hmtrades_act main_color " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                 <div class="iconbox_content">
                   <header class="entry-content-header">
-                    <div class="iconbox_icon heading-color" aria-hidden='true' data-av_icon='' data-av_iconfont='fontello'></div>
+                    <div class="iconbox_icon heading-color" aria-hidden='true'><i class="fa-solid fa-bolt-lightning"></i></div>
                     <h3 class='iconbox_content_title  ' itemprop="headline"><a href='electrical-estimating-services/index.php' title='Electrical Estimating Services'>Electrical Estimating Services</a></h3>
                   </header>
                   <div class='iconbox_content_container  ' itemprop="text">
@@ -755,7 +755,7 @@
               <article class="iconbox iconbox_top av-kxock7wu-5149a4ac6fef5f2a12e2a2f944892f2d av-icon-style-no-border  avia-builder-el-65  avia-builder-el-no-sibling  hmtrades_act main_color " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                 <div class="iconbox_content">
                   <header class="entry-content-header">
-                    <div class="iconbox_icon heading-color" aria-hidden='true' data-av_icon='' data-av_iconfont='fontello'></div>
+                    <div class="iconbox_icon heading-color" aria-hidden='true'><i class="fa-solid fa-wrench"></i></div>
                     <h3 class='iconbox_content_title  ' itemprop="headline"><a href='plumbing-estimating-services/index.php' title='Plumbing Estimating Services'>Plumbing
                         Estimating Services</a></h3>
                   </header>
@@ -791,7 +791,7 @@
               <article class="iconbox iconbox_top av-kxocktz4-c3e9f526071d6226e11e6e1883f6a7ad av-icon-style-no-border  avia-builder-el-69  avia-builder-el-no-sibling  hmtrades_act main_color " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                 <div class="iconbox_content">
                   <header class="entry-content-header">
-                    <div class="iconbox_icon heading-color" aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></div>
+                    <div class="iconbox_icon heading-color" aria-hidden='true'><i class="fa-sharp fa-solid fa-map"></i></div>
                     <h3 class='iconbox_content_title  ' itemprop="headline"><a href='masonry-estimating-services/index.php' title='Masonry Estimating Services'>Masonry
                         Estimating Services</a></h3>
                   </header>
@@ -811,7 +811,7 @@
               <article class="iconbox iconbox_top av-kxocl836-4386523a517713f0a7696bf3135f475d av-icon-style-no-border  avia-builder-el-71  avia-builder-el-no-sibling  hmtrades_act main_color " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                 <div class="iconbox_content">
                   <header class="entry-content-header">
-                    <div class="iconbox_icon heading-color" aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></div>
+                    <div class="iconbox_icon heading-color" aria-hidden='true'><i class="fa-solid fa-network-wired"></i></div>
                     <h3 class='iconbox_content_title  ' itemprop="headline"><a href='metals-estimating-services/index.php' title='Metals Estimating&lt;br /&gt; Services'>Material List & <br> Construction Estimate</a></h3>
                   </header>
                   <div class='iconbox_content_container  ' itemprop="text">
@@ -913,7 +913,7 @@
                     <p data-fake-id='#toggle-id-1' class='toggler hasCustomColor  ' itemprop="headline" role='tab' tabindex='0' aria-controls='toggle-id-1'>27 Years of Experience<span class="toggle_icon"><span class="vert_icon"></span><span class="hor_icon"></span></span></p>
                     <div id='toggle-id-1' class='toggle_wrap  '>
                       <div class='toggle_content invers-color ' itemprop="text">
-                        <p><img decoding="async" class="size-medium wp-image-111 alignleft" src="asset-1/uploads/2021/12/service1-300x208.jpg" alt="" width="100" height="208">Experience matters a lot and we have experience of 27 years in construction
+                        <p><img decoding="async" style="width: 100px; height:58px;" src="asset-1/uploads/2022/01/preliminary.jpg" alt="" width="100" height="208">Experience matters a lot and we have experience of 27 years in construction
                           estimating. If you want quality, then go for the such experts.</p>
                       </div>
                     </div>
@@ -924,7 +924,7 @@
                     <p data-fake-id='#toggle-id-2' class='toggler hasCustomColor  ' itemprop="headline" role='tab' tabindex='0' aria-controls='toggle-id-2'>Our Dedicated Team<span class="toggle_icon"><span class="vert_icon"></span><span class="hor_icon"></span></span></p>
                     <div id='toggle-id-2' class='toggle_wrap  '>
                       <div class='toggle_content invers-color ' itemprop="text">
-                        <p><img decoding="async" loading="lazy" class="size-medium wp-image-113 alignleft" src="asset-1/uploads/2021/12/service2-300x208.jpg" alt="" width="100" height="208"><span style="font-weight: 400;">We have a dedicated team that can calculate
+                        <p><img decoding="async" loading="lazy" style="width: 100px; height:58px;" src="asset-1/uploads/2022/01/blueprint.jpg" alt="" width="100" height="208"><span style="font-weight: 400;">We have a dedicated team that can calculate
                             and explain all your queries. Further, our team can guide you in all the matters of
                             estimation.</span></p>
                       </div>
@@ -936,7 +936,7 @@
                     <p data-fake-id='#toggle-id-3' class='toggler hasCustomColor  ' itemprop="headline" role='tab' tabindex='0' aria-controls='toggle-id-3'>Quality Assurance<span class="toggle_icon"><span class="vert_icon"></span><span class="hor_icon"></span></span></p>
                     <div id='toggle-id-3' class='toggle_wrap  '>
                       <div class='toggle_content invers-color ' itemprop="text">
-                        <p><img decoding="async" loading="lazy" class="size-medium wp-image-114 alignleft" src="asset-1/uploads/2021/12/service3-300x208.jpg" alt="" width="100" height="208">We
+                        <p><img decoding="async" loading="lazy" style="width: 100px; height:58px;" src="asset-1/uploads/2022/01/quantity-surveyr.jpg" alt="" width="100" height="208">We
                           can only assure you one thing that is quality. Quality is essential in estimation services
                           as it leads you towards the right decision-making.</p>
                       </div>
@@ -1137,7 +1137,7 @@
                 <ul class='avia-icon-list avia_animate_when_almost_visible avia-icon-list-left av-iconlist-big av-latks15s-12aff62cb38b47a7b19ffd59dd9938d9 avia-iconlist-animate'>
                   <li>
                     <div class='iconlist_icon av-latkgg23-d3aff1766ff00e817768932d1309ea47 avia-font-entypo-fontello'>
-                      <span class='iconlist-char ' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span>
+                      <span class='iconlist-char ' aria-hidden='true'><i class="fa-solid fa-closed-captioning"></i></span>
                     </div>
                     <article class="article-icon-entry " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                       <div class='iconlist_content_wrap'>
@@ -1159,7 +1159,7 @@
                 <ul class='avia-icon-list avia_animate_when_almost_visible avia-icon-list-left av-iconlist-big av-latkz2qs-dd2bc792cb44bad41f1184050734290e avia-iconlist-animate'>
                   <li>
                     <div class='iconlist_icon av-1o44q-996ca16489843b747676bf62e33b338e avia-font-entypo-fontello'>
-                      <span class='iconlist-char ' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span>
+                      <span class='iconlist-char ' aria-hidden='true'><i class="fa-solid fa-quote-right"></i></span>
                     </div>
                     <article class="article-icon-entry " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                       <div class='iconlist_content_wrap'>
@@ -1182,7 +1182,7 @@
                 <ul class='avia-icon-list avia_animate_when_almost_visible avia-icon-list-left av-iconlist-big av-latkz9f8-42c282b7b600c7fc6e0695119390269d avia-iconlist-animate'>
                   <li>
                     <div class='iconlist_icon av-zhxy-08d9cc79c50aaa549df40e77614f352f avia-font-entypo-fontello'>
-                      <span class='iconlist-char ' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span>
+                      <span class='iconlist-char ' aria-hidden='true'><i class="fa-solid fa-file"></i></span>
                     </div>
                     <article class="article-icon-entry " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                       <div class='iconlist_content_wrap'>
