@@ -16,6 +16,7 @@
 <link rel="stylesheet" href="../asset-1/cache/min/1/6574745356116e42003212d261325b37.css" media="all" data-minify="1">
 <link rel="stylesheet" href="../asset-1/cache/min/1/dc822aabd1df354c4c9400f7e57ed774.css" media="all" data-minify="1">
 <link rel="canonical" href="index.php">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Our Services - Construction Estimating Services -  Estimating">
