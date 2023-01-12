@@ -696,66 +696,45 @@ fbq('track', 'PageView');
                         <nav class='main_menu' data-selectname='Select a page' role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement">
                             <div class="avia-menu av-main-nav-wrap">
                                 <ul id="avia-menu" class="menu av-main-nav">
-                                    <li id="menu-item-19" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-14 current_page_item menu-item-top-level menu-item-top-level-1">
-                                        <a href="index.php" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Home</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
-                                    </li>
-                                    <li id="menu-item-172" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-top-level menu-item-top-level-2">
-                                        <a href="services/index.php" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Our Services</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
+                                    <li id="menu-item-19" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-14 current_page_item menu-item-top-level menu-item-top-level-1"> <a href="index.php" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Home</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a> </li>
+                                    <li id="menu-item-172" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-top-level menu-item-top-level-2"> <a href="services/index.php" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Our Services</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
                                         <ul class="sub-menu">
-                                            <li id="menu-item-443" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="construction-estimation-services/index.php" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Construction Estimation
-                                                        Services</span></a>
+                                            <li id="menu-item-443" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="construction-estimation-services/index.php" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Construction Estimation Services</span></a>
                                                 <ul class="sub-menu">
-                                                    <li id="menu-item-748" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="outsource-estimating-services/index.php" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Outsource Estimating
-                                                                Services</span></a></li>
-                                                    <li id="menu-item-727" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="freelance-estimating-services/index.php" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Freelance Estimating
-                                                                Services</span></a></li>
-                                                    <li id="menu-item-490" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="blueprint-estimating/index.php" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Blueprint Estimating
-                                                                Services</span></a></li>
-                                                    <li id="menu-item-485" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="xactimate-estimating-services/index.php" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Xactimate Estimating
-                                                                Services</span></a></li>
+                                                    <li id="menu-item-748" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="outsource-estimating-services/index.php" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Outsource Estimating Services</span></a></li>
+                                                    <li id="menu-item-727" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="freelance-estimating-services/index.php" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Freelance Estimating Services</span></a></li>
+                                                    <li id="menu-item-490" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="blueprint-estimating/index.php" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Blueprint Estimating Services</span></a></li>
+                                                    <li id="menu-item-485" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="xactimate-estimating-services/index.php" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Xactimate Estimating Services</span></a></li>
                                                 </ul>
                                             </li>
-                                            <li id="menu-item-1018" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="construction-takeoff-services/index.php" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Construction Takeoff
-                                                        Services</span></a>
+                                            <li id="menu-item-1018" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="construction-takeoff-services/index.php" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Construction Takeoff Services</span></a>
                                                 <ul class="sub-menu">
-                                                    <li id="menu-item-452" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="material-takeoff-services/index.php" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Material Takeoff
-                                                                Services</span></a></li>
-                                                    <li id="menu-item-833" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="quantity-takeoff-services/index.php" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Quantity Takeoff
-                                                                Services</span></a></li>
+                                                    <li id="menu-item-452" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="material-takeoff-services/index.php" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Material Takeoff Services</span></a></li>
+                                                    <li id="menu-item-833" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="quantity-takeoff-services/index.php" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Quantity Takeoff Services</span></a></li>
                                                 </ul>
                                             </li>
                                             <li id="menu-item-916" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="construction-estimator/index.php" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Construction Estimator</span></a>
                                                 <ul class="sub-menu">
-                                                    <li id="menu-item-560" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="electrical-estimator/index.php" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Electrical Estimator</span></a>
-                                                    </li>
-                                                    <li id="menu-item-575" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="mechanical-estimator/index.php" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Mechanical Estimator</span></a>
-                                                    </li>
+                                                    <li id="menu-item-560" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="electrical-estimator/index.php" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Electrical Estimator</span></a> </li>
+                                                    <li id="menu-item-575" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="mechanical-estimator/index.php" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Mechanical Estimator</span></a> </li>
                                                     <li id="menu-item-760" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="framing-estimator/index.php" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Framing Estimator</span></a></li>
                                                 </ul>
                                             </li>
                                             <li id="menu-item-507" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="cost-estimating-services/index.php" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Cost Estimating Services</span></a>
                                                 <ul class="sub-menu">
-                                                    <li id="menu-item-497" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="budget-estimating-services/index.php" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Budget Estimating
-                                                                Services</span></a></li>
-                                                    <li id="menu-item-720" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="building-estimating-services/index.php" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Building Estimating
-                                                                Services</span></a></li>
+                                                    <li id="menu-item-497" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="budget-estimating-services/index.php" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Budget Estimating Services</span></a></li>
+                                                    <li id="menu-item-720" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="building-estimating-services/index.php" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Building Estimating Services</span></a></li>
                                                 </ul>
                                             </li>
-                                            <li id="menu-item-986" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="quantity-surveyor-services/index.php" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Quantity Surveyor
-                                                        Services</span></a></li>
-                                            <li id="menu-item-468" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="commercial-estimating-services/index.php" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Commercial Estimating
-                                                        Services</span></a></li>
-                                            <li id="menu-item-464" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="industrial-estimating-services/index.php" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Industrial Estimating
-                                                        Services</span></a></li>
-                                            <li id="menu-item-732" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="residential-estimating-services/index.php" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Residential Estimating
-                                                        Services</span></a>
+                                            <li id="menu-item-986" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="quantity-surveyor-services/index.php" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Quantity Surveyor Services</span></a></li>
+                                            <li id="menu-item-468" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="commercial-estimating-services/index.php" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Commercial Estimating Services</span></a></li>
+                                            <li id="menu-item-464" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="industrial-estimating-services/index.php" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Industrial Estimating Services</span></a></li>
+                                            <li id="menu-item-732" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="residential-estimating-services/index.php" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Residential Estimating Services</span></a>
                                                 <ul class="sub-menu">
-                                                    <li id="menu-item-486" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="single-family-residential-estimating/index.php" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Single Family Residential
-                                                                Estimating</span></a></li>
+                                                    <li id="menu-item-486" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="single-family-residential-estimating/index.php" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Single Family Residential Estimating</span></a></li>
                                                 </ul>
                                             </li>
-                                            <li id="menu-item-484" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="preliminary-estimating-services/index.php" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Preliminary Estimating
-                                                        Services</span></a></li>
+                                            <li id="menu-item-484" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="preliminary-estimating-services/index.php" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Preliminary Estimating Services</span></a></li>
                                         </ul>
                                     </li>
                                     <!-- <li id="menu-item-214" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-top-level menu-item-top-level-3">
@@ -835,31 +814,21 @@ fbq('track', 'PageView');
                                                         Services</span></a></li>
                                         </ul>
                                     </li> -->
-                                    <li id="menu-item-584" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-mega-parent  menu-item-top-level menu-item-top-level-4">
-                                        <a href="samples/index.php" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Samples</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
-                                    </li>
-                                    <li id="menu-item-784" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-top-level menu-item-top-level-5">
-                                        <a href="about-us/index.php" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">About Us</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
+                                    <li id="menu-item-584" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-mega-parent  menu-item-top-level menu-item-top-level-4"> <a href="samples/index.php" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Samples</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a> </li>
+                                    <li id="menu-item-784" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-top-level menu-item-top-level-5"> <a href="about-us/index.php" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">About Us</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
                                         <ul class="sub-menu">
                                             <li id="menu-item-765" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="locations/index.php" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">USA Locations</span></a>
                                                 <ul class="sub-menu">
-                                                    <li id="menu-item-971" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="new-jersey-construction-estimating-services/index.php" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">New Jersey Construction
-                                                                Estimating</span></a></li>
-                                                    <li id="menu-item-975" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="washington-construction-estimating-services/index.php" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Washington Construction
-                                                                Estimating</span></a></li>
-                                                    <li id="menu-item-992" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="new-york-construction-estimating-services/index.php" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">New York Construction
-                                                                Estimating</span></a></li>
+                                                    <li id="menu-item-971" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="new-jersey-construction-estimating-services/index.php" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">New Jersey Construction Estimating</span></a></li>
+                                                    <li id="menu-item-975" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="washington-construction-estimating-services/index.php" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Washington Construction Estimating</span></a></li>
+                                                    <li id="menu-item-992" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="new-york-construction-estimating-services/index.php" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">New York Construction Estimating</span></a></li>
                                                 </ul>
                                             </li>
-                                            <li id="menu-item-927" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="#" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Other
-                                                        Locations</span></a>
+                                            <li id="menu-item-927" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="#" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Other Locations</span></a>
                                                 <ul class="sub-menu">
-                                                    <li id="menu-item-926" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="australia-construction-estimating-services/index.php" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Australia Construction
-                                                                Estimating Services</span></a></li>
-                                                    <li id="menu-item-933" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="north-america-construction-estimating-services/index.php" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">North America Construction
-                                                                Estimating Services</span></a></li>
-                                                    <li id="menu-item-1220" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="uk-construction-estimating-services/index.php" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">European Regions Construction
-                                                                Estimating Services</span></a></li>
+                                                    <li id="menu-item-926" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="australia-construction-estimating-services/index.php" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Australia Construction Estimating Services</span></a></li>
+                                                    <li id="menu-item-933" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="north-america-construction-estimating-services/index.php" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">North America Construction Estimating Services</span></a></li>
+                                                    <li id="menu-item-1220" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="uk-construction-estimating-services/index.php" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">European Regions Construction Estimating Services</span></a></li>
                                                 </ul>
                                             </li>
                                             <li id="menu-item-1284" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="careers/index.php" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Careers</span></a></li>
@@ -867,30 +836,21 @@ fbq('track', 'PageView');
                                             <li id="menu-item-1999" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="customer-reviews/index.php" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Customer Reviews</span></a></li>
                                         </ul>
                                     </li>
-                                    <li id="menu-item-780" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-mega-parent  menu-item-top-level menu-item-top-level-6">
-                                        <a href="pricing-plans/index.php" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Pricing Plans</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
-                                    </li>
-                                    <li id="menu-item-794" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-7">
-                                        <a href="faqs/index.php" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">FAQs</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
-                                    </li>
-                                    <li id="menu-item-179" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-mega-parent  menu-item-top-level menu-item-top-level-8">
-                                        <a href="contact-us/index.php" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Contact Us</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
-                                    </li>
+                                    <li id="menu-item-780" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-mega-parent  menu-item-top-level menu-item-top-level-6"> <a href="pricing-plans/index.php" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Pricing Plans</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a> </li>
+                                    <li id="menu-item-794" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-7"> <a href="faqs/index.php" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">FAQs</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a> </li>
+                                    <li id="menu-item-179" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-mega-parent  menu-item-top-level menu-item-top-level-8"> <a href="contact-us/index.php" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Contact Us</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a> </li>
                                     <!-- <li id="menu-item-34" class="cs_button menu-item menu-item-type-custom menu-item-object-custom av-menu-button av-menu-button-colored menu-item-top-level menu-item-top-level-9">
                                         <a href="get-estimate.php" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Get Estimate</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
                                     </li> -->
-                                    <li id="menu-item-search" class="noMobile menu-item menu-item-search-dropdown menu-item-avia-special">
-                                        <a aria-label="Search" href="index-1.php?s=" rel="nofollow" data-avia-search-tooltip="
+                                    <li id="menu-item-search" class="noMobile menu-item menu-item-search-dropdown menu-item-avia-special"> <a aria-label="Search" href="index-1.php?s=" rel="nofollow" data-avia-search-tooltip="
                      &lt;form role=&quot;search&quot; action=&quot;https://estimating/&quot; id=&quot;searchform&quot; method=&quot;get&quot; class=&quot;&quot;&gt;
                      	&lt;div&gt;
                      		&lt;input type=&quot;text&quot; id=&quot;s&quot; name=&quot;s&quot; value=&quot;&quot; placeholder='Search' /&gt;
                      		&lt;input type=&quot;submit&quot; value=&quot;&quot; id=&quot;searchsubmit&quot; class=&quot;button avia-font-entypo-fontello&quot; /&gt;
                      			&lt;/div&gt;
                      &lt;/form&gt;
-                     " aria-hidden='false' data-av_icon='' data-av_iconfont='entypo-fontello'><span class="avia_hidden_link_text">Search</span></a>
-                                    </li>
-                                    <li class="av-burger-menu-main menu-item-avia-special "> <a href="#" aria-label="Menu" aria-hidden="false"> <span class="av-hamburger av-hamburger--spin av-js-hamburger"> <span class="av-hamburger-box"> <span class="av-hamburger-inner"></span> <strong>Menu</strong>
-                                                </span> </span> <span class="avia_hidden_link_text">Menu</span> </a> </li>
+                     " aria-hidden='false' data-av_icon='' data-av_iconfont='entypo-fontello'><span class="avia_hidden_link_text">Search</span></a> </li>
+                                    <li class="av-burger-menu-main menu-item-avia-special "> <a href="#" aria-label="Menu" aria-hidden="false"> <span class="av-hamburger av-hamburger--spin av-js-hamburger"> <span class="av-hamburger-box"> <span class="av-hamburger-inner"></span> <strong>Menu</strong> </span> </span> <span class="avia_hidden_link_text">Menu</span> </a> </li>
                                 </ul>
                             </div>
                         </nav>
