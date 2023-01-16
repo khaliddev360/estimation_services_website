@@ -30053,6 +30053,7 @@ body .av-align-right {
 }
 
 body .av-align-center {
+    opacity: 1;
     text-align: center
 }
 

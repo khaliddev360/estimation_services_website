@@ -30061,6 +30061,7 @@ body .av-align-right {
 }
 
 body .av-align-center {
+    opacity: 1px;
     text-align: center
 }
 
