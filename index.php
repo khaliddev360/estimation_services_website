@@ -427,11 +427,14 @@
                           <h4 class='av_iconlist_title iconlist_title   ' itemprop="headline"><a href='commercial-estimating-services/index.php' title='Commercial Estimating Services'>Commercial Estimating Services</a></h4>
                         </header>
                         <div class='iconlist_content  ' itemprop="text">
-                          <p>A busy contractor has to deal with countless challenges while managing a commercial
-                            construction project. At these crucial times, you can not afford to deal with poor
-                            standards. Chances are you will get stuck with over-optimism, deadline pressure, not
-                            evaluating risk and uncertainty, or Padding the investment properly due to a hectic
-                            schedule. Try our business estimating services to stop missing out on bids.</p>
+                          <p style="text-align: justify;">Its never easy for a commercial contractor to deal with countless
+                            challenges while managing a construction project.Most of the
+                            Commercial Contractors always try to keep the standard bar high
+                            from their competitors.There are chances you might under
+                            pressure,forget the deadline for completion of work,not
+                            evaluating risk and uncertainty,or underestimate the investment
+                            due to a hectic schedule.Iry our business estimating services to
+                            stop missing out on bids.</p>
                         </div>
                       </div>
                       <footer class="entry-footer"></footer>
@@ -448,12 +451,14 @@
                           <h4 class='av_iconlist_title iconlist_title   ' itemprop="headline"><a href='residential-estimating-services/index.php' title='Residential Estimating Services'>Residential Estimating Services</a></h4>
                         </header>
                         <div class='iconlist_content  ' itemprop="text">
-                          <p>Building a home is the dream of every employee out there. The soon your job got stable,
-                            we dream of having our own home. We value all our clients. if you are a potential owner
-                            or a residential contractor, get our excellent residential estimating services at market
-                            competitive rates. Our estimators with handle everything on your behalf. Our accurate
-                            estimation will easily optimize your onsite operation. All you have to do is to get
-                            started!</p>
+                          <p style="text-align: justify;">Every working person either salaried or businessman want to
+                            have their own home.The soon our job got stable,we dream of
+                            having our own home.We value all our clients.If you are a
+                            potential owner or a residential contractor,get our excellent
+                            residential estimating services at market competitive rates.Our
+                            estimators will handle everything on your behalf.Our accurate
+                            estimation will easily optimize your onsite operation.All you
+                            have to do is to get started!</p>
                         </div>
                       </div>
                       <footer class="entry-footer"></footer>
@@ -470,12 +475,14 @@
                           <h4 class='av_iconlist_title iconlist_title   ' itemprop="headline"><a href='industrial-estimating-services/index.php' title='Industrial Estimating Services'>Industrial Estimating Services</a></h4>
                         </header>
                         <div class='iconlist_content  ' itemprop="text">
-                          <p>As the estimation of industrial buildings is not easy. Getting help from exact cost
-                            estimating services will make the entire development process easy for you with intricate
-                            estimations. With close to exact estimations in your hands, you can hit up the right
-                            budget. Our skilled estimators have worked with many clients in almost all industries.
-                            You can make a mark in the industry with their proficient <strong>construction
-                              estimating services</strong>.</p>
+                          <p style="text-align: justify;">Like any other estimation industrial building estimation is also
+                            very difficult to get it done.So All state estimation can pull you
+                            out from any difficulty you are facing to have user friendly take
+                            off sheets of estimation.Right budget with almost exact
+                            estimate will be very useful for you.Our skilled estimators have
+                            worked with many clients in almost all industries.They can make
+                            you stand out from the list of ordinary contractors to extra
+                            ordinary with their proficient <strong>construction estimating services</strong>.</p>
                         </div>
                       </div>
                       <footer class="entry-footer"></footer>
@@ -520,11 +527,13 @@
                               Estimating Services</a></h4>
                         </header>
                         <div class='iconlist_content  ' itemprop="text">
-                          <p>Making a cost estimation draft is challenging. Expert estimators consider the
-                            unknowable when creating your estimating proposal. They provide exact estimates based on
-                            the ground realities that give you better results when executed and generate positive
-                            efficacy. There won’t be any room for error brought on by insufficient understanding,
-                            supervision, or developmental challenges.</p>
+                          <p style="text-align: justify;">Creating a cost estimation report is one of the very difficult jobs.
+                            Expert estimators consider the every definate cost when creating
+                            your estimating proposal.We provide exact estimates based on
+                            the ground realities that give you better results when executed
+                            and generate positive efficacy.There won't be any room for error
+                            brought on by insufficient understanding,supervision,or
+                            developmental challenges.</p>
                         </div>
                       </div>
                       <footer class="entry-footer"></footer>
@@ -539,11 +548,12 @@
                           <h4 class='av_iconlist_title iconlist_title   ' itemprop="headline"><a href='building-estimating-services/index.php' title='Building Estimating Services'>Building Estimating Services</a></h4>
                         </header>
                         <div class='iconlist_content  ' itemprop="text">
-                          <p>Because they are unaware of budgetary restrictions, the approximate numbers always give
-                            the builders anxiety throughout the development phase. That is the reason you either go
-                            over budget or overspend. Employing our knowledgeable estimators will allow you to be at
-                            rest, knowing that you will receive an accurate estimate of building material takeoffs.
-                            With our precise value, even a beginner can excel.</p>
+                          <p>There is no such thing like approximate numbers for a
+                            professinal contractor.Builders can not afford to be in anxiety
+                            throughout their development phase.So to avoid exceeding
+                            budget,employing our skilled estimators will help you to provide
+                            peace of mind and accurate estimate of building material
+                            takeoffs.If you are a start up then we will be your best choice.</p>
                         </div>
                       </div>
                       <footer class="entry-footer"></footer>
