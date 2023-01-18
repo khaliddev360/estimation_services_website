@@ -16,9 +16,23 @@
             <div class='flex_column av-kyo1me1w-2424340ddae2714e1a2e768447ef7166 av_one_full  avia-builder-el-2  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
               <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                 <div class='avia_textblock  ' itemprop="text">
-                  <p><img decoding="async" class="size-full wp-image-1577 alignleft" style="margin-right: 20px;" src="../asset-1/uploads/2022/01/commercial.jpg" alt="Commercial Estimating Services" width="416" height="205">Commercial estimating services are the best to win more bids every time. The first step in producing reliable estimates is realizing that everything in a project has a price tag. For this reason, estimating entails hearing out the owner to gain insight into their desired outcomes for the project. It also helps analyze the current market to determine how much the project is likely to cost. It involves consultation with suppliers and subcontractors to determine pricing and constructability and keeping track of past costs. Later it can be effectively communicating these findings to the team.</p>
-                  <p>Our team will cover the site, and civil, architectural, structural, mechanical, and electrical estimators are just some of the fields to make proper commercial estimation services. One of our professional estimators always examines all of a project&#8217;s facets.</p>
-                  <p>The backgrounds and skill sets of our estimators are somewhat varied. Our team includes licensed engineers and ASPE-certified professional estimators. We have people who have worked both as general contractors and as significant mechanical and electrical subcontractors before joining our team. We are familiar with a wide variety of estimating tools and systems and can modify them to suit individual projects.</p>
+                  <p><img decoding="async" class="size-full wp-image-1577 alignleft" style="margin-right: 20px; text-align:justify;" src="../asset-1/uploads/2022/01/commercial.jpg" alt="Commercial Estimating Services" width="416" height="205">The finest commercial estimating services consistently win more bids. Realizing that
+                    everything in a project has a price is the first step in creating accurate estimates.
+                    Because of this, estimation involves speaking with the owner to understand their
+                    ideal project outcomes. In order to estimate the project's cost, it also helps to assess
+                    the present market. To establish pricing and constructability, it entails talking to
+                    suppliers and subcontractors and keeping track of previous expenditures. These
+                    results can later be efficiently shared with the team.</p>
+                  <p style="text-align: justify;">Our staff will take care of the site, and accurate commercial estimation services can
+                    be made in the disciplines of civil, architectural, structural, mechanical, and electrical
+                    estimators. Every aspect of a project is thoroughly examined by one of our qualified
+                    estimators.</p>
+                  <p style="text-align: justify;">Our estimators come from a variety of backgrounds and have a wide range of abilities.
+                    Professional estimators with an ASPE certification and licensed engineers make up
+                    our team. Before joining our team, some of our members held positions as general
+                    contractors as well as large mechanical and electrical subcontractors. We are
+                    knowledgeable about a wide range of estimating methods and tools and can adapt
+                    them to fit certain projects.</p>
                 </div>
               </section>
             </div>
@@ -48,8 +62,14 @@
             <div class='flex_column av-kyo1sgmx-1591cd14f4501bc22d3a3ba0e9dcef16 av_one_full  avia-builder-el-10  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
               <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                 <div class='avia_textblock  ' itemprop="text">
-                  <p>If you are planning a commercial building project, our team of cost estimators is ready to help with premium commercial estimation services. We provide comprehensive cost estimation services to assist you with your next construction or renovation project. You should only partner with the very finest commercial construction contractors.</p>
-                  <p>After reviewing your plans, our commercial estimating services team will provide you with a comprehensive spreadsheet with a list of all the supplies and equipment you&#8217;ll need to get started right away.</p>
+                  <p style="text-align: justify;">Our staff of cost estimators is available to provide top commercial estimation services
+                    if you are organizing a commercial building project. To help you with your upcoming
+                    building or renovation project, we offer complete cost estimation services. Only work
+                    with the best commercial building companies as partners.</p>
+                  <p style="text-align: justify;">Our commercial estimating services team will analyze your designs and then send
+                    you a detailed spreadsheet with a list of all the materials and equipment you'll
+                    require to get started right away.
+                  </p>
                 </div>
               </section>
             </div>
@@ -65,18 +85,16 @@
               <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                 <div class='avia_textblock  ' itemprop="text">
                   <ul>
-                    <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Malls and other retail establishments</span></li>
-                    <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Commercial Establishments and Department Stores</span></li>
-                    <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Places to Eat and Sleep</span></li>
-                    <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">stockrooms and academic institutions</span></li>
-                    <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Professional Medical Facilities</span></li>
-                    <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Performing Arts Venues</span></li>
-                    <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Places for the Elderly</span></li>
-                    <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Structures for Manufacturing</span></li>
-                    <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Powerplants</span></li>
-                    <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Multiplexes in Apartment Complexes</span></li>
-                    <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Construction of Religious Structures</span></li>
-                    <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Personal storage and a lot more.</span></li>
+                    <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Shopping centres and other retail locations</span></li>
+                    <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Establishments for business and department stores</span></li>
+                    <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Stockrooms and academic institutions are places to eat and stay</span></li>
+                    <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Facilities for Professional Medicine</span></li>
+                    <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Performance Spaces</span></li>
+                    <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Locations for Seniors</span></li>
+                    <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Power plant manufacturing structures</span></li>
+                    <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Apartment complex multiplexes</span></li>
+                    <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Building Religious Structures</span></li>
+                    <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Personal storage, among other things</span></li>
                   </ul>
                 </div>
               </section>
@@ -92,8 +110,13 @@
             <div class='flex_column av-2ddp4x-3f05edad1cf7bba0df2fd5bb4512cfac av_one_full  avia-builder-el-18  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
               <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                 <div class='avia_textblock  ' itemprop="text">
-                  <p><span style="font-weight: 400;">The most challenging issue for contractors in commercial estimation is making accurate bids in a short amount of time. It&#8217;s clear that you have other things on your mind. As a reputable General Contracting firm, we handle jobs related to </span><b>commercial construction estimating</b><span style="font-weight: 400;"> nationwide. We generate bids and cost estimates according to the location of the project. By doing bids and project takeoffs for you, we save you a lot of time.</span></p>
-                  <p><span style="font-weight: 400;">Weekends and weeknights will no longer exist.</span></p>
+                  <p><span style="font-weight: 400; text-align:justify;">Making correct quotes in a timely manner is the hardest problem for contractors to
+                      face in commercial estimate. It's obvious that you're thinking about other things right
+                      now. We undertake tasks involving <b>commercial construction estimating</b> around the
+                      country as a recognised general contracting company. Depending on the project's
+                      location, we produce proposals and cost projections. We significantly reduce your
+                      workload by performing project takeoffs and bids for you.</span>
+                  <p><span style="font-weight: 400;">Weeknights and weekends won't exist anymore.</span></p>
                 </div>
               </section>
             </div>
@@ -108,8 +131,13 @@
             <div class='flex_column av-25bkox-13de773957c41f5c509218825df026e0 av_one_full  avia-builder-el-22  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
               <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                 <div class='avia_textblock  ' itemprop="text">
-                  <p><span style="font-weight: 400;">Construction bids from GCs and subcontractors will start rolling in once you finalize your project drawings. How can you know whether the costs they list are fair? Still, what&#8217;s the best strategy for haggling down the price? </span></p>
-                  <p><span style="font-weight: 400;">Our commercial pre-construction estimates are helpful for establishing budgetary priorities and comparing costs. Additionally, commercial estimating services will alert you to any portions of your project that may require reworking before it&#8217;s too late.</span></p>
+                  <p><span style="font-weight: 400;">As soon as you complete your project plans, general contractors (GCs) and
+                      subcontractors will begin submitting construction bids. How can you tell if the prices
+                      they list are reasonable? However, what is the most effective tactic for negotiating
+                      the price?</span></p>
+                  <p><span style="font-weight: 400;">Our commercial pre-construction estimates can be used to compare costs and set
+                      budgetary priorities. Commercial estimating services will also let you know if any
+                      parts of your project need to be changed before it's too late.</span></p>
                 </div>
               </section>
             </div>
@@ -124,7 +152,8 @@
             <div class='flex_column av-1oiw69-936a75f2510ba4b0e197988a0603b244 av_one_full  avia-builder-el-26  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
               <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                 <div class='avia_textblock  ' itemprop="text">
-                  <p>When working on large projects or trying to get financing from lenders or investors, accurate estimations are especially crucial.</p>
+                  <p>Accurate estimates are especially important when working on major projects or when
+                    seeking to obtain finance from lenders or investors.</p>
                 </div>
               </section>
             </div>
@@ -132,11 +161,20 @@
               <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                 <div class='avia_textblock  ' itemprop="text">
                   <h3><b>Initial Price Quotes for the Private Sector</b></h3>
-                  <p><span style="font-weight: 400;">Commercial developers of our commercial estimation services are in a unique position since they get to weigh in on crucial design choices long before anybody else. This is where our services come in.</span></p>
-                  <p><span style="font-weight: 400;">As a result of our experience in evaluating several projects for our customers, we are able to provide preliminary pricing at an early stage in the planning phase and can draw on our extensive database to do so.</span></p>
+                  <p><span style="font-weight: 400;">Our business estimating services put commercial developers in a unique position
+                      since they get to weigh in on important design decisions before anyone else. Our
+                      assistance is needed in this situation.
+                    </span></p>
+                  <p><span style="font-weight: 400;">We are able to provide preliminary pricing at an early stage in the planning phase
+                      and can draw on our huge database to do so thanks to our experience in analysing a
+                      number of projects for our customers.</span></p>
                   <h3><b>Preliminary Cost Plans and Budgets</b></h3>
-                  <p><span style="font-weight: 400;">Soon after you have completed your construction designs, you will begin to receive bids from general contractors (GCs) and subcontractors. How can you know whether the costs they list are fair? Yet, how exactly can you negotiate for a lower price?</span></p>
-                  <p><span style="font-weight: 400;">Our commercial estimating services are helpful for comparing costs and deciding where investments should be made. Additionally, it will alert you to any portions of your project that may require reworking before it is too late to do so.</span></p>
+                  <p><span style="font-weight: 400;">You will start to get bids from general contractors (GCs) and subcontractors as soon
+                      as your building designs are finished. How can you tell if the prices they list are
+                      reasonable? But how precisely do you bargain for a lesser price?</span></p>
+                  <p><span style="font-weight: 400;">Comparing costs and determining where expenditures should be made are made
+                      easier with the help of our commercial estimate services. Additionally, it will let you
+                      know if any parts of your project need to be revised before it's too late.</span></p>
                   <h3></h3>
                 </div>
               </section>
@@ -162,10 +200,22 @@
             <div class='flex_column av-16pqdt-85129471f7a65130902a9b3c9a08f8f5 av_one_full  avia-builder-el-36  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
               <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                 <div class='avia_textblock  ' itemprop="text">
-                  <p>First, our estimators get together for a formal meeting to determine the full extent of the project. This also involves delegating work to estimators with relevant industry experience. Then, after analyzing the client-provided project documentation and requirements, the trade specialist estimators import the plans using cutting-edge software and use the point-and-click approach to measure the dimensions and scales to digitally take off the amounts.</p>
-                  <p>When the on-screen takeoffs are complete, the data is sent to EXCEL spreadsheets where it is organized by department or CSI cost pattern.</p>
-                  <p>Our commercial estimator will cover material and labor expenses. It includes union dues and prevailing pay rates, as well as other considerations, such as standard time and overtime, which may be accurately estimated thanks to our relationships with regional suppliers and RSMeans.</p>
-                  <p>The lead estimator then performs a supplementary check as part of quality assurance and quality control for the project&#8217;s outputs.</p>
+                  <p style="text-align: justify;">First, a formal meeting of our estimators is held to ascertain the whole scope of the
+                    project. Additionally, this entails assigning tasks to estimators with suitable sector
+                    experience. The trade specialist estimators then import the plans using cutting-edge
+                    software and use the point-and-click method to measure the dimensions and scales
+                    to digitally take off the amounts after studying the project documents and
+                    requirements supplied by the customer.
+                  </p>
+                  <p>The data is categorized by department or CSI cost pattern in EXCEL spreadsheets
+                    after the on-screen takeoffs are finished.</p>
+                  <p>Materials and labour costs will be covered by our commercial estimator. It takes into
+                    account union dues, market pay rates, and additional factors like standard time and
+                    overtime that can be precisely predicted because of our connections with local
+                    suppliers and RSMeans.
+                  </p>
+                  <p>After then, as part of quality assurance and quality control for the project's
+                    deliverables, the lead estimator conducts a supplemental check.</p>
                 </div>
               </section>
             </div>
@@ -181,15 +231,14 @@
               <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                 <div class='avia_textblock  ' itemprop="text">
                   <ul>
-                    <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Quick Customer Support 24 to 48 Hours </span></li>
-                    <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Market Competitive  Rates</span></li>
-                    <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">precise and exhaustive cost breakdowns</span></li>
-                    <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Guaranteed privacy at all times </span></li>
-                    <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Live Help</span></li>
-                    <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Email Responses</span></li>
-                    <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Color-Marked Drawings </span></li>
-                    <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Accredited Skilled Construction Estimators With Credible Accreditations Like AACE and AIQS</span></li>
-                    <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">All Cost Estimates Meet Global Standards</span></li>
+                    <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Rapid customer service 24-48 hours</span></li>
+                    <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Competitive Market Rates</span></li>
+                    <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Exact and thorough cost breakdowns</span></li>
+                    <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Privacy is always assured</span></li>
+                    <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Live Support Email Replies</span></li>
+                    <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Drawings with Color Marks</span></li>
+                    <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Construction Estimators With Credible Accreditations, Such As AACE and AIQS,Are Accredited</span></li>
+                    <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">All Budgets Comply with International Standard</span></li>
                   </ul>
                 </div>
               </section>
@@ -205,12 +254,26 @@
             <div class='flex_column av-ipnwh-56af6552297f7b05ca9967645d2fd693 av_one_full  avia-builder-el-44  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
               <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                 <div class='avia_textblock  ' itemprop="text">
-                  <p><span style="font-weight: 400;">We provide accurate estimates for commercial building projects so that your business may expand successfully. As a result of their rapid expansion in the business sector, our clients rely on the precise estimates provided by top digital commercial construction estimating services companies in Australia or the United States. </span></p>
-                  <p><span style="font-weight: 400;">The right commercial building estimates need in-depth understanding in addition to accuracy and information. Our firm is of the opinion that precise measurement is a vital resource for developing and maintaining a project&#8217;s budget and controlling associated costs.</span></p>
-                  <p><span style="font-weight: 400;">Whether it&#8217;s a repair, a replacement, an expansion, or a whole new build, our expert Estimators have you covered. Senior project managers with expertise in evaluating a diverse commercial project portfolio oversee each one. </span></p>
-                  <p><span style="font-weight: 400;">The most precise and fast services, catered to your exact requirements, may be guaranteed thanks to our team of skilled inspectors, consultants, and engineers. When it comes to producing bid proposals that will set you apart from the competition, we can assist you with anything from changing estimates to determining profit margins. Your company may take the worldwide construction industry by storm with the help of AS Estimations and its experts and their quality-based approach.</span></p>
+                  <p><span style="font-weight: 400; text-align:justify;">For commercial building projects, we offer precise estimates so that your company
+                      can grow successfully. Our clients depend on the accurate estimates produced by top
+                      digital commercial construction estimating services firms in Australia or the United
+                      States as a result of their quick commercial sector expansion.</span></p>
+                  <p><span style="font-weight: 400; text-align:justify;">In-depth comprehension is required for accurate and reliable commercial building
+                      estimates, in addition to accuracy and information. According to our company,
+                      accurate measurement is an essential tool for creating and maintaining a project's
+                      budget and managing related expenditures.</span></p>
+                  <p><span style="font-weight: 400; text-align:justify;">Whether you need a repair, a replacement, an addition, or a whole new construction,
+                      our skilled Estimators can handle it. Each one is overseen by senior project managers
+                      with experience in assessing a varied portfolio of commercial projects.</span></p>
+                  <p><span style="font-weight: 400; text-align:justify;">Our team of knowledgeable inspectors, consultants, and engineers can offer the most
+                      accurate and swift services, tailored to your exact requirements. We can help you
+                      with anything from adjusting estimates to figuring out profit margins when it comes
+                      to developing bid proposals that will set you apart from the competition. With the
+                      assistance of AS Estimations and its professionals, your business may revolutionize
+                      the global construction sector thanks to their quality-based strategy.
+                    </span></p>
                   <h4>Related Services:</h4>
-                  <p><a href="../industrial-estimating-services/index.htm" rel="nofollow" title="Industrial Estimating Services in USA">Budget Estimating Services</a> / <a href="../residential-estimating-services/index.htm" rel="nofollow" title="Residential Estimating Services in USA ">Residential Estimating Services</a></p>
+                  <p><a href="../industrial-estimating-services/index.htm" rel="nofollow" title="Industrial Estimating Services in USA">Residential estimating services</a> / <a href="../residential-estimating-services/index.htm" rel="nofollow" title="Residential Estimating Services in USA "> budget estimation</a></p>
                 </div>
               </section>
             </div>
@@ -229,7 +292,11 @@
                     <p data-fake-id='#toggle-id-1' class='toggler   ' itemprop="headline" role='tab' tabindex='0' aria-controls='toggle-id-1'>Why Should I Take Your Commercial Estimating Services?<span class="toggle_icon"><span class="vert_icon"></span><span class="hor_icon"></span></span></p>
                     <div id='toggle-id-1' class='toggle_wrap  '>
                       <div class='toggle_content invers-color ' itemprop="text">
-                        <p>We have a team of skilled experienced professionals who are diligently working to deliver the best services to all our clients with precise estimations and takeoffs. They know how to get the job done for your construction project in the right way. That’s what stand our commercial estimating services apart from the rest.</p>
+                        <p>We have a group of competent, seasoned individuals working diligently to provide
+                          all of our clients with the best services possible with accurate estimations and
+                          takeoffs. They are skilled in completing tasks for your construction project in the
+                          proper manner. That distinguishes our commercial estimating services from the
+                          competition.</p>
                       </div>
                     </div>
                   </div>
@@ -239,7 +306,10 @@
                     <p data-fake-id='#toggle-id-2' class='toggler   ' itemprop="headline" role='tab' tabindex='0' aria-controls='toggle-id-2'>How Your Estimators Will Work on My Project?<span class="toggle_icon"><span class="vert_icon"></span><span class="hor_icon"></span></span></p>
                     <div id='toggle-id-2' class='toggle_wrap  '>
                       <div class='toggle_content invers-color ' itemprop="text">
-                        <p>Our Estimators will ask for your project blueprints, drawings, and other related stuff. They will evaluate the entire project requirement and what would you be needing to get started. Having advanced machinery and related software, they will then prepare your</p>
+                        <p>Your project's blueprints, drawings, and other relevant materials will be requested by
+                          our estimators. They will assess your starting point requirements as well as the
+                          requirements for the complete project. They will then prepare your order using
+                          cutting-edge equipment and associated software.</p>
                       </div>
                     </div>
                   </div>
@@ -249,7 +319,10 @@
                     <p data-fake-id='#toggle-id-3' class='toggler   ' itemprop="headline" role='tab' tabindex='0' aria-controls='toggle-id-3'>Do You Provide Quick Turnaround?<span class="toggle_icon"><span class="vert_icon"></span><span class="hor_icon"></span></span></p>
                     <div id='toggle-id-3' class='toggle_wrap  '>
                       <div class='toggle_content invers-color ' itemprop="text">
-                        <p><span style="font-weight: 400;">Yes, Our expert estimators will get back to you quickly after you submit your quote to get all related data for your construction project. Eventually, after analyzing your project scope, they will start working on your project. They will hand over your project estimates and takeoffs within 1-3 days but not more than a maximum of three days. </span></p>
+                        <p><span style="font-weight: 400;">Yes, after you submit your quote, one of our skilled estimators will contact you right
+                            away to gather all the necessary information for your building project. They will
+                            eventually begin working on your project after reviewing its scope. They will deliver
+                            your project takeoffs and estimates in 1-3 days, but no longer than three.</span></p>
                       </div>
                     </div>
                   </div>
@@ -259,7 +332,11 @@
                     <p data-fake-id='#toggle-id-4' class='toggler   ' itemprop="headline" role='tab' tabindex='0' aria-controls='toggle-id-4'>What will be included in Your Commercial Estimations?<span class="toggle_icon"><span class="vert_icon"></span><span class="hor_icon"></span></span></p>
                     <div id='toggle-id-4' class='toggle_wrap  '>
                       <div class='toggle_content invers-color ' itemprop="text">
-                        <p>It will outline the time needed to complete your project. You will also get the entire cost of the project along with the breakup values. It will align how much money, you will need at every stage of your project. It will give you a clear summary of the material required for completion along with the number of laborers needed for the project.</p>
+                        <p>It will include a timeline for finishing your job. In addition to the breakup values, you
+                          will also receive the project's total cost. The amount of money you will need at each
+                          step of your project will be aligned. It will provide you with a detailed breakdown of
+                          the materials needed for completion as well as the estimated number of workers
+                          required for the job.</p>
                       </div>
                     </div>
                   </div>
@@ -269,7 +346,8 @@
                     <p data-fake-id='#toggle-id-5' class='toggler   ' itemprop="headline" role='tab' tabindex='0' aria-controls='toggle-id-5'>Do Your Professionals are Certified?<span class="toggle_icon"><span class="vert_icon"></span><span class="hor_icon"></span></span></p>
                     <div id='toggle-id-5' class='toggle_wrap  '>
                       <div class='toggle_content invers-color ' itemprop="text">
-                        <p>Yes, We have certified estimators in our team who have years of expertise in the field. Get in touch for reliable <strong>commercial material takeoff services</strong>.</p>
+                        <p>Yes, our staff includes trained estimators with years of experience in the industry. For
+                          trustworthy takeoff services for commercial materials, get in contact.</p>
                       </div>
                     </div>
                   </div>
