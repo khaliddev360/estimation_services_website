@@ -115,7 +115,7 @@
                     know-how in their respective fields.This is the reason that they own a
                     knowledge to offer correct offerings to all our valued customers.Our Cost
                     Estimation team offers a stable rate base offerings to our customers so they
-                    can have a hgh rate of success."
+                    can have a high rate of success."
                   </p>
                 </div>
               </section>
