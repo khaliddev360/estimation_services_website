@@ -38829,7 +38829,8 @@ span.avia_button_icon.avia_button_icon_left {
 
 #myBtn3 {
     background-color: #ff9c00;
-    border-color: #ff9c00;
+    border:none;
+    
 }
 
 #myBtn3:hover {
