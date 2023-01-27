@@ -16,10 +16,25 @@
             <div class='flex_column av-kzgmgkca-f40b4700cd722a6351faabcfb5f1b451 av_one_full  avia-builder-el-2  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
               <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                 <div class='avia_textblock  ' itemprop="text">
-                  <p>Are you looking for professional Framing Estimating services? And if that&#8217;s the case, estimating&#8217;s global frame estimator is ready to help you out. Our trusted and knowledgeable framing estimators can provide a variety of framing takeoff services, including estimates for both wood and metal framing.</p>
-                  <p>Our staff of qualified framing estimators makes Estimating a solid hub for framing takeoff services. Our framing estimator has a solid reputation for providing timely and precise framing material assessments for building projects. The client&#8217;s financial needs are included in the creation of the material list, and the bidding procedure is managed.</p>
-                  <p>Time and resources are two commodities that are always treated with respect by our crew for <strong><a href="../cost-estimating-services/index.htm" target="_blank" rel="noopener">cost estimating services</a></strong>. As a result, you can count on timely service and the quickest turnaround possible from them at all times. It takes between 24 and 48 hours to do the job and provide it to you. If services could be provided to you promptly, you&#8217;d be pleased. Every one of them was designed with you in mind to provide the maximum amount of convenience. There are a lot of other businesses trying to drive down consumer numbers, too. It might take a few days, however, to have your materials surveyed.</p>
-                  <p>You, too, are probably on the lookout for a reliable estimator to help you out all along the project. For assistance with any of these issues, you&#8217;ve come to the right place; our specialists are among the best in the business at making clients happy.</p>
+                  <p style="text-align: justify;">Do you require expert framing estimation services? The global frame estimator of estimating is available
+                    to assist you if that is the case. Our dependable and skilled framing estimators can offer a range of takeoff
+                    services for framing, including estimates for both metal and wood framing.</p>
+                  <p style="text-align: justify;">Estimating is a reliable hub for framing takeoff services thanks to our team of skilled framing estimators.
+                    For building projects, our framing estimator has a great reputation for offering accurate and timely frame
+                    material assessments. The material list is created with the client's financial requirements in mind, and the
+                    bidding process is controlled.
+                  </p>
+                  <p style="text-align: justify;">For cost estimate services, our team always treats time and resources as valuable assets. As a result, you
+                    can always rely on them for prompt service and the quickest turnaround time. To complete the task and
+                    deliver it to you, it takes 24 to 48 hours. You would be happy if services could be delivered to you right
+                    away. Each of them was created with you in mind to offer the most convenience possible. Many other
+                    companies are attempting to reduce the number of consumers. The examination of your contents,
+                    however, can take a few days.
+                  </p>
+                  <p style="text-align: justify;">You are definitely searching for a dependable estimator to assist you throughout the process as well.
+                    You've come to the correct spot if you need help with any of these problems; our experts are among the
+                    best in the industry at keeping customers satisfied.
+                  </p>
                 </div>
               </section>
             </div>
@@ -49,11 +64,22 @@
             <div class='flex_column av-kzgmlf92-6697e28a9bf0f6d558d8880b3beff78f av_one_full  avia-builder-el-10  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
               <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                 <div class='avia_textblock  ' itemprop="text">
-                  <p>What sets us apart from the rest of the pack? In addition, you may be certain that you&#8217;ll be receiving high-quality framing service from us. You&#8217;d get the job done as quickly as possible. An employment survey, for instance, may take anywhere from two weeks to three weeks to complete.</p>
+                  <p style="text-align: justify;">What distinguishes us from the competition? You may also depend on us to provide you with high-quality
+                    framing services. You would complete the task as soon as you could. For instance, it can take two to three
+                    weeks to finish an employment survey.
+                  </p>
                   <p><strong>Involve a group of experts in your task</strong></p>
-                  <p>Our material and Lumber Takeoff Services also performed all quantification of materials using the program, so they can help you from the very beginning of your project, when you first start researching, all the way through to the completion of your project. Because of this, we could be certain of the accuracy of every material takeoff.</p>
-                  <p>Our Framing Estimating services are the best in the business, and he or she is well-versed in a variety of production procedures, including cutting and laser welding, among others.</p>
-                  <p> Estimating’s skilled staff can carry out any kind of framing project, including those for homes, businesses, and factories. Either metal framing estimating or wood framing estimating, we handle all. Finds the most efficient times to bend steel, pipe, and sheet metal bars. Our help desk is available around the clock, every day of the week.</p>
+                  <p style="text-align: justify;">Our material and lumber takeoff services handled all material quantification utilising the application,
+                    enabling them to assist you from the very beginning of your project—when you first start doing your
+                    research—all the way up until its conclusion. As a result, we could be guaranteed that every material
+                    takeoff was accurate.
+                  </p>
+                  <p style="text-align: justify;">Our framing estimating services are the best in the industry, and our estimators are skilled in many
+                    different manufacturing processes, such as laser welding and cutting, among others.</p>
+                  <p style="text-align: justify;">Any type of frame project, including those for residences, companies, and factories, can be completed by
+                    Estimating's knowledgeable crew. We handle all metal framing estimates as well as wood framing
+                    estimates. identifies the most effective moments for bending sheet metal, pipe, and steel bars. Every day
+                    of the week, our help desk is open round the clock.</p>
                 </div>
               </section>
             </div>
@@ -68,7 +94,11 @@
             <div class='flex_column av-262l50-c972e6689dd1f59439e91e0aee4a41d4 av_one_full  avia-builder-el-14  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
               <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                 <div class='avia_textblock  ' itemprop="text">
-                  <p>Our Framing Estimator experts have been qualified by the American Association of Cost Engineers (AACE) and the Australian Institute of Quantity Surveyors (AIQS). In addition, they are highly regulated and operate in accordance with global norms. All of the below-mentioned norms focus on making it easier to frame material takeoffs for the purpose of quantitative analysis.</p>
+                  <p style="text-align: justify;">The American Association of Cost Engineers (AACE) and the Australian Institute of Quantity Surveyors
+                    have recognised the expertise of our framing estimators (AIQS). They also operate under strict regulation
+                    and in conformity with international standards. The common goal of the standards listed below is to
+                    simplify the process of framing material takeoffs for quantitative analysis.
+                  </p>
                   <ul>
                     <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">ASTM (American Testing and Materials)</span></li>
                     <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">BS (British Standard) </span></li>
@@ -76,7 +106,9 @@
                     <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">AASHTO (American Association of State Highway Officials) (American Association of State Highway Officials)</span></li>
                     <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">ACI (American Concrete Research center) (American Concrete Research center)</span></li>
                   </ul>
-                  <p>Providing you with high-quality results is why it&#8217;s important to stick to the guidelines you set out. Our professionals never break protocol and always provide customers with what they need when it comes to Framing Estimating solutions.</p>
+                  <p style="text-align: justify;">It's critical to follow the rules you establish in order to give you high-quality results. When it comes to
+                    Framing Estimating solutions, our personnel never deviate from protocol and always give customers what
+                    they require.</p>
                 </div>
               </section>
             </div>
@@ -101,7 +133,9 @@
             <div class='flex_column av-1vyino-e9baee059803f5eb0cb989e5e058a776 av_one_full  avia-builder-el-22  el_after_av_one_full  el_before_av_one_half  first flex_column_div column-top-margin'>
               <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                 <div class='avia_textblock  ' itemprop="text">
-                  <p>Over the course of our years in business, we have served a wide variety of customers. Contractors, subcontractors, lenders, and other home builders are among our clientele. In addition, we have a large clientele consisting of framing contractors, sheet metal fabricators, carpenters, and framers.</p>
+                  <p style="text-align: justify;">We have worked with a wide range of clients over the course of our years in business. We serve a variety
+                    of clients, including other house builders, lenders, contractors, and subcontractors. Additionally, a sizable
+                    portion of our customer consists of framers, carpenters, sheet metal fabricators, and framing contractors.</p>
                 </div>
               </section>
             </div>
@@ -139,7 +173,10 @@
             <div class='flex_column av-83vj0-3fa4ef7099f09ae13b3cc3d080eb1376 av_one_full  avia-builder-el-28  el_after_av_one_half  el_before_av_one_full  first flex_column_div column-top-margin'>
               <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                 <div class='avia_textblock  ' itemprop="text">
-                  <p>For metal framing estimates, our Framing Cost Estimators takes into account the whole cost of materials, labor, and equipment required to cut, drill, and weld the specified steel components. This allows us to work with all of the aforementioned customers.</p>
+                  <p style="text-align: justify;">Our Framing Cost Estimators account for the whole cost of supplies, labour, and equipment needed to
+                    cut, drill, and weld the specified steel components when estimating the cost of metal framing. As a result,
+                    we are able to collaborate with all of the aforementioned clients.
+                  </p>
                 </div>
               </section>
             </div>
@@ -154,10 +191,17 @@
             <div class='flex_column av-10dh0k-258325db6a5f2ea56330f180f7b0c7ca av_one_full  avia-builder-el-32  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
               <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                 <div class='avia_textblock  ' itemprop="text">
-                  <p>Although there are currently many service providers in the market, booking with us has numerous advantages over using other resources. We also have a simple method for locking the slot.</p>
-                  <p>Here is a quick breakdown of how to reserve the time slot:</p>
-                  <p>Immediately visit our website to reserve the time slot. You may then submit your blueprint through our website. When you enroll in the program, it will be subjected to the scrutiny of expert estimators. They&#8217;ll make it easier to get your job done. A quotation will be produced when the project has been evaluated.<br>
-                    Our framing estimator will include the invoice total and expected delivery time in the estimate they provide. It will guarantee that you won&#8217;t be late turning in your assignment.</p>
+                  <p style="text-align: justify;">Despite the fact that there are now a lot of service providers on the market, making a reservation with us
+                    offers several benefits over doing so elsewhere. We also offer an easy way to lock the slot.</p>
+                  <p>The steps for reserving the time slot are briefly described below:</p>
+                  <p style="text-align: justify;">Visit our website right away to secure the time slot. After that, you may upload your blueprint using our
+                    website. When you sign up for the programme, it will be examined by professional estimators. They'll
+                    make it simpler for you to do your work. When the project has been thoroughly assessed, a quote will be
+                    generated.
+                    <br>
+                    Our frame estimator will include the projected delivery date and invoice total in the estimate they offer.
+                    It will ensure that your assignment submission is on time.
+                  </p>
                 </div>
               </section>
             </div>
@@ -176,7 +220,9 @@
                     <p data-fake-id='#toggle-id-1' class='toggler   ' itemprop="headline" role='tab' tabindex='0' aria-controls='toggle-id-1'>To Whom Do We Provide Framing Cost Estimating Services?<span class="toggle_icon"><span class="vert_icon"></span><span class="hor_icon"></span></span></p>
                     <div id='toggle-id-1' class='toggle_wrap  '>
                       <div class='toggle_content invers-color ' itemprop="text">
-                        <p>As a result, we have spent decades perfecting our ability to serve a diverse clientele. We serve many different types of customers, including general contractors, subcontractors, lenders, and other house builders, as well as metal sheet fabricators, carpenters, and frames.</p>
+                        <p style="text-align: justify;">As a result, we have spent years honing our capacity to cater to a variety of clients. In addition to general
+                          contractors, subcontractors, lenders, and other home builders, we also provide services to metal sheet
+                          fabricators, carpenters, and framers.</p>
                       </div>
                     </div>
                   </div>
@@ -186,10 +232,17 @@
                     <p data-fake-id='#toggle-id-2' class='toggler   ' itemprop="headline" role='tab' tabindex='0' aria-controls='toggle-id-2'>Just how can I reserve time?<span class="toggle_icon"><span class="vert_icon"></span><span class="hor_icon"></span></span></p>
                     <div id='toggle-id-2' class='toggle_wrap  '>
                       <div class='toggle_content invers-color ' itemprop="text">
-                        <p><span style="font-weight: 400;">Booking with us has several advantages that are not available on other sites, even if many of our rivals in the market give direct links to a frame estimator. In addition, we have a basic plan for attempting to lock down the slot.</span></p>
+                        <p><span style="font-weight: 400; text-align: justify;">Even though many of our competitors in the market provide direct access to a frame estimator, there are
+                            a number of benefits to booking with us that are not available on other websites. We also have a basic
+                            strategy for trying to secure the position.</span></p>
                         <p><span style="font-weight: 400;">Time slots may be reserved by following these steps:</span></p>
-                        <p><span style="font-weight: 400;">Get on our booking system ASAP to secure a time window. Send us your proposal on our website. After enrolling in the program, expert estimators will examine your previous work. You can count on their assistance to get the job done. A quote will be made when the job has been assessed.</span></p>
-                        <p><span style="font-weight: 400;">We would include the invoice and estimated delivery time in the estimate. Doing so will ensure that you turn in your assignment on time.</span></p>
+                        <p><span style="font-weight: 400; text-align: justify;">To reserve a time slot, sign up as soon as possible on our booking system. On our website, please send us
+                            your proposal. Once you've applied for the programme, professional estimators will review your prior
+                            work. You can rely on their help to complete the task. After the job has been evaluated, a quote will be
+                            sent.</span></p>
+                        <p><span style="font-weight: 400; text-align: justify;">The estimate would take into account the invoice and the anticipated delivery date. You can submit your
+                            assignment on time if you follow this procedure.
+                          </span></p>
                       </div>
                     </div>
                   </div>
@@ -199,8 +252,8 @@
                     <p data-fake-id='#toggle-id-3' class='toggler   ' itemprop="headline" role='tab' tabindex='0' aria-controls='toggle-id-3'>Can you tell me how long it takes for you to respond to requests?<span class="toggle_icon"><span class="vert_icon"></span><span class="hor_icon"></span></span></p>
                     <div id='toggle-id-3' class='toggle_wrap  '>
                       <div class='toggle_content invers-color ' itemprop="text">
-                        <p>Between two and three days of actual work, time is all we need to do the tasks.<br>
-                          When working with us, you will never have to worry about delays in either quality or delivery time.</p>
+                        <p style="text-align: justify;">We only need two to three days of practical effort to complete the assignments. You won't ever have to
+                          be concerned about delivery or quality delays when working with us.</p>
                       </div>
                     </div>
                   </div>
@@ -210,8 +263,12 @@
                     <p data-fake-id='#toggle-id-4' class='toggler   ' itemprop="headline" role='tab' tabindex='0' aria-controls='toggle-id-4'>So, Why Pick Us?<span class="toggle_icon"><span class="vert_icon"></span><span class="hor_icon"></span></span></p>
                     <div id='toggle-id-4' class='toggle_wrap  '>
                       <div class='toggle_content invers-color ' itemprop="text">
-                        <p>Do you need accurate estimates for your forthcoming construction project? Estimating&#8217;s international frame estimator is ready to assist you if this is the case. Our reliable and experienced frame estimators can handle estimates for a wide range of framing projects. To include both metal and wood frame cost estimation.</p>
-                        <p>How? With the help of our professional frame estimators. Estimating is a trusted system for developing cost estimates. When it comes to giving accurate and timely estimates, our frame expert is second to none.</p>
+                        <p style="text-align: justify;">Do you require precise estimates for a building job you have coming up? If so, Estimating's international
+                          frame estimator is prepared to help you. Our trustworthy and knowledgeable frame estimators are
+                          capable of handling estimates for a variety of framing tasks. cost estimates for the wood and aluminium
+                          frames.</p>
+                        <p style="text-align: justify;">How? with the assistance of our qualified frame estimators. A reliable method for creating cost estimates
+                          is estimating. Our frame expert is unmatched when it comes to providing precise and rapid estimates.</p>
                       </div>
                     </div>
                   </div>

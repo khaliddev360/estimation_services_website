@@ -16,7 +16,14 @@
             <div class='flex_column av-kysk3h0j-02fcdf22384ef6e6c365ddda68ded497 av_one_full  avia-builder-el-2  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
               <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                 <div class='avia_textblock  ' itemprop="text">
-                  <p><img decoding="async" class="size-full wp-image-1585 alignleft" style="margin-right: 20px;" src="../asset-1/uploads/2022/01/quantity-takoff.jpg" alt="Single Family Residential Estimating Services" width="416" height="205"> Estimating is distinct from other construction firms because of its services. The majority of construction companies just provide basic services like architecture and structural design. However, as a Estimating construction firm, we offer you detailed structuring and design of Residential Estimating that sets your place differently from the rest. Our firm employs highly qualified personnel that make things simple to manage and work. Our pro-level employees understand how to attend to customers and meet their needs. We are builders who strive to please our customers and improve their homes and surroundings. So, if you want <strong>single Family Residential estimating services</strong>, contact us.</p>
+                  <p style="text-align: justify;"><img decoding="async" class="size-full wp-image-1585 alignleft" style="margin-right: 20px;" src="../asset-1/uploads/2022/01/quantity-takoff.jpg" alt="Single Family Residential Estimating Services" width="416" height="205"> Because of its services, estimating stands apart from other construction companies. Most construction
+                    firms only offer fundamental services like architectural and structural design. However, as an Estimating
+                    construction company, we provide you with thorough Residential Estimating structuring and design that
+                    distinguishes your location from the competition. Our company has highly qualified employees who make
+                    managing and working here easy. Our professional staff members are aware of how to attend to clients'
+                    needs. We are contractors who work hard to satisfy our clients and enhance their surroundings and
+                    residences. Therefore, get in touch with us if you need single-family residential estimation services.
+                  </p>
                 </div>
               </section>
             </div>
@@ -46,7 +53,11 @@
             <div class='flex_column av-kysk4s3w-b669f082b1ceac8f0bbf3f4e6c0fc656 av_one_full  avia-builder-el-10  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
               <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                 <div class='avia_textblock  ' itemprop="text">
-                  <p>We can construct more than just trust. We delivered on schedule, under budget, and with no surprises. From start to end, our skilled team will work on your project. We work on projects of all sizes, shapes, and complexities, ranging from fresh design projects to house building remodeling and additions. We design and construct your project to meet your expectations. We design our services in such an exclusive way that your requirements should be met as per your expectations.</p>
+                  <p style="text-align: justify;">More than merely trust can be built. We provided a timely, affordable, and surprise-free delivery. Our
+                    knowledgeable team will work on your project from beginning to conclusion. From new design projects
+                    to home building remodelling and additions, we work on projects of all sizes, shapes, and complexity. Your
+                    project is designed and built to your specifications. We specifically craft our services so that they will meet
+                    your needs and exceed your expectations.</p>
                 </div>
               </section>
             </div>
@@ -63,7 +74,9 @@
             <div class='flex_column av-3lue54-f74198c3756cb1e7179c15f3a4e18f4e av_one_full  avia-builder-el-16  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
               <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                 <div class='avia_textblock  ' itemprop="text">
-                  <p>We make rules and safety measure a major priority, and we make sure they stay in place throughout the project. We follow all building codes and make every effort to achieve the highest standards of integrity in our work.</p>
+                  <p style="text-align: justify;">We give regulations and safety precautions top priority, and we see to it that they are maintained
+                    throughout the project. We adhere to all building regulations and put out great effort to provide work
+                    that upholds the highest levels of honesty.</p>
                 </div>
               </section>
             </div>
@@ -78,7 +91,9 @@
             <div class='flex_column av-15pwo-cce73edfb16a97d36bc604857ff745ab av_one_full  avia-builder-el-20  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
               <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                 <div class='avia_textblock  ' itemprop="text">
-                  <p>When the construction process is prepared to start, we will communicate with you all the steps of the process to guarantee your satisfaction. This is the phase in which the project will begin to take shape. Our on-time and on-quote approach ensure that the completion date is met without sacrificing quality.</p>
+                  <p style="text-align: justify;">To ensure your pleasure, we will keep you informed at every stage of the construction process once it is
+                    ready to begin. The project will start to take shape during this phase. We guarantee that the completion
+                    date is met without compromising quality with our on-time and on-quote methodology.</p>
                 </div>
               </section>
             </div>
@@ -93,7 +108,10 @@
             <div class='flex_column av-2vcyu8-2391d41082fcfe119d0ac004e503269c av_one_full  avia-builder-el-24  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
               <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                 <div class='avia_textblock  ' itemprop="text">
-                  <p>We work for outstanding quality at all stages of the process, guaranteeing that your project lives up to expectations and maximizes your budget. We are all about consistency, quality, and integrity, and we do so at the best competitive price.</p>
+                  <p style="text-align: justify;">We strive for exceptional quality at every level of the process to ensure that your project meets
+                    expectations and makes the most of your budget. Consistency, quality, and honesty are important to us,
+                    and we always work to offer the most affordable prices.
+                  </p>
                 </div>
               </section>
             </div>
@@ -108,11 +126,24 @@
             <div class='flex_column av-2kqsco-990bf452d1e309900bbef626e8e543e9 av_one_full  avia-builder-el-28  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
               <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                 <div class='avia_textblock  ' itemprop="text">
-                  <p>Precision in work is the primary factor that drives accuracy in structural design. That&#8217;s why everyone, including the best steel manufacturers, chooses AutoCAD design. Estimating has a well-experienced and competent crew that guarantees to supply you with top-notch drafting and detailing services.</p>
-                  <p>Our knowledge encompasses all types of materials, as well as the most recent codes, procedures, and standards. We work in such a way that ensures complete support and great quality for the complete project from start to finish. We can manage any type of design and architectural services at reasonable pricing with the help of our skilled staff.<br>
-                    We have competent drafters on staff who can design any type of drawing required for any project, including foundation plan drawings with footing and columns schedules, designs with joist and decks, roof and flooring framing plans, and so on.</p>
-                  <p>Our experts may also provide you with a structural design based on rebar position, lap, size, spacing, and steel. Before we begin the task, we first examine the whole load we have, which includes physical steel structures, and then we provide full reporting on building structures such as budgets, automobiles, furniture, and so on.</p>
-                  <p> Estimating can provide you with high-quality services which you may trust. You can, without a doubt, count on us since we understand the significance of time and constantly strive to complete work on time while adhering to all guidelines and directions. Our structural designers complete the constructions using the most up-to-date computer technologies, resulting in the highest quality design.</p>
+                  <p style="text-align: justify;">Accuracy in structural design is mostly driven by precision in work. Because of this, everyone—including
+                    the top steel producers—selects AutoCAD design. A highly skilled and knowledgeable team at Estimating
+                    assures to give you excellent drafting and detailed services.</p>
+                  <p style="text-align: justify;">All resources are covered by our knowledge, which also includes the most latest codes, practises, and
+                    standards. We work in a way that guarantees total support and excellent quality for the entire project
+                    from beginning to end. With the aid of our knowledgeable staff, we are able to manage any form of design
+                    and architectural services at affordable rates.<br>
+                    Our team of skilled drafters can create any type of drawing needed for a project, including foundation
+                    plan drawings with footing and column schedules, designs with joist and decks, plans for the framing of
+                    the roof and the flooring, and more.</p>
+                  <p style="text-align: justify;">You might also receive a structural design from our specialists based on the size, spacing, position, and
+                    lap of the rebar. Before starting the assignment, we first assess the entire load we have, including the
+                    actual steel structures, and then we provide full reporting on building structures like budgets, cars,
+                    furniture, and so forth.</p>
+                  <p style="text-align: justify;">You can rely on estimation to give you high-quality services. Without a doubt, you can rely on us because
+                    we appreciate the value of punctuality and consistently work to meet deadlines while following all
+                    instructions. Using the most recent computer technologies, our structural designers complete the
+                    constructions, producing the finest possible design quality.</p>
                 </div>
               </section>
             </div>
@@ -127,22 +158,31 @@
             <div class='flex_column av-29ivgg-da54b6c019f2beb0a566f12a2d6e1f45 av_one_full  avia-builder-el-32  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
               <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                 <div class='avia_textblock  ' itemprop="text">
-                  <p>Our project supervision provider assists you in completing your project on time and budget specified, as well as meeting all regulatory and quality criteria. It makes little difference what types of building work you do. We have extensive experience supervising the construction process, industrial facilities, infrastructure, power plants, wind farms, and other structures. To get things done properly, your building project will undoubtedly want the proper cooperation and supervision of a professional.</p>
-                  <p> Estimating is here to supervise and assist you with your project on its own. We make certain that it is completed on schedule, within budget, and following your specifications and quality standards. We have all the competent supervisors who can provide you with personalized assistance to ensure the success of your project. We should manage all kinds of your building plans.</p>
+                  <p>Our project supervision service helps you finish your project on schedule, within the allocated budget, and
+                    to the highest standards of quality and compliance. It hardly matters what kind of construction work you
+                    do. We have a great deal of expertise supervising the building process as well as commercial and industrial
+                    buildings, infrastructure, power plants, wind farms, and other buildings. Your construction project will
+                    surely require the appropriate cooperation and direction of a professional to be completed effectively.</p>
+                  <p>The purpose of estimating is to oversee and help you with your project on its own. We ensure sure
+                    everything is finished in accordance with your requirements and quality standards, on schedule, and
+                    within your allocated budget. We have all the capable supervisors you could possibly need to help you on
+                    an individual basis and make sure your project is successful. We should oversee all of your construction
+                    plans.</p>
                   <p><strong>We assist you with construct supervision, which includes the following services:</strong></p>
                   <ul>
-                    <li>Design supervision</li>
-                    <li>Obtaining independent third-party certification and verification</li>
-                    <li>Project Manager advice for the construction of industrial and infrastructure facilities</li>
-                    <li>Program manager consultation for infrastructure construction plans</li>
-                    <li>Site supervision following technical and building legislation requirements</li>
-                    <li>Consistent construction supervision in terms of schedule, quality, and money.</li>
-                    <li>The system, material, and installation testing</li>
-                    <li>Oversight of non-destructive testing</li>
-                    <li>Oversight of delivered documentation</li>
-                    <li>Technical, legal, and evaluation consultation services</li>
+                    <li>Design direction</li>
+                    <li>Obtaining certification and verification from a neutral third party</li>
+                    <li>Assistance from project managers for building infrastructure and industrial facilities</li>
+                    <li>Consultation with the programme manager regarding the development of infrastructure</li>
+                    <li>Site management in accordance with building code standards</li>
+                    <li>Consistent control over the construction process in terms of budget, quality, and schedule.</li>
+                    <li>Testing of the installation, materials, and system</li>
+                    <li>Non-destructive testing supervision</li>
+                    <li>Checking the given documents</li>
+                    <li>Services for technical, legal, and evaluative consultancy</li>
                   </ul>
-                  <p>Therefore, you can see for yourself that Estimating offers competitive services to ensure that you benefit to the best extent possible. You should turn to us for supervision solutions in this regard.</p>
+                  <p style="text-align: justify;">So that you can gain as much as possible, you can see for yourself that Estimating offers competitive
+                    services. In this case, you should come to us for supervision solutions.</p>
                 </div>
               </section>
             </div>
@@ -157,11 +197,20 @@
             <div class='flex_column av-1uzqw8-33f82b69c73414843e91233780f8e684 av_one_full  avia-builder-el-36  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
               <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                 <div class='avia_textblock  ' itemprop="text">
-                  <p>For the owner or customer, this signifies that they entrusted you with the program for the duration of the construction and turned the key to the results. It is undeniably something that necessitates the uttermost dependability and certainty. Estimating is an excellent choice because they are skilled enough to put your trust in them. Our team can easily handle this large responsibility and ensure you that the result will be in flawless condition. Our trained professionals can not let you down.</p>
+                  <p style="text-align: justify;">This means that the owner or customer trusted you with the programme during building and gave you
+                    the key to the finished product. Unquestionably, it calls for the highest degree of trustworthiness and
+                    clarity. Since they are competent enough to have your trust, estimating is a great option. This is a big task
+                    that our team can do with ease, and we guarantee that the end product will be perfect. You won't be let
+                    down by our skilled personnel.</p>
                   <p><strong>On an industrial level, there is a general tendency of turnkey.</strong></p>
-                  <p>A turnkey contract is becoming more beneficial if you provide a level of skill and sufficient understanding to carry out that specific construction project. As a result, we can assure you that we have the skills &#038; understanding required to ensure your success.</p>
-                  <p>We guarantee that if you come to us, the turnkey contract will become a win scenario for both of us. It is because you will have your chosen area within your budget with little stress or difficulties, and we will use our area and efficiency to practice with the limited changeable orders.</p>
-                  <p>It is a wise decision for you to contact us and benefit in addition to getting your work done.</p>
+                  <p style="text-align: justify;">A turnkey contract becomes more advantageous if you offer a level of expertise and knowledge required
+                    to complete that particular construction job. As a result, we can guarantee that we possess the knowledge
+                    and abilities necessary to guarantee your success.
+                  </p>
+                  <p style="text-align: justify;">We promise that if you choose to work with us, the turnkey contract will result in a win-win situation for
+                    both of us. This is because we will practise with the few altered orders and use our area and efficiency to
+                    practise with your chosen area within your budget with little stress or difficulty.</p>
+                  <p>Contacting us is a smart move because you'll gain from it in addition to finishing your assignment.</p>
                 </div>
               </section>
             </div>
@@ -176,7 +225,8 @@
             <div class='flex_column av-1khgu8-c0eb4cfab59340912b03c72c6fe0ca99 av_one_full  avia-builder-el-40  el_after_av_one_full  el_before_av_one_half  first flex_column_div column-top-margin'>
               <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                 <div class='avia_textblock  ' itemprop="text">
-                  <p> Estimating is a professional platform that provides Single Family Residential Estimates with a variety of deliverables. <strong>Here are a few examples:</strong></p>
+                  <p>Single Family Residential Estimates are offered by the professional platform Estimating with a range of
+                    outputs. Here are a few illustrations:</p>
                 </div>
               </section>
             </div>
@@ -219,7 +269,11 @@
             <div class='flex_column av-14dvvc-8c4eddc371794f13e747200117db258d av_one_full  avia-builder-el-48  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
               <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                 <div class='avia_textblock  ' itemprop="text">
-                  <p>We provide competent and dependable Estimates that typically include premium features such as general conditions (permits, taxes, logistics, storage, and so on), site work, Concrete Concrete blocks, Wood/Plastic Composite, Thermoelectric and moisture safety, windows and doors, metal alloys, interior &#038; exterior, pipework, mechanical, power systems, stairs, toilet accessories, kitchen equipment, and so on. You can count on our skilled Services to provide timely and dependable estimates for your company.</p>
+                  <p style="text-align: justify;">We offer accurate and dependable estimates that frequently include premium features like site work,
+                    concrete concrete blocks, wood/plastic composite, thermoelectric and moisture safety, windows and
+                    doors, metal alloys, interior & exterior, pipework, mechanical, power systems, stairs, toilet accessories,
+                    kitchen equipment, and so forth. You can rely on our knowledgeable Services to deliver accurate estimates
+                    for your business in a timely manner.</p>
                 </div>
               </section>
             </div>
@@ -234,7 +288,7 @@
             <div class='flex_column av-t6p7k-67ddc50a8694e90258c1476973d725b7 av_one_full  avia-builder-el-52  el_after_av_one_full  el_before_av_one_half  first flex_column_div column-top-margin'>
               <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                 <div class='avia_textblock  ' itemprop="text">
-                  <p>We quantify the following major services for Single Family Residential Services.</p>
+                  <p>We quantify the key single family residential services listed below.</p>
                 </div>
               </section>
             </div>
@@ -277,7 +331,9 @@
             <div class='flex_column av-9hq28-a8f745ab6ba22d59d72fe24f3b17983d av_one_full  avia-builder-el-60  el_after_av_one_full  avia-builder-el-last  first flex_column_div column-top-margin'>
               <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                 <div class='avia_textblock  ' itemprop="text">
-                  <p>Come to us if you need the design of your construction done quickly and with high quality. We are here to provide Single Family Residential Estimating services with anything you require as soon as possible. If you need to understand anything about it, our trained staff can help.</p>
+                  <p style="text-align: justify;">If you want the design of your construction completed fast and to a high standard, contact us. We are
+                    prepared to offer Single Family Residential Estimating services as soon as you need them. Our
+                    knowledgeable staff can assist you if you need assistance understanding anything about it.</p>
                 </div>
               </section>
             </div>

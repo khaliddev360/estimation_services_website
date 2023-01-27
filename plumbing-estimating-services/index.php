@@ -269,7 +269,7 @@
             <div class='flex_column av-k6ge4-c966c23a08c769b47d243074057576b5 av_one_full  avia-builder-el-56  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
               <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                 <div class='avia_textblock  ' itemprop="text">
-                  <p>To be a top contractor, contact us right now! Estimating is the name of convenience. We offer multiple ways to reach us. You can visit our onsite location at Wallace Ave The Bronx, NY 10462, USA22201, United States, if you want such services and want to maximize your profit. Email us at <a href="mailto:info@allstateestimation.com">info@allstateestimation.com</a> or call us at +1 (917) 983-4975. We are just a call away from you!</p>
+                  <p>To be a top contractor, contact us right now! Estimating is the name of convenience. We offer multiple ways to reach us. You can visit our onsite location at Wallace Ave The Bronx, NY 10462, USA22201, United States, if you want such services and want to maximize your profit. Email us at <a href="mailto:info@allstateestimation.us">info@allstateestimation.us</a> or call us at +1 (917) 983-4975. We are just a call away from you!</p>
                 </div>
               </section>
             </div>

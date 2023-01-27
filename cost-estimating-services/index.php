@@ -16,7 +16,15 @@
             <div class='flex_column av-kyv354f5-f08731d2d47bf1a46929367f8102602a av_one_full  avia-builder-el-2  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
               <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                 <div class='avia_textblock  ' itemprop="text">
-                  <p><img decoding="async" class="size-full wp-image-1562 alignleft" style="margin-right: 20px;" src="../asset-1/uploads/2022/01/budget.jpg" alt="Cost Estimating Services" width="416" height="205">The financial health of every firm working in the construction industry depends on the accuracy of its project cost estimates. You need to be careful while bidding for a project. One small error or omission in your project estimations can end up losing bids. Likewise, if your takeoff is not prepared precisely, it can add hundreds of thousands, or even millions, to the final cost of a building project. In order to save time and money and open up more construction project bids, it is essential to select a skilled construction cost estimator business that can deliver on these promises. What can be a better choice than seeking assistance from ESTIMATING professional cost estimators? They can guarantee precise cost estimations for your every project.</p>
+                  <p><img decoding="async" class="size-full wp-image-1562 alignleft" style="margin-right: 20px; text-align:justify;" src="../asset-1/uploads/2022/01/budget.jpg" alt="Cost Estimating Services" width="416" height="205">Every business in the construction sector depends on the accuracy of its project cost estimates to maintain
+                    a healthy financial position. When submitting an offer for a project, you should exercise caution. You risk
+                    losing bids if your project estimates contain even a little inaccuracy or omission. The final cost of a building
+                    project might increase by hundreds of thousands or even millions of dollars if the takeoff is not arranged
+                    exactly. It is crucial to choose a qualified construction cost estimate company that can keep its promises
+                    in order to save time and money and open up more construction project bids. What could possibly be a
+                    better option than asking for help from ESTIMATING qualified cost estimators? They can ensure accurate
+                    cost estimates for each job you undertake.
+                  </p>
                 </div>
               </section>
             </div>
@@ -46,10 +54,26 @@
             <div class='flex_column av-2pf9yo-6e2b2a79bca3830872c8006d5763eaba av_one_full  avia-builder-el-10  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
               <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                 <div class='avia_textblock  ' itemprop="text">
-                  <p><span style="font-weight: 400;">Time is the money! Isn’t it? Because of your hectic schedule, you may be losing out on a significant sum of money every month. Being busy with other construction projects, contractors hardly find time to prepare cost estimations for upcoming projects. This is the reason why many contractors are passing up many potentially lucrative construction projects each month due to their overwhelming workload. Most contractors are too busy to make additional millions in monthly sales, depending on the typical contract value. Don&#8217;t worry! &#8220; ESTIMATING&#8221; has professional estimators for your rescue.  We&#8217;ll take care of the full estimate for you so you can keep submitting bids for the tasks you want.</span></p>
-                  <p><span style="font-weight: 400;">The construction sector is undeniably a highly nuanced one that calls for meticulous planning and execution. This is the reason it makes it difficult for contractors to grow their businesses. The accurate estimate may affect profit margins at the project&#8217;s conclusion and make the difference between winning and losing bids. </span></p>
-                  <p><span style="font-weight: 400;">We understand that estimates are the last thing you want to be wasting your time on. For this reason, most general contractors nowadays get their building cost estimates from other sources. ESTIMATING was deemed the top &#8220;American construction estimating firm&#8221; due to its reliable price estimates, prompt service, and helpful staff. </span></p>
-                  <p><span style="font-weight: 400;">Builders, developers, architects, and general contractors are among the customers we serve. As a company that has worked in the construction and building business for decades, our skilled engineers know what goes into producing precise and accurate construction cost estimates for such projects.</span></p>
+                  <p><span style="font-weight: 400; text-align:justify;">The most valuable resource is time. Isn't that correct? You can be losing out on a sizable amount of money
+                      each month as a result of your busy schedule. Contractors virtually ever have time to prepare cost
+                      estimates for future projects because they are too busy with other construction projects. Due to their
+                      excessive workload, many contractors turn down numerous potentially lucrative construction projects
+                      each month. Depending on the normal contract value, most contractors are too busy to generate
+                      additional millions in monthly sales. Don't worry! Professional estimators are available at "ESTIMATING"
+                      to come to your aid. You can keep submitting bids for the tasks you want because we'll take care of the
+                      entire estimate for you.
+                    </span></p>
+                  <p><span style="font-weight: 400;">It is certainly a highly intricate industry that necessitates careful strategy and execution. Because of this,
+                      it is challenging for contractors to expand their firms. A precise estimate may have an impact on project
+                      profit margins and determine whether a bid is successful or not.</span></p>
+                  <p><span style="font-weight: 400;">We comprehend that wasting time on estimates is the last thing you want to do. Due to this, the majority
+                      of general contractors now obtain their construction cost estimates from alternative sources. Due to its
+                      accurate pricing estimates, timely service, and friendly employees, ESTIMATING was named the best
+                      "American construction estimating agency".</span></p>
+                  <p><span style="font-weight: 400;">Among the clients we work with are general contractors, architects, developers, and builders. Our
+                      professional engineers understand what goes into providing exact and accurate construction cost
+                      estimates for such projects because our company has been in the building and construction business for
+                      decades.</span></p>
                 </div>
               </section>
             </div>
@@ -64,7 +88,16 @@
             <div class='flex_column av-2cni9k-935d34447dfe0a5a11350d543781b427 av_one_full  avia-builder-el-14  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
               <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                 <div class='avia_textblock  ' itemprop="text">
-                  <p>For every Contractor in the United States, you will hear that they don’t have enough time to make estimates to win more projects. Every contractor has the same enemy: time. However, most contractors would prefer to work &#8220;IN&#8221; the company than &#8220;ON&#8221; the firm. If so, you&#8217;re certainly not alone. As is customary, we have provided our construction estimate services and consultation to thousands of contractors all across the USA. But you have tried doing it on your own, maybe even on the weekends at the kitchen table after work. You may put your whole attention on operating your company while we handle preparing your bid as you enjoy your free time on the weekend. Our estimators will help you to get over losing out on bids due to timing constraints.</p>
+                  <p>You will hear that no contractor in the United States has adequate time to prepare estimates in order to
+                    secure more projects. The same adversary faces every contractor: time. The majority of contractors,
+                    however, would rather work "IN" the company than "ON" the corporation. If so, you most definitely are
+                    not alone. As is normal, we have offered thousands of contractors across the USA our construction
+                    estimate services and consultancy.
+                    But you have attempted to do it on your own, perhaps even after work on the weekends at the kitchen
+                    table. You may focus solely on running your business while we take care of creating your bid and you take
+                    advantage of the weekend to relax. Our estimators will assist you in overcoming bid rejection due to
+                    timing issues.
+                  </p>
                 </div>
               </section>
             </div>
@@ -83,8 +116,8 @@
                   <p><span style="font-weight: 400;">Developers</span></p>
                   <p><span style="font-weight: 400;">Architects</span></p>
                   <p><span style="font-weight: 400;">Homebuilders</span></p>
-                  <p><span style="font-weight: 400;">Renovation Specialists</span></p>
-                  <p><span style="font-weight: 400;">General &#038; Subcontractors</span></p>
+                  <p><span style="font-weight: 400;">Specialists in Renovation</span></p>
+                  <p><span style="font-weight: 400;">Overarching & Subcontractors</span></p>
                 </div>
               </section>
             </div>
@@ -99,17 +132,19 @@
             <div class='flex_column av-1oz7e8-a5d4140b2815f52143b593cc66aebd10 av_one_full  avia-builder-el-22  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
               <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                 <div class='avia_textblock  ' itemprop="text">
-                  <p>This Means Project 4D in Timberline RS. Our experts use the Microsoft Excel spreadsheet program.</p>
+                  <p>Project 4D in Timberline RS, then. The spreadsheet application Microsoft Excel is used by our
+                    professionals.
+                  </p>
                   <h3>Our Construction Cost Estimating Services</h3>
-                  <p>Analyzing the Construction Process<br>
-                    Total One-Time Budgeted Expenses<br>
-                    Planned Expenditures for Ideas<br>
-                    Total Costs to Complete a Project<br>
-                    Conditional Evaluations of the New Order<br>
-                    Effects of Material Wastefulness on Society<br>
-                    Quantitative Value Engineering Cost Estimates<br>
-                    Insurance Risk Assessment and Cost Estimation<br>
-                    Analysis of Construction Contract Costs and Proposed Bids</p>
+                  <p>An examination of the construction process<br>
+                    Budgeted One-Time Costs in Total<br>
+                    Expenses for Ideas That Are Scheduled<br>
+                    Total project costs Evaluations of the New Order under different conditions The social effects of material
+                    waste<br>
+                    Cost estimates for quantitative value engineering and insurance Construction contract costs and<br>
+                    proposed bids are examined for risk assessment and cost estimation.
+                    <br>
+                  </p>
                 </div>
               </section>
             </div>
@@ -134,13 +169,13 @@
             <div class='flex_column av-1d913c-e4648e3c1a8fb6c045a5ba1a6582c26b av_one_full  avia-builder-el-30  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
               <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                 <div class='avia_textblock  ' itemprop="text">
-                  <p><span style="font-weight: 400;">Our team has extensive expertise in providing estimates for complex residential construction projects, including but not limited to:</span></p>
+                  <p><span style="font-weight: 400;">Our team has a great deal of experience offering estimates for challenging residential building projects,including but not restricted to:</span></p>
                   <p><span style="font-weight: 400;">Renovations</span></p>
                   <p><span style="font-weight: 400;">Townhomes</span></p>
-                  <p><span style="font-weight: 400;">Custom-Built Houses</span></p>
-                  <p><span style="font-weight: 400;">Houses built in modules</span></p>
-                  <p><span style="font-weight: 400;">Remodeling and repairing your home</span></p>
-                  <p><span style="font-weight: 400;">Renovating and improvising</span></p>
+                  <p><span style="font-weight: 400;">Homes Built to Order</span></p>
+                  <p><span style="font-weight: 400;">modules for housing</span></p>
+                  <p><span style="font-weight: 400;">upgrading and maintaining your home</span></p>
+                  <p><span style="font-weight: 400;">improvising and renovating</span></p>
                 </div>
               </section>
             </div>
@@ -156,15 +191,21 @@
               <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                 <div class='avia_textblock  ' itemprop="text">
                   <h3><b>ESTIMATING FOR THE CONSTRUCTION INDUSTRY</b></h3>
-                  <p>Our expert estimators will deliver the finest material takeoffs and cost estimates with a precision guarantee for every construction project.</p>
+                  <p>For every building project, our skilled estimators will provide the best material takeoffs and cost estimates
+                    with a precision guarantee.</p>
                   <h3>Affordable</h3>
-                  <p>To help you plan your budget, we provide low pricing for our estimating services. We provide the lowest prices in the industry, beginning at affordable rates.</p>
+                  <p>We offer affordable rates for our estimation services to assist you in creating a budget. We offer the most
+                    competitive pricing in the sector, starting at budget-friendly costs.
+                  </p>
                   <h3>Swift Reaction Time</h3>
-                  <p>You can trust that our staff will provide you with the quantity takeoffs in record time so that you don&#8217;t go behind schedule. Timeframes are often little more than 48 hours!</p>
+                  <p>You may rely on our personnel to give you the necessary takeoffs in a timely manner so that you don't go
+                    behind schedule. Periods of time are frequently no longer than 48 hours!</p>
                   <h3><b>Exactness Is Of Primary Importance</b></h3>
-                  <p>Our customers may be certain that their construction project estimates will be precise and error-free since we employ cutting-edge technologies like PlanSwift.</p>
+                  <p>Due to the fact that we use cutting-edge tools like PlanSwift, our clients can be sure that the estimates
+                    we provide for their construction projects will be accurate and error-free.</p>
                   <h3>Friendly and Quick Service</h3>
-                  <p>All hours, every day, you may reach us by phone or email and get a prompt response. We provide assistance and alterations even after presenting the estimates.</p>
+                  <p>You can contact us by phone or email at any time of day or night and will receive a timely response. Even
+                    after delivering the estimates, we still offer support and modifications.</p>
                 </div>
               </section>
             </div>
@@ -179,11 +220,19 @@
             <div class='flex_column av-jweig-e664db6a4697793bc28e3f9ccc2fa9f2 av_one_full  avia-builder-el-38  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
               <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                 <div class='avia_textblock  ' itemprop="text">
-                  <p><span style="font-weight: 400;">For a long time, general contractors, builders, homeowners, etc. have been able to rely on Estimating for accurate cost estimates. As a company, we have a staff of seasoned estimators and quantity surveyors. We learned a lot about estimating construction costs for various building projects.</span></p>
-                  <p><span style="font-weight: 400;">Small and large businesses alike may benefit from our expert estimation services for building and remodeling projects of all kinds. We have completed several renovations and new building projects. In addition, we provide material takeoffs for certain CSI industries. Subcontractors in New York who require just a certain amount of a certain material, such as timber or concrete, may also benefit from our expert guidance.</span></p>
-                  <p><span style="font-weight: 400;">Professionals on staff are fluent in modern cost estimation services software such as PlanSwift, Bluebeam, Microsoft Excel, etc. You&#8217;ve found the ideal spot if you need a cost estimator on a contract basis to save money on payroll. The contractors won&#8217;t miss the bidding deadline because of our low prices and fast turnaround on the estimates.</span></p>
+                  <p><span style="font-weight: 400; text-align:justify;">For accurate cost estimates, general contractors, builders, homeowners, etc. have relied on Estimating
+                      for a very long time. As a company, we work with qualified quantity surveyors and estimators. We learned
+                      a lot about estimating construction costs for various building projects.</span></p>
+                  <p><span style="font-weight: 400;">Both small and large enterprises can profit from our professional estimation services for all types of
+                      construction and remodeling projects. We have finished a number of remodeling and new construction
+                      projects. We also offer material takeoffs for particular CSI industries. We can also be of assistance to New
+                      York subcontractors who only need a small quantity of a particular material, like wood or concrete.</span></p>
+                  <p><span style="font-weight: 400;">Professionals on staff are proficient in Microsoft Excel, PlanSwift, Bluebeam, and other contemporary cost
+                      estimating services software. If you require a cost estimator on a contract basis to reduce your payroll
+                      costs, you've come to the right place. Because of our affordable prices and quick response on estimates,
+                      the contractors won't miss the deadline for submission of bids.</span></p>
                   <h4>Related Services:</h4>
-                  <p><a title="Budget Estimating Services in USA" href="../budget-estimating-services/index.htm" rel="nofollow">Budget Estimating Services</a> / <a title="Building Estimating Services in USA " href="../building-estimating-services/index.htm" rel="nofollow">Building Estimating Services</a></p>
+                  <p><a title="Budget Estimating Services in USA" href="../budget-estimating-services/index.php" rel="nofollow">Budget Estimating Services</a> / <a title="Building Estimating Services in USA " href="../building-estimating-services/index.php" rel="nofollow">Building Estimating Services</a></p>
                 </div>
               </section>
             </div>
@@ -202,7 +251,9 @@
                     <p data-fake-id='#toggle-id-1' class='toggler   ' itemprop="headline" role='tab' tabindex='0' aria-controls='toggle-id-1'>Where do I even begin?<span class="toggle_icon"><span class="vert_icon"></span><span class="hor_icon"></span></span></p>
                     <div id='toggle-id-1' class='toggle_wrap  '>
                       <div class='toggle_content invers-color ' itemprop="text">
-                        <p>Send us an email or put the designs in dropbox so we can look at the job. A takeoff/estimate proposal is on its way to you. Our material takeoffs are thorough and precise, so you can be certain that you&#8217;ll have enough of each component to finish the job without having to buy more.</p>
+                        <p>To view the job, send us an email or upload the designs to Dropbox. Your takeoff/estimate proposal has
+                          been sent. You may be sure that you'll have enough of each component to finish the task without needing
+                          to acquire additional thanks to our meticulous and accurate material takeoffs.</p>
                       </div>
                     </div>
                   </div>
@@ -212,7 +263,7 @@
                     <p data-fake-id='#toggle-id-2' class='toggler   ' itemprop="headline" role='tab' tabindex='0' aria-controls='toggle-id-2'>How can I make a payment?<span class="toggle_icon"><span class="vert_icon"></span><span class="hor_icon"></span></span></p>
                     <div id='toggle-id-2' class='toggle_wrap  '>
                       <div class='toggle_content invers-color ' itemprop="text">
-                        <p>All you need is a PayPal account to pay off your debt. To add, we welcome payments made by any major credit or debit card.</p>
+                        <p>All you need to pay off your debt is a PayPal account. Additionally, we accept payments cheques.</p>
                       </div>
                     </div>
                   </div>
@@ -222,7 +273,9 @@
                     <p data-fake-id='#toggle-id-3' class='toggler   ' itemprop="headline" role='tab' tabindex='0' aria-controls='toggle-id-3'>Do you provide free trials or samples?<span class="toggle_icon"><span class="vert_icon"></span><span class="hor_icon"></span></span></p>
                     <div id='toggle-id-3' class='toggle_wrap  '>
                       <div class='toggle_content invers-color ' itemprop="text">
-                        <p>Prior to beginning work, we are happy to present you with complimentary examples of our prior estimations. If you&#8217;d like to view some examples or get in touch with us, please visit our samples page.</p>
+                        <p>We are pleased to provide you with complimentary examples of our previous estimates before we start
+                          working. Please visit our samples page if you'd like to see some examples or contact us.
+                        </p>
                       </div>
                     </div>
                   </div>
@@ -232,7 +285,11 @@
                     <p data-fake-id='#toggle-id-4' class='toggler   ' itemprop="headline" role='tab' tabindex='0' aria-controls='toggle-id-4'>Do you provide different kinds of price quotes?<span class="toggle_icon"><span class="vert_icon"></span><span class="hor_icon"></span></span></p>
                     <div id='toggle-id-4' class='toggle_wrap  '>
                       <div class='toggle_content invers-color ' itemprop="text">
-                        <p>We work extensively in the commercial, residential, and industrial sectors. We provide estimating services for a wide range of projects, including renovations, new builds, high-rises, multi-family, restaurants, retail/warehouse hybrids, and more. We provide estimates to a wide variety of clients, including general contractors, subcontractors, developers, architects, owners, lenders/banks, appraisers, and insurance companies.</p>
+                        <p style="text-align: justify;">We have a lot of experience working in the industrial, residential, and commercial sectors. For a variety
+                          of projects, including restorations, new construction, high-rises, multi-family, dining establishments,
+                          retail/warehouse hybrids, and more, we offer estimation services. In addition to general contractors,
+                          subcontractors, developers, architects, owners, lenders/banks, appraisers, and insurance firms, we also
+                          offer estimates to a wide range of other clients.</p>
                       </div>
                     </div>
                   </div>
@@ -242,7 +299,10 @@
                     <p data-fake-id='#toggle-id-5' class='toggler   ' itemprop="headline" role='tab' tabindex='0' aria-controls='toggle-id-5'>What kind of precision can we expect from your projections?<span class="toggle_icon"><span class="vert_icon"></span><span class="hor_icon"></span></span></p>
                     <div id='toggle-id-5' class='toggle_wrap  '>
                       <div class='toggle_content invers-color ' itemprop="text">
-                        <p>To ensure fair and reasonable pricing, we base our estimates on the specific zip code associated with your job. Our prices for labor and materials are taken from the often-updated Craftsman National Construction Estimator Database. Our estimators are seasoned construction pros who consider variables like productivity and equipment upgrades when creating estimates.</p>
+                        <p style="text-align: justify;">We base our estimates on the precise zip code linked with your job in order to guarantee fair and
+                          affordable pricing. The Craftsman National Construction Estimator Database, which is often updated,
+                          serves as the source for our labour and material costs. Our estimators are seasoned construction experts
+                          who base their estimates on factors like productivity and equipment upgrades.</p>
                       </div>
                     </div>
                   </div>

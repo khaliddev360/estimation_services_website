@@ -16,8 +16,15 @@
             <div class='flex_column av-kzffyzyt-1ecc9abe0e69fce03d2841f324d8c25d av_one_full  avia-builder-el-2  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
               <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                 <div class='avia_textblock  ' itemprop="text">
-                  <p><img decoding="async" class="size-full wp-image-1582 alignleft" style="margin-right: 20px;" src="../asset-1/uploads/2022/01/residential.jpg" alt="Residential Estimating Services" width="416" height="205">Making estimates to win that next residential project while working on current projects can be exhausting. ESTIMATING provides excellent Residential Estimating Services and expert advice to our clients. In addition, you may have the power of a large assessing division from our growth assessing administrations section without having to pay substantial up-front costs.<br>
-                    Our drive comes from a desire to assist you in evaluating and providing private projects so that you may give attention to growing your firm. Our services are exclusively designed for busy Contractors, Owners, and Architects working on new construction, remodels, and additions.</p>
+                  <p style="text-align: justify;"><img decoding="async" class="size-full wp-image-1582 alignleft" style="margin-right: 20px;" src="../asset-1/uploads/2022/01/residential.jpg" alt="Residential Estimating Services" width="416" height="205">While working on ongoing projects, preparing estimates to win the next residential project can be taxing.
+                    Excellent residential estimating services and knowledgeable guidance are offered to clients by
+                    ESTIMATING. In addition, our expansion assessing administrations section may be able to give you the
+                    authority of a sizable assessing division without requiring you to make a sizable upfront investment.
+                    <br>
+                    Our motivation stems from a desire to help you evaluate and provide private projects so that you may
+                    concentrate on expanding your business. Only busy Contractors, Owners, and Architects engaged in new
+                    construction, renovations, and additions are the target audience for our services.
+                  </p>
                 </div>
               </section>
             </div>
@@ -47,7 +54,10 @@
             <div class='flex_column av-kzfg0n2t-a14d139ed7f0e4da0d1a1d28f4dec54d av_one_full  avia-builder-el-10  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
               <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                 <div class='avia_textblock  ' itemprop="text">
-                  <p>We have a deeper understanding of cost estimating as we have a vast experience in this residential estimating service. Our team comprises professional Estimators and Project Managers, and we construct our estimates using a combination of database prices and field experience.</p>
+                  <p style="text-align: justify;">Due to our extensive experience in this residential estimating service, we have a deeper understanding of
+                    cost estimation. Professional Estimators and Project Managers make up our team, and we build our
+                    estimates using a combination of prices from databases and real-world expertise.
+                  </p>
                 </div>
               </section>
             </div>
@@ -62,8 +72,12 @@
             <div class='flex_column av-9xkh5-6e743d96408ad464e115fd1ac1730a83 av_one_full  avia-builder-el-14  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
               <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                 <div class='avia_textblock  ' itemprop="text">
-                  <p>We have the knowledge and advanced technology to price various residential construction estimating jobs for you. Get our precise <strong>residential estimation services</strong>, whether you’re building a small house or a more complicated structure.</p>
-                  <p>Building takeoffs and estimating might take hours or even days when you’re busy and have a lot of distractions. We have clients in all fifty states and work on all residential new home construction forms.</p>
+                  <p style="text-align: justify;">We can estimate the cost of different residential construction projects for you thanks to our expertise and
+                    cutting-edge technologies. Whether you're building a tiny house or a more complex one, take advantage
+                    of our accurate residential estimation services.
+                  </p>
+                  <p style="text-align: justify;">When you're busy and distracted, building takeoffs and estimating may take hours or even days. We work
+                    on all types for residential new house development and have clients in all 50 states.</p>
                 </div>
               </section>
             </div>
@@ -78,7 +92,10 @@
             <div class='flex_column av-2ff1rt-bddd3051e202a27c7bf2a8bff2402409 av_one_full  avia-builder-el-18  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
               <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                 <div class='avia_textblock  ' itemprop="text">
-                  <p>We’ve all heard that remodeling or conducting any work on an existing property is fraught with hassles and surprises. Home improvement estimates are among the most difficult to calculate. We can assist you with this through our residential estimators. We aim to provide you with an estimate so that you may meet with your client and begin negotiating.</p>
+                  <p style="text-align: justify;">Everybody has heard that renovating an existing home or performing any work on it might be difficult and
+                    unexpected. Estimates for home improvements are among the most challenging to calculate. With the
+                    help of our residential estimators, we can help you. In order for you to meet with your client and start
+                    negotiating, we try to provide you an estimate.</p>
                 </div>
               </section>
             </div>
@@ -93,7 +110,8 @@
             <div class='flex_column av-22ysfd-9736d1fd1681e83868b27badadd813ca av_one_full  avia-builder-el-22  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
               <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                 <div class='avia_textblock  ' itemprop="text">
-                  <p>Having accurate estimates while working on big projects or receiving finance from lenders or investors is vital. Therefore, we offer the following cost estimates:</p>
+                  <p style="text-align: justify;">When working on large projects or collecting funding from lenders or investors, precise estimations are
+                    essential. As a result, we provide the following price quotes:</p>
                 </div>
               </section>
             </div>
@@ -101,11 +119,17 @@
               <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                 <div class='avia_textblock  ' itemprop="text">
                   <h3><b>Preliminary Residential Cost Estimates</b></h3>
-                  <p>When making judgments as a buyer or developer, it is vital to have accurate budget information. We can perform budget and progress estimates for single-family, duplex, and multi-family projects to keep your project on budget and schedule. So, why not try our residential estimating services?</p>
-                  <p>Projects must often be modified and value-engineered once the early price is shown to be excessively costly. We can detect these problems before they expense you hundreds of dollars in holding expenses and interest.</p>
+                  <p style="text-align: justify;">Accurate budget data is crucial when making decisions as a buyer or developer. To keep your project on
+                    budget and schedule, we can perform budget and progress estimates for single-family, duplex, and multifamily projects. Why not utilise our residential estimate services then?</p>
+                  <p style="text-align: justify;">Once it is established that the initial pricing is unreasonably expensive, projects frequently need to be
+                    adjusted and value-engineered. Before they cost you hundreds of dollars in interest and holding costs, we
+                    can identify these issues.</p>
                   <h3><b>Pre-Construction Final Estimates Budgets</b></h3>
-                  <p>Before starting construction, investors need to get both comparative quotes or a third-party estimation which can be used to verify costs.</p>
-                  <p>In third-party verification estimates, we deal directly with investors and lenders. These are incredibly useful when negotiating with Major Contractors and Subcontractors (if you’re sourcing labor directly).</p>
+                  <p style="text-align: justify;">Investors must get comparative bids or a third-party estimate that can be used to check costs before
+                    beginning development.</p>
+                  <p style="text-align: justify;">We conduct business with investors and lenders directly in third-party verification estimations. If you're
+                    directly sourcing labour, these are tremendously helpful when bargaining with Major Contractors and
+                    Subcontractors.</p>
                 </div>
               </section>
             </div>
@@ -120,9 +144,11 @@
             <div class='flex_column av-1pbrq9-efad12171c8a8c77466f421dc1619d2c av_one_full  avia-builder-el-28  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
               <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                 <div class='avia_textblock  ' itemprop="text">
-                  <p>Large projects necessitate the use of an expert team to determine the expenses for you. Don’t invest haphazardly or blindly. Trust our residential estimators!</p>
-                  <p>Construction costs can quickly add up, especially on larger projects. However, our team can estimate and identify any concerns before you even begin.</p>
-                  <p>Several customers have contacted us to support them with a cost analysis to reduce total costs.</p>
+                  <p style="text-align: justify;">Large projects demand the assistance of a professional team to calculate the costs for you. Don't make
+                    impulsive or blind investments. Have faith in our residential estimators!</p>
+                  <p style="text-align: justify;">Costs of construction can add up quickly, especially for bigger projects. But before you even start, our
+                    team can estimate and pinpoint any issues.</p>
+                  <p style="text-align: justify;">Many clients have gotten in touch with us asking for assistance with a cost analysis to lower overall costs.</p>
                 </div>
               </section>
             </div>
@@ -137,18 +163,30 @@
             <div class='flex_column av-1f1lc9-4f330b672777b0cd112d1aafddb011ee av_one_full  avia-builder-el-32  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
               <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                 <div class='avia_textblock  ' itemprop="text">
-                  <p>Are you going to build a new house or remodel it? Going back to redoing project design after your original model does not meet your client’s budget is among the most time-consuming chores for an architect or designer. It’s difficult!</p>
-                  <p>We understand your predicament. That is why, during the design phase, we collaborate with Architects &amp; Interior Designers to evaluate projects. We can create preliminary or schematic models, conceptual design drawings, &amp; final construction drawings.</p>
-                  <p>Our Residential Estimating Services can even use sketches at an early design stage.</p>
+                  <p style="text-align: justify;">Will you renovate your current home or build a new one? One of the most time-consuming tasks for an
+                    architect or designer is having to start the project design process over again after discovering that your
+                    previous model does not fit your client's budget. It's challenging!
+                  </p>
+                  <p style="text-align: justify;">We are aware of your situation. For this reason, we work together with architects and interior designers
+                    to assess projects during the design phase. We are able to produce conceptual design drawings, final
+                    construction drawings, and preliminary or schematic models.</p>
+                  <p>Even at an early design stage, our residential estimating services can make use of sketches.</p>
                   <h3><b>Residential Schematic Design Estimates</b></h3>
-                  <p>Our residential estimating professionals works exclusively with residential architectural firms to prepare estimates at the design process&#8217;s beginning, middle, and end.</p>
-                  <p>This eliminates the expense of an architect. In addition, there will be no further drawing revisions due to budget overruns.</p>
+                  <p style="text-align: justify;">Our home estimating specialists only collaborate with residential architecture firms to create estimates
+                    at the start, middle, and end of the design process.
+                  </p>
+                  <p style="text-align: justify;">An architect's fees are eliminated as a result. In addition, there won't be any more redrawings because of
+                    overruns in the budget.</p>
                   <h3><b>Residential Budgets</b></h3>
-                  <p>When dealing with Owners, developing a budget is essential, especially in the last stages before entering the CA (Building Administration) phase.</p>
-                  <p>Our seasoned professionals can assist you in creating these budgets to retain your contractors accountable for the most premium and accurate residential estimates.</p>
+                  <p style="text-align: justify;">Creating a budget is crucial when working with owners, especially in the last stages before moving into
+                    the CA (Building Administration) phase.</p>
+                  <p style="text-align: justify;">In order to hold your contractors responsible for providing the highest quality and most precise home
+                    estimates, our skilled professionals can help you create these budgets.</p>
                   <h3><b>Value Engineering</b></h3>
-                  <p>In today&#8217;s world, most commercial projects cannot be completed successfully because of the wrong cost estimations. There is no doubt that this situation is not favorable for everyone involved in the project.</p>
-                  <p>We can assist you with this as we perform useful and accurate value engineering.</p>
+                  <p style="text-align: justify;">In the modern world, incorrect cost estimates prevent the majority of commercial initiatives from being
+                    successfully completed. There is no question that the current circumstances are unfavourable for all
+                    parties participating in the project.</p>
+                  <p>We can help you with this by performing precise and useful value engineering.</p>
                 </div>
               </section>
             </div>
@@ -191,7 +229,7 @@
             <div class='flex_column av-kzfgc0f3-ff26b475abbf5baa122018e4571dff7c av_one_full  avia-builder-el-40  el_after_av_one_half  el_before_av_one_full  first flex_column_div column-top-margin'>
               <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                 <div class='avia_textblock  ' itemprop="text">
-                  <p>Excellent residential estimating services as the foundation for all building cash flows.</p>
+                  <p>The basis for all building cash flows is excellent home estimation services.</p>
                 </div>
               </section>
             </div>
@@ -206,12 +244,25 @@
             <div class='flex_column av-11zsj5-527d0a8b6ec50f363f19244324aeffdf av_one_full  avia-builder-el-44  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
               <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                 <div class='avia_textblock  ' itemprop="text">
-                  <p>A proper cost estimate provides an understanding of the future expenses that help determine markups, allocate budget, secure financing, quote prices to customers, or negotiate with subcontractors and suppliers utilizing our residential estimating.</p>
-                  <p> ESTIMATING is the best in the business, with seasoned, skilled estimators for your home construction estimating needs.</p>
-                  <p>Following a comprehensive review of the designs, we electronically take off the quantities that use more up-to-date software and check our actual expenditure database &amp; RSMeans for zip-code prices on your residential quote. We provide a labor cost breakdown based on union and prevailing wages, including normal time and overtime, via our residential estimation services. The bill of materials is given in CSI MasterFormat divisionally or by CSI cost design in Spreadsheets so you can rapidly analyze and send it to your providers for evaluation.</p>
+                  <p style="text-align: justify;">Using our home estimating, a proper cost estimate gives you an insight of your future costs, which you
+                    can use to set markups, allocate budget, acquire financing, quote prices to clients, or bargain with
+                    suppliers and subcontractors.</p>
+                  <p style="text-align: justify;">For all of your home building estimating needs, ESTIMATING is the best in the field with seasoned,
+                    qualified estimators.</p>
+                  <p style="text-align: justify;">After thoroughly analysing the designs, we electronically remove the numbers using more recent
+                    software, check your home quote's real expenditure database, and use RSMeans to look for zip-code
+                    pricing. Through our home estimation services, we offer a labour cost breakdown based on union and
+                    prevailing salaries, including regular time and overtime. To enable quick analysis and review by your
+                    providers, the bill of materials is provided in CSI Master Format divisionally or via CSI cost design in
+                    Spreadsheets.</p>
                   <h3><b>In Our Services Are</b></h3>
-                  <p>Things quantified in Home projects in our residential estimating portfolio comprise size, length, area, and several items in their respective divisions.</p>
-                  <p>However, depending on your needs, we tailor the quantity takeoff in our housing construction cost estimate treatment. It depends on the components that are useful for a particular purpose; for example, for the supply of lumber, vendors typically require beams, studs, wooden beams, and stringers quantified in EA with a complete detailed explanation of nails and clips.</p>
+                  <p style="text-align: justify;">Size, length, area, and other items in each of their respective divisions are things that are measured in
+                    Home projects in our home estimate portfolio.
+                  </p>
+                  <p style="text-align: justify;">However, we customise the quantity takeoff in our dwelling construction cost estimate procedure based
+                    on your needs. It depends on the components that are necessary for a certain task; for instance, suppliers
+                    of lumber frequently need beams, studs, wooden beams, and stringers estimated in EA with a thorough
+                    explanation of nails and clips.</p>
                 </div>
               </section>
             </div>
@@ -279,19 +330,23 @@
             <div class='flex_column av-kzfgi60e-2cd9609b69e4da32d3a49c5207c3ad5d av_one_full  avia-builder-el-58  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
               <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                 <div class='avia_textblock  ' itemprop="text">
-                  <p>Visit here to send your drawing plans and drawings in the following categories: Bidding set, Schematic, Conceptual Design, Building document, or conceptual drawings. .PDF.DXF.DWF.DWG. JPG.PLN. OSX.CAL.</p>
+                  <p style="text-align: justify;">To submit your plans and drawings for the following categories, go here: Schematic, Conceptual Design,
+                    Building Document, Bidding Set, or Conceptual Drawings. DXF, DWF, DWG, JPG, PLN, OSX, CAL</p>
                   <p><b>Send us a message</b></p>
-                  <p>You will instantly receive a quote that includes the cost, processing times, and delivery date, which you may pay for with a credit card, debit card, or PayPal.</p>
+                  <p style="text-align: justify;">A quote with the price, processing timeframes, and delivery date will be sent to you right away. You can
+                    pay for it with a credit card, debit card, or PayPal.</p>
                   <p><b>Get an estimate</b></p>
-                  <p>Our Residential Estimation Services will supply estimates to you in Worksheets that include all material and labor pricing broken down by division or CSI costs, either in the Model that consists of your customized format.</p>
-                  <p>What Other Services We Are Offering?\</p>
-                  <p>Apart from residential estimating services. Our residential cost Estimators offer the following options:</p>
+                  <p style="text-align: justify;">When you use our residential estimation services, you will receive estimates in the form of worksheets
+                    with division-by-division pricing for all materials and labour as well as CSI expenses, or in a model with
+                    your specific format requirements.</p>
+                  <p>What Additional Services Are Offered by Us?</p>
+                  <p style="text-align: justify;">Besides residential estimation services. We provide the following choices in our home cost estimat:</p>
                   <ul>
                     <li style="list-style-type: none;"></li>
-                    <li aria-level="1">Budget Estimating Services</li>
-                    <li aria-level="1"><a href="../commercial-estimating-services/index.htm" target="_blank" rel="noopener"><strong>Commercial Estimating Services</strong></a></li>
-                    <li aria-level="1"><b>Single Family Residential Estimating</b></li>
-                    <li aria-level="1"><b>Multi-Family Residential Estimatin</b>g</li>
+                    <li aria-level="1">Services for budget estimating</li>
+                    <li aria-level="1"><a href="../commercial-estimating-services/index.php" target="_blank" rel="noopener"><strong>Services for Commercial Estimating</strong></a></li>
+                    <li aria-level="1"><b>Residential Single-Family Estimation</b></li>
+                    <li aria-level="1"><b>Residential Multi-Family Estimating</b></li>
                     <li style="list-style-type: none;"></li>
                   </ul>
                 </div>
@@ -312,7 +367,9 @@
                     <p data-fake-id='#toggle-id-1' class='toggler   ' itemprop="headline" role='tab' tabindex='0' aria-controls='toggle-id-1'>What software Do Your Estimators Use for preparing my Residential Cost Estimates?<span class="toggle_icon"><span class="vert_icon"></span><span class="hor_icon"></span></span></p>
                     <div id='toggle-id-1' class='toggle_wrap  '>
                       <div class='toggle_content invers-color ' itemprop="text">
-                        <p>Our r<b>esidential cost Estimators</b> are highly proficient in using the following software to give you a precise calculation. This software includes Planswift, Bluebeam, Quest Estimating, RS Means, Xactimate, and many others.</p>
+                        <p style="text-align: justify;">To provide you with an accurate computation, our residential cost estimators are highly skilled in using
+                          the following tools. Planswift, Bluebeam, Quest Estimating, RS Means, Xactimate, and numerous other
+                          programmes are included in this suite.</p>
                       </div>
                     </div>
                   </div>
@@ -322,7 +379,10 @@
                     <p data-fake-id='#toggle-id-2' class='toggler   ' itemprop="headline" role='tab' tabindex='0' aria-controls='toggle-id-2'>How Can Your Estimates help me?<span class="toggle_icon"><span class="vert_icon"></span><span class="hor_icon"></span></span></p>
                     <div id='toggle-id-2' class='toggle_wrap  '>
                       <div class='toggle_content invers-color ' itemprop="text">
-                        <p>Our home estimating services providers may assist you in securing bids on your projects, even if you&#8217;re a busy contractor with other work commitments. In addition, we&#8217;ll assist you in creating bid estimates and bid documentation that will help you earn more projects for your business.</p>
+                        <p style="text-align: justify;">Even if you're a busy contractor with other business obligations, our home estimating service providers
+                          may be able to help you secure bids on your projects. We will also help you with the preparation of bid
+                          estimates and bid documents so that you may win additional business.
+                        </p>
                       </div>
                     </div>
                   </div>
@@ -332,7 +392,7 @@
                     <p data-fake-id='#toggle-id-3' class='toggler   ' itemprop="headline" role='tab' tabindex='0' aria-controls='toggle-id-3'>What residential services do you provide?<span class="toggle_icon"><span class="vert_icon"></span><span class="hor_icon"></span></span></p>
                     <div id='toggle-id-3' class='toggle_wrap  '>
                       <div class='toggle_content invers-color ' itemprop="text">
-                        <p>We&#8217;re here to support contractors that specialize in making adjustments to preexisting buildings.</p>
+                        <p>We are here to assist contractors who specialize in modifying existing structures.</p>
                       </div>
                     </div>
                   </div>
@@ -342,7 +402,10 @@
                     <p data-fake-id='#toggle-id-4' class='toggler   ' itemprop="headline" role='tab' tabindex='0' aria-controls='toggle-id-4'>Are You A Credible Estimating Services Provider?<span class="toggle_icon"><span class="vert_icon"></span><span class="hor_icon"></span></span></p>
                     <div id='toggle-id-4' class='toggle_wrap  '>
                       <div class='toggle_content invers-color ' itemprop="text">
-                        <p> Estimating is an established firm that offers comprehensive cost estimates for building projects. Our cost consultants provide their professional, data-driven advice to public and private organizations around the country, working on building projects of all sizes and scopes.</p>
+                        <p style="text-align: justify;">An established company called Estimating provides thorough cost estimates for construction projects. Our
+                          cost consultants offer their qualified, data-driven counsel to public and commercial organisations working
+                          on construction projects of various sizes and scopes around the nation.
+                        </p>
                       </div>
                     </div>
                   </div>
@@ -352,7 +415,10 @@
                     <p data-fake-id='#toggle-id-5' class='toggler   ' itemprop="headline" role='tab' tabindex='0' aria-controls='toggle-id-5'>Why Should I choose you?<span class="toggle_icon"><span class="vert_icon"></span><span class="hor_icon"></span></span></p>
                     <div id='toggle-id-5' class='toggle_wrap  '>
                       <div class='toggle_content invers-color ' itemprop="text">
-                        <p>Our estimates will meet your individual requirements for winning bid proposals, establishing acceptable profit margins, and procuring material and labor, regardless of whether you work on modest home buildings or big residential projects. In addition, our home construction estimating services have been helpful to the subcontractors engaged since we have a staff of estimators specializing in various trades.</p>
+                        <p style="text-align: justify;">Whether you operate on little or large residential projects, our estimates will satisfy your specific needs
+                          for submitting competitive bid proposals, determining appropriate profit margins, and obtaining materials
+                          and labour. Additionally, because we have a staff of estimators with different areas of expertise, our home
+                          construction estimating services have proven beneficial to the subcontractors hired.</p>
                       </div>
                     </div>
                   </div>

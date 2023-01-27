@@ -254,7 +254,7 @@
                     <p data-fake-id='#toggle-id-4' class='toggler   ' itemprop="headline" role='tab' tabindex='0' aria-controls='toggle-id-4'>How Can I reach You?<span class="toggle_icon"><span class="vert_icon"></span><span class="hor_icon"></span></span></p>
                     <div id='toggle-id-4' class='toggle_wrap  '>
                       <div class='toggle_content invers-color ' itemprop="text">
-                        <p>If you want to avail of our professional quantity takeoff services then you can reach us through the following means:<br> Call us at +1 (917) 983-4975<br> Send an Email: <a href="mailto:info@allstateestimation.com">info@allstateestimation.com</a><br> Or Visit our physical office: Wallace Ave The Bronx, NY 10462, USA</p>
+                        <p>If you want to avail of our professional quantity takeoff services then you can reach us through the following means:<br> Call us at +1 (917) 983-4975<br> Send an Email: <a href="mailto:info@allstateestimation.us">info@allstateestimation.us</a><br> Or Visit our physical office: Wallace Ave The Bronx, NY 10462, USA</p>
                       </div>
                     </div>
                   </div>

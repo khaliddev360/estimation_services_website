@@ -16,7 +16,9 @@
             <div class='flex_column av-kz7y1y6a-9839c6e2bddb31f3e386cc35ef773b8a av_one_full  avia-builder-el-2  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
               <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                 <div class='avia_textblock  ' itemprop="text">
-                  <p>Our mechanical estimating service experts can take your mechanical drawings and provide precise mechanical takeoffs for your MEP projects. Estimated expenses will include those for all hardware as well as labor, materials, overhead, and a profit margin.</p>
+                  <p style="text-align: justify;">For your MEP projects, our mechanical estimating service professionals can use your mechanical drawings
+                    to produce accurate mechanical takeoffs. The estimated costs will cover all hardware, labour, supplies,
+                    overhead, and a profit margin.</p>
                 </div>
               </section>
             </div>
@@ -46,7 +48,11 @@
             <div class='flex_column av-kz7y3w1m-74cad773daf4da49c5c3125ca07b80d4 av_one_full  avia-builder-el-10  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
               <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                 <div class='avia_textblock  ' itemprop="text">
-                  <p>Among the many things we do is provide cost estimates for mechanical systems. We provide free cost estimating services for a broad variety of jobs, including but not limited to plumbing line and system design, HVAC system installation, freezing system installation, and general fabrication and engineering. All the mechanical equipment is taken into consideration for mechanical takeoffs, including air handlers, air conditioners, duct insulation, duct supports, pipelines, boilers, air filters, water heaters, chillers, dampers, and dust detectors.</p>
+                  <p style="text-align: justify;">One of the numerous things we do is give mechanical system cost estimates. We offer free cost estimation
+                    services for a wide range of projects, including general fabrication and engineering, HVAC system
+                    installation, freezing system installation, and plumbing line and system design. For mechanical takeoffs,
+                    all mechanical equipment, including air handlers, air conditioners, duct insulation, duct supports,
+                    pipelines, boilers, air filters, water heaters, chillers, dampers, and dust detectors, are taken into account.</p>
                 </div>
               </section>
             </div>
@@ -61,9 +67,20 @@
             <div class='flex_column av-2hxlok-ba275d014ea29abb2de8b4d31eeae920 av_one_full  avia-builder-el-14  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
               <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                 <div class='avia_textblock  ' itemprop="text">
-                  <p> Estimating is supported by seasoned mechanical specialists. At Estimate, our services are intended to give our customers comprehensive and efficient mechanical cost-estimating solutions for very basic to complicated mechanical systems, all under one roof. Our multidisciplinary quoting and project management staff carry out all services. We are dedicated to helping our customers overcome their obstacles by assisting them in conducting thorough project assessments, submitting competitive bids, and so fostering the development of their businesses.</p>
-                  <p>We hold fast to the conviction that our success is inextricably linked to that of our customers, and as a result, we work hard to cultivate lasting relationships. Companies in the construction industry, engineering design companies, mechanical contractors, plumbers, pipefitters, heating, ventilation, air conditioning (HVAC), and duct fabricators are among our customers. The services that we supply are appropriate to the client’s individual needs.</p>
-                  <p>Our mechanical estimating firm has been very helpful to our mechanical contracting clients in winning new work. As such, we are experts in creating bid estimates and material takeoffs. Moreover, we combine our consulting services into providing the most competitive and realistic profit margins to help our customers in the best manner possible.</p>
+                  <p style="text-align: justify;">A team of seasoned mechanical experts supports estimating. Our services at Estimate are designed to give
+                    customers all the mechanical cost-estimating options they need, from simple to complex mechanical
+                    systems, under one roof. All services are provided by our diverse project management and quoting team.
+                    We are committed to supporting the growth of our clients' businesses by assisting them in performing
+                    detailed project assessments, submitting competitive bids, and other related activities.</p>
+                  <p style="text-align: justify;">We are steadfast in our belief that the success of our clients is intimately related to our own, and as a
+                    result, we make an effort to build enduring partnerships. Our clients include businesses in the building
+                    sector, engineering design firms, mechanical contractors, plumbers, pipefitters, heating, ventilation, and
+                    air conditioning (HVAC), as well as duct fabricators. The services we offer are suitable for each client's
+                    unique requirements.</p>
+                  <p style="text-align: justify;">For our mechanical contracting clients, our mechanical estimating company has been very beneficial in
+                    securing new business. As a result, we are specialists in estimating bids and taking material takeoffs. In
+                    order to best serve our customers, we also combine our consulting services to offer the most affordable
+                    and reasonable profit margins.</p>
                 </div>
               </section>
             </div>
@@ -78,11 +95,17 @@
             <div class='flex_column av-28lv9g-cc3aca2e665c9ddc3e15f5ebfce4b25c av_one_full  avia-builder-el-18  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
               <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                 <div class='avia_textblock  ' itemprop="text">
-                  <p>We also provide insulation cost estimation for mechanical systems and pipelines. Contractors providing mechanical estimating services must, however, be very careful in making their estimations. More business will go their way as a result. In addition, we have a specialized master team that can provide you with in-depth analyses of your machinery.</p>
+                  <p style="text-align: justify;">We also offer pipeline and mechanical system insulation cost estimates. However, contractors who offer
+                    mechanical estimating services must be extremely cautious when creating their projections. They will gain
+                    more business as a result. We also have a specialist master team that can offer you comprehensive
+                    analyses of your equipment.</p>
                   <h3>What Software Do Our Estimators Use?</h3>
-                  <p>We only utilize top-notch programs, such as Fastwrap. They are capable of estimating the whole scope of the project&#8217;s financial demands. That sum may come from materials like pipe insulation or labor to install it. To rephrase, every factor is taken into account. In other words, you may put your money and time worries aside because of this contact. Please see below for a list of our primary services.</p>
+                  <p style="text-align: justify;">We only use the best software, like Fastwrap. They are able to calculate the whole range of the project's
+                    financial requirements. Materials like pipe insulation or installation labour may contribute to that total.
+                    To restate, every aspect is considered. In other words, this relationship may allow you to set aside your
+                    concerns about time and money. Please find a list of our main services below.</p>
                   <h3>Our Services:</h3>
-                  <p>What we&#8217;re providing is outlined below.</p>
+                  <p>The services we offer are described below.</p>
                   <ul>
                     <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Fireproofing</span></li>
                     <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Firestopping</span></li>
@@ -110,8 +133,17 @@
             <div class='flex_column av-1pwnx8-99d3cfde780574b36fd975b2276ef8e9 av_one_full  avia-builder-el-22  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
               <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                 <div class='avia_textblock  ' itemprop="text">
-                  <p><span style="font-weight: 400;">The hidden costs of plumbing systems might leave you irritated. We&#8217;ll provide a hand if you find yourself in such a predicament. It is so because we have specialists who can produce estimates of HVAC and ducting. Additionally, the complexity of the pipe infrastructure in the industrial zone might cause concern. Do not confuse us with unnecessary detail; instead, just describe the issue at hand. Trust that our genuine mechanical estimator will exceed your expectations. Owing to this, do not wait for a second and contact us.</span></p>
-                  <p><span style="font-weight: 400;">Our assessors aim to bring top-notch professionals suitably to work together with your venture groups to supply precise takeoffs to the strategy, construction, and installation of HVAC frameworks. Every one of the pieces is examined about their sizes and forms like round, oval, rectangular conduits and twisting lines, and so on.</span></p>
+                  <p><span style="font-weight: 400; text-align:justify;">You could become frustrated by the plumbing systems' hidden charges. If you find yourself in such a
+                      situation, we'll lend a hand. This is true since we employ experts who can provide HVAC and ducting cost
+                      estimates. The industrial zone's complicated pipe infrastructure may also be a source of worry. Just
+                      describe the problem at hand; don't confuse us with additional information. You may depend on our
+                      genuine mechanical estimator to go above and beyond your expectations. Due to this, get in touch with
+                      us right away.
+                    </span></p>
+                  <p><span style="font-weight: 400; text-align:justify;">Our assessors endeavour to bring in top-tier professionals that can effectively collaborate with your
+                      project teams to provide accurate takeoffs for the design, development, and installation of HVAC
+                      frameworks. Every component is evaluated for its dimensions and shapes, such as its round, oval,
+                      rectangular conduits, twisting lines, etc.</span></p>
                   <p><span style="font-weight: 400;">To that end, we provide the following services.</span></p>
                   <p><span style="font-weight: 400;">Furnaces</span></p>
                   <p><span style="font-weight: 400;">Ventilation</span></p>
@@ -153,13 +185,23 @@
               <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                 <div class='avia_textblock  ' itemprop="text">
                   <h3>Achieve a Higher Rate of Project Success</h3>
-                  <p>We are one of the leading mechanical estimating firms and can assist you in finding and securing a suitable position, making the most of available possibilities, meeting deadlines, and successfully navigating the bidding process. We hold your hand through the whole bidding and contract negotiation process, helping you get more wins and increase your business.</p>
+                  <p style="text-align: justify;">One of the top mechanical estimating companies, we can help you identify and secure a suitable position,
+                    take advantage of opportunities, fulfil deadlines, and effectively complete the bidding process. We walk
+                    you through every step of the proposal and contract-negotiation process in order to help you obtain more
+                    work and grow your company.</p>
                   <h3>RESULT TIMES IN A SNAP</h3>
-                  <p>A single day&#8217;s delay in submitting a bid might mean losing out on a lucrative building project. Our method of estimation is both time and cost-saving. When it comes to mechanical estimating services, no one can compete with our speed and reliability.</p>
+                  <p style="text-align: justify;">A single day's extra time could mean missing out on a high-paying construction project. Our estimation
+                    method results in time and cost savings. When it comes to mechanical estimation services, no one can
+                    match our dependability and effectiveness.</p>
                   <h3>DROPPED CHANGE ORDERS</h3>
-                  <p>Accurate forecasts allow for efficient control of material requirements. The added expense and disruption caused by construction change orders are avoided as much as possible thanks to the stringent quality control over our estimates that we maintain.</p>
+                  <p style="text-align: justify;">The effective management of material requirements is made possible by accurate forecasts. By
+                    maintaining strict quality control over our estimates, we are able to minimise the additional cost and
+                    interruption generated by construction change orders.
+                  </p>
                   <h3>REPORTS THAT ANYONE CAN READ</h3>
-                  <p>We offer on-the-spot assessment, comparison, and editing of reports that are both simples to read and backed with color-coded, marked-up plans for correct analysis.</p>
+                  <p style="text-align: justify;">We provide on-site evaluation, comparison, and editing of reports that are easy to understand and
+                    supported by color-coded, marked-up plans for accurate analysis.
+                  </p>
                 </div>
               </section>
             </div>
@@ -178,7 +220,9 @@
                     <p data-fake-id='#toggle-id-1' class='toggler   ' itemprop="headline" role='tab' tabindex='0' aria-controls='toggle-id-1'>How can mechanical contractors benefit from our outsourced estimating services?<span class="toggle_icon"><span class="vert_icon"></span><span class="hor_icon"></span></span></p>
                     <div id='toggle-id-1' class='toggle_wrap  '>
                       <div class='toggle_content invers-color ' itemprop="text">
-                        <p>Since many mechanical contractors have come to rely on us to handle all of their estimating needs, we&#8217;ve been able to help them save money (by as much as 60%) compared to employing an estimator full-time.</p>
+                        <p style="text-align: justify;">We've been able to help mechanical contractors save money (by as much as 60%) compared to hiring an
+                          estimate full-time because many of them have grown to rely on us to handle all of their estimating
+                          requirements.</p>
                       </div>
                     </div>
                   </div>
@@ -188,9 +232,11 @@
                     <p data-fake-id='#toggle-id-2' class='toggler   ' itemprop="headline" role='tab' tabindex='0' aria-controls='toggle-id-2'>When can we expect our mechanical cost estimates to be completed?<span class="toggle_icon"><span class="vert_icon"></span><span class="hor_icon"></span></span></p>
                     <div id='toggle-id-2' class='toggle_wrap  '>
                       <div class='toggle_content invers-color ' itemprop="text">
-                        <p>Our typical turnaround time for estimates is between 24 and 48 hours. We provide the fastest turnaround times and the highest quality products available.</p>
-                        <p>Costs for mechanical takeoffs and price quotes, please.</p>
-                        <p>Takeoffs and estimates for mechanical work cost about $200 on average from us. Once we&#8217;ve reviewed your ideas and scope of work, however, we can provide a more accurate quotation.</p>
+                        <p style="text-align: justify;">We typically respond to estimates within 24 to 48 hours. We offer the highest quality items and the
+                          quickest response times.</p>
+                        <p>Please provide mechanical takeoff costs and price quotes.</p>
+                        <p style="text-align: justify;">Takeoffs and estimates for mechanical work from us often cost around $200. But we can give you a more
+                          precise quote after we've looked over your suggestions and the extent of the project.</p>
                       </div>
                     </div>
                   </div>
@@ -200,7 +246,11 @@
                     <p data-fake-id='#toggle-id-3' class='toggler   ' itemprop="headline" role='tab' tabindex='0' aria-controls='toggle-id-3'>How do we make sure our calculations are precise?<span class="toggle_icon"><span class="vert_icon"></span><span class="hor_icon"></span></span></p>
                     <div id='toggle-id-3' class='toggle_wrap  '>
                       <div class='toggle_content invers-color ' itemprop="text">
-                        <p>Bluebeam, Plan Swift, Fastpipe, Fastduct, Fastwrap, etc., are all examples of approved software that are used to import each design or plan. A senior estimator does a &#8220;cold eyes&#8221; check of the marked-up plans and takeoffs sheet in Excel to confirm that our qualified and certified estimator has taken into account all relevant factors and that all relevant standards and regulations have been adhered to. We use RSmeans and artisans to get accurate prices for labor, materials, and machinery.</p>
+                        <p style="text-align: justify;">Each design or plan is imported using approved software, such as Bluebeam, Plan Swift, Fastpipe,
+                          Fastduct, Fastwrap, etc. To ensure that our qualified and certified estimator has taken into account all
+                          pertinent factors and that all pertinent norms and regulations have been adhered to, a senior estimator
+                          performs a "cold eyes" review of the marked-up plans and takeoffs sheet in Excel. For precise labour,
+                          material, and equipment costs, we employ RSmeans and craftspeople.</p>
                       </div>
                     </div>
                   </div>
@@ -210,7 +260,10 @@
                     <p data-fake-id='#toggle-id-4' class='toggler   ' itemprop="headline" role='tab' tabindex='0' aria-controls='toggle-id-4'>Anyway, I Can Get In Touch With You?<span class="toggle_icon"><span class="vert_icon"></span><span class="hor_icon"></span></span></p>
                     <div id='toggle-id-4' class='toggle_wrap  '>
                       <div class='toggle_content invers-color ' itemprop="text">
-                        <p>You can get in touch with us in multiple ways. You can visit our onsite office location at 102-12 Arlington Road, Suite 900 Arlington, VA 22201. Call us at (708) 381-9000 or even send an email: to <a href="../cdn-cgi/l/email-protection.htm" class="__cf_email__" data-cfemail="info@allstateestimation.com">info@allstateestimation.com</a></p>
+                        <p>There are several methods for you to get in touch with us. <b>Wallace Ave, The Bronx, NY 10462, USA</b>,is the
+                          address of our physical office. You can reach us by phone at <b><a href="callto:(917) 983-4975">(917) 983-4975</a></b> or by email at
+                          <b><a href="mailto:info@allstateestimation.us">info@allstateestimation.us</a></b> .
+                        </p>
                       </div>
                     </div>
                   </div>

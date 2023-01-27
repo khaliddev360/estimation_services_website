@@ -70,7 +70,7 @@
                              line-height: 20px;
                          }
                      </style> <span class="av_font_icon av-av_font_icon-61c4f1305862cc33e6a4d6808ce7311f avia_animate_when_visible av-icon-style- avia-icon-pos-left avia-icon-animate "><span class='av-icon-char' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span></span>
-                     <p><a href="mailto:info@allstateestimation.com">info@allstateestimation.com</a></p>
+                     <p><a href="mailto:info@allstateestimation.us">info@allstateestimation.us</a></p>
                  </div> <span class="seperator extralight-border"></span>
              </section>
          </div>
@@ -121,7 +121,7 @@
          <div class="paoc-padding-20 paoc-popup-con-bg">
              <div class="paoc-popup-inr">
                  <div class="paoc-popup-margin paoc-popup-content">
-                     <h2 style="text-align: center; font-size: 55px; color: #00515a;">Avail 50% Discount</h2>
+                     <h2 style="text-align: center; font-size: 55px; color: #00515a;">Avail Discount</h2>
                      <h3 style="text-align: center;">Limited Time Offer</h3>
                      <p>&nbsp;</p>
                      <div class='av-countdown-timer av-av_countdown-e99ffac4306d0acb56dfef93b3f89c34 av-align-center av-default-style ' data-year=' 2022' data-month='11' data-day=' 31 ' data-hour='12' data-minute='59' data-timezone='0' data-interval='1000' data-maximum='5'><span class='av-countdown-timer-inner'><span class='av-countdown-cell av-countdown-weeks'><span class='av-countdown-cell-inner'><span class='av-countdown-time ' data-upate-width='weeks'>0</span><span class='av-countdown-time-label ' data-label='Week' data-label-multi='Weeks'>Weeks</span></span></span><span class='av-countdown-cell av-countdown-days'><span class='av-countdown-cell-inner'><span class='av-countdown-time ' data-upate-width='days'>0</span><span class='av-countdown-time-label ' data-label='Day' data-label-multi='Days'>Days</span></span></span><span class='av-countdown-cell av-countdown-hours'><span class='av-countdown-cell-inner'><span class='av-countdown-time ' data-upate-width='hours'>0</span><span class='av-countdown-time-label ' data-label='Hour' data-label-multi='Hours'>Hours</span></span></span><span class='av-countdown-cell av-countdown-minutes'><span class='av-countdown-cell-inner'><span class='av-countdown-time ' data-upate-width='minutes'>0</span><span class='av-countdown-time-label ' data-label='Minute' data-label-multi='Minutes'>Minutes</span></span></span><span class='av-countdown-cell av-countdown-seconds'><span class='av-countdown-cell-inner'><span class='av-countdown-time ' data-upate-width='seconds'>0</span><span class='av-countdown-time-label ' data-label='Second' data-label-multi='Seconds'>Seconds</span></span></span></span></div>

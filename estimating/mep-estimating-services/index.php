@@ -224,7 +224,7 @@
             <div class='flex_column av-aypfk-6c38fe7a7014c0cc8780d9ff7c25ce18 av_one_full  avia-builder-el-44  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
               <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                 <div class='avia_textblock  ' itemprop="text">
-                  <p>You can contact us here if you are looking at the<b> MEP Estimates</b> services. Further, you can email us at <a href="mailto:info@allstateestimation.com"><span>info@allstateestimation.com</span></a>  for the details or make a direct call at +1 (917) 983-4975</p>
+                  <p>You can contact us here if you are looking at the<b> MEP Estimates</b> services. Further, you can email us at <a href="mailto:info@allstateestimation.us"><span>info@allstateestimation.us</span></a>  for the details or make a direct call at +1 (917) 983-4975</p>
                 </div>
               </section>
             </div>

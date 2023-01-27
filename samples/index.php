@@ -25,7 +25,7 @@
                   <div class='special-heading-inner-border'></div>
                 </div>
               </div>
-              <div class='avia-button-wrap avia-button-center  avia-builder-el-5  el_after_av_heading  avia-builder-el-last '><a href='../asset-1/uploads/2022/04/MEP-Sample.pdf' class='avia-button av-2al9hh-6f3a4b9f393e738617ab4c442ab8935e avia-icon_select-no avia-size-small avia-position-center avia-color-theme-color ' target="_blank" rel="noopener noreferrer"><span class='avia_iconbox_title'>Click to view</span></a></div>
+              <div class='avia-button-wrap avia-button-center  avia-builder-el-5  el_after_av_heading  avia-builder-el-last '><a href='../asset-1/uploads/2022/02/sample/MEP-Estimating-Sample/MEP Estimating Markups.pdf' class='avia-button av-2al9hh-6f3a4b9f393e738617ab4c442ab8935e avia-icon_select-no avia-size-small avia-position-center avia-color-theme-color ' target="_blank" rel="noopener noreferrer"><span class='avia_iconbox_title'>Click to view</span></a></div>
             </div>
             <div class='flex_column av-1n88h9-9a21bc39bb2c3f369feac538f10df040 av_one_fourth  avia-builder-el-6  el_after_av_one_fourth  el_before_av_one_fourth  flex_column_div column-top-margin'>
               <div class='avia-image-container av-1dzo99-8b5a2dccaecf30344955d98ca6fb8528 av-styling- avia-align-center  avia-builder-el-7  el_before_av_heading  avia-builder-el-first  ' itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
@@ -39,7 +39,7 @@
                   <div class='special-heading-inner-border'></div>
                 </div>
               </div>
-              <div class='avia-button-wrap avia-button-center  avia-builder-el-9  el_after_av_heading  avia-builder-el-last '><a href='../asset-1/uploads/2022/02/Sample-Mechanical-Estimating.pdf' class='avia-button av-1ahrul-0fb48eb3f0466a19342bc245eac44b07 avia-icon_select-no avia-size-small avia-position-center avia-color-theme-color ' target="_blank" rel="noopener noreferrer"><span class='avia_iconbox_title'>Click to view</span></a></div>
+              <div class='avia-button-wrap avia-button-center  avia-builder-el-9  el_after_av_heading  avia-builder-el-last '><a href='../asset-1/uploads/2022/02/sample/Mechanical-Estimating-Sample/Mechanical-Estimating-Markups.pdf' class='avia-button av-1ahrul-0fb48eb3f0466a19342bc245eac44b07 avia-icon_select-no avia-size-small avia-position-center avia-color-theme-color ' target="_blank" rel="noopener noreferrer"><span class='avia_iconbox_title'>Click to view</span></a></div>
             </div>
             <div class='flex_column av-132iph-5e98422053eaf17c03bc4c9db00ace03 av_one_fourth  avia-builder-el-10  el_after_av_one_fourth  el_before_av_one_fourth  flex_column_div column-top-margin'>
               <div class='avia-image-container av-xt6cl-08ef49798375e98b2715038d1465f6e7 av-styling- avia-align-center  avia-builder-el-11  el_before_av_heading  avia-builder-el-first  ' itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
@@ -53,7 +53,7 @@
                   <div class='special-heading-inner-border'></div>
                 </div>
               </div>
-              <div class='avia-button-wrap avia-button-center  avia-builder-el-13  el_after_av_heading  avia-builder-el-last '><a href='../asset-1/uploads/2022/04/Electrical-Sample.pdf' class='avia-button av-s4vet-929e9e362925bdc156dabd6670186183 avia-icon_select-no avia-size-small avia-position-center avia-color-theme-color ' target="_blank" rel="noopener noreferrer"><span class='avia_iconbox_title'>Click to view</span></a></div>
+              <div class='avia-button-wrap avia-button-center  avia-builder-el-13  el_after_av_heading  avia-builder-el-last '><a href='../asset-1/uploads/2022/02/sample/Electrical-Estimating-Sample/Electrical-Estimating-Sample-Mark-Up.pdf' class='avia-button av-s4vet-929e9e362925bdc156dabd6670186183 avia-icon_select-no avia-size-small avia-position-center avia-color-theme-color ' target="_blank" rel="noopener noreferrer"><span class='avia_iconbox_title'>Click to view</span></a></div>
             </div>
             <div class='flex_column av-l2779-47a5b2d7adda1c64e92e5f381d4f3fd1 av_one_fourth  avia-builder-el-14  el_after_av_one_fourth  el_before_av_one_fourth  flex_column_div column-top-margin'>
               <div class='avia-image-container av-djhtx-d34baf3f8fabc11c2eac6787bf6963dd av-styling- avia-align-center  avia-builder-el-15  el_before_av_heading  avia-builder-el-first  ' itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
@@ -67,7 +67,7 @@
                   <div class='special-heading-inner-border'></div>
                 </div>
               </div>
-              <div class='avia-button-wrap avia-button-center  avia-builder-el-17  el_after_av_heading  avia-builder-el-last '><a href='../asset-1/uploads/2022/04/Plumbing-Sample.pdf' class='avia-button av-867hx-e88e9480f774956b4d754bd3d67c3de3 avia-icon_select-no avia-size-small avia-position-center avia-color-theme-color ' target="_blank" rel="noopener noreferrer"><span class='avia_iconbox_title'>Click to view</span></a></div>
+              <div class='avia-button-wrap avia-button-center  avia-builder-el-17  el_after_av_heading  avia-builder-el-last '><a href='../asset-1/uploads/2022/02/sample/Plumbing-Estimating-Sample/Plumbing-Estimating-Markups.pdf' class='avia-button av-867hx-e88e9480f774956b4d754bd3d67c3de3 avia-icon_select-no avia-size-small avia-position-center avia-color-theme-color ' target="_blank" rel="noopener noreferrer"><span class='avia_iconbox_title'>Click to view</span></a></div>
             </div>
             <div class='flex_column av-1b0kt-03fb27871dd64a7ba76f270ee0bdea41 av_one_fourth  avia-builder-el-18  el_after_av_one_fourth  el_before_av_one_fourth  first flex_column_div column-top-margin'>
               <div class='avia-image-container av-kz8abcid-6db3d37094ffcac76035997ef6e29e4d av-styling- avia-align-center  avia-builder-el-19  el_before_av_heading  avia-builder-el-first  ' itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
@@ -81,7 +81,7 @@
                   <div class='special-heading-inner-border'></div>
                 </div>
               </div>
-              <div class='avia-button-wrap avia-button-center  avia-builder-el-21  el_after_av_heading  avia-builder-el-last '><a href='../asset-1/uploads/2022/04/HVAC-Sample.pdf' class='avia-button av-7lft9-61acf034a9c6542c4ea2557bcf4a9d0f avia-icon_select-no avia-size-small avia-position-center avia-color-theme-color ' target="_blank" rel="noopener noreferrer"><span class='avia_iconbox_title'>Click to view</span></a></div>
+              <div class='avia-button-wrap avia-button-center  avia-builder-el-21  el_after_av_heading  avia-builder-el-last '><a href='../asset-1/uploads/2022/02/sample/HVAC-Estimating-Sample/HVAC-Estimating-Markups.pdf' class='avia-button av-7lft9-61acf034a9c6542c4ea2557bcf4a9d0f avia-icon_select-no avia-size-small avia-position-center avia-color-theme-color ' target="_blank" rel="noopener noreferrer"><span class='avia_iconbox_title'>Click to view</span></a></div>
             </div>
             <div class='flex_column av-1sovyd-c1408e3119b5bc339fff9a1f63c1a6d4 av_one_fourth  avia-builder-el-22  el_after_av_one_fourth  el_before_av_one_fourth  flex_column_div column-top-margin'>
               <div class='avia-image-container av-kzcclbsu-746d055765b570654143eb7a47169daf av-styling- avia-align-center  avia-builder-el-23  el_before_av_heading  avia-builder-el-first  ' itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
@@ -95,7 +95,7 @@
                   <div class='special-heading-inner-border'></div>
                 </div>
               </div>
-              <div class='avia-button-wrap avia-button-center  avia-builder-el-25  el_after_av_heading  avia-builder-el-last '><a href='../asset-1/uploads/2022/02/Sample-DUCT.pdf' class='avia-button av-1n1z65-2edf009b9411064c084aa5c70a5e3b6a avia-icon_select-no avia-size-small avia-position-center avia-color-theme-color ' target="_blank" rel="noopener noreferrer"><span class='avia_iconbox_title'>Click to view</span></a></div>
+              <div class='avia-button-wrap avia-button-center  avia-builder-el-25  el_after_av_heading  avia-builder-el-last '><a href='#' class='avia-button av-1n1z65-2edf009b9411064c084aa5c70a5e3b6a avia-icon_select-no avia-size-small avia-position-center avia-color-theme-color ' target="_blank" rel="noopener noreferrer"><span class='avia_iconbox_title'>Click to view</span></a></div>
             </div>
             <div class='flex_column av-taax9-608d87e1cd901b4bbfdaf8e4237b695d av_one_fourth  avia-builder-el-26  el_after_av_one_fourth  el_before_av_one_fourth  flex_column_div column-top-margin'>
               <div class='avia-image-container av-kz8ansc6-08be51a6cc2d06154c90b04e16959d30 av-styling- avia-align-center  avia-builder-el-27  el_before_av_heading  avia-builder-el-first  ' itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
@@ -109,7 +109,7 @@
                   <div class='special-heading-inner-border'></div>
                 </div>
               </div>
-              <div class='avia-button-wrap avia-button-center  avia-builder-el-29  el_after_av_heading  avia-builder-el-last '><a href='../asset-1/uploads/2022/04/Mechanical-Piping-Sample.pdf' class='avia-button av-lfnrp-4b70de2d69e063a1dd9e238edd61125e avia-icon_select-no avia-size-small avia-position-center avia-color-theme-color ' target="_blank" rel="noopener noreferrer"><span class='avia_iconbox_title'>Click to view</span></a></div>
+              <div class='avia-button-wrap avia-button-center  avia-builder-el-29  el_after_av_heading  avia-builder-el-last '><a href='#' class='avia-button av-lfnrp-4b70de2d69e063a1dd9e238edd61125e avia-icon_select-no avia-size-small avia-position-center avia-color-theme-color ' target="_blank" rel="noopener noreferrer"><span class='avia_iconbox_title'>Click to view</span></a></div>
             </div>
             <div class='flex_column av-f1jth-9893ecd19c82d28d018be981f48ae566 av_one_fourth  avia-builder-el-30  el_after_av_one_fourth  el_before_av_one_fourth  flex_column_div column-top-margin'>
               <div class='avia-image-container av-kz8aol7p-a97ef5c8fc8b33d723f07f947535feca av-styling- avia-align-center  avia-builder-el-31  el_before_av_heading  avia-builder-el-first  ' itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
@@ -123,7 +123,7 @@
                   <div class='special-heading-inner-border'></div>
                 </div>
               </div>
-              <div class='avia-button-wrap avia-button-center  avia-builder-el-33  el_after_av_heading  avia-builder-el-last '><a href='../asset-1/uploads/2022/02/Sample-Lumber-takeoff.pdf' class='avia-button av-30h1-5439475aa8d716dd7523c7fbbc40e8b1 avia-icon_select-no avia-size-small avia-position-center avia-color-theme-color ' target="_blank" rel="noopener noreferrer"><span class='avia_iconbox_title'>Click to view</span></a></div>
+              <div class='avia-button-wrap avia-button-center  avia-builder-el-33  el_after_av_heading  avia-builder-el-last '><a href='#' class='avia-button av-30h1-5439475aa8d716dd7523c7fbbc40e8b1 avia-icon_select-no avia-size-small avia-position-center avia-color-theme-color ' target="_blank" rel="noopener noreferrer"><span class='avia_iconbox_title'>Click to view</span></a></div>
             </div>
             <div class='flex_column av-hopqt-63527a17f1852c21224c9a9e7f2be4cc av_one_fourth  avia-builder-el-34  el_after_av_one_fourth  el_before_av_one_fourth  first flex_column_div column-top-margin'>
               <div class='avia-image-container av-kz8a8hpb-e80a457947287455a18bd37a59a4f2fa av-styling- avia-align-center  avia-builder-el-35  el_before_av_heading  avia-builder-el-first  ' itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
@@ -137,7 +137,7 @@
                   <div class='special-heading-inner-border'></div>
                 </div>
               </div>
-              <div class='avia-button-wrap avia-button-center  avia-builder-el-37  el_after_av_heading  avia-builder-el-last '><a href='../asset-1/uploads/2022/02/Sample-Fireproofing-Estimating.pdf' class='avia-button av-ao88l-35598a5621bb5e54b4af3e1aa8a2993d avia-icon_select-no avia-size-small avia-position-center avia-color-theme-color ' target="_blank" rel="noopener noreferrer"><span class='avia_iconbox_title'>Click to view</span></a></div>
+              <div class='avia-button-wrap avia-button-center  avia-builder-el-37  el_after_av_heading  avia-builder-el-last '><a href='#' class='avia-button av-ao88l-35598a5621bb5e54b4af3e1aa8a2993d avia-icon_select-no avia-size-small avia-position-center avia-color-theme-color ' target="_blank" rel="noopener noreferrer"><span class='avia_iconbox_title'>Click to view</span></a></div>
             </div>
             <div class='flex_column av-1j5i2l-e9c63d7d5fe984ebb0927dbb94d26289 av_one_fourth  avia-builder-el-38  el_after_av_one_fourth  el_before_av_one_fourth  flex_column_div column-top-margin'>
               <div class='avia-image-container av-kzcbxwg6-9afb69d369aec566d3f2ee5d62d9a864 av-styling- avia-align-center  avia-builder-el-39  el_before_av_heading  avia-builder-el-first  ' itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
@@ -151,7 +151,7 @@
                   <div class='special-heading-inner-border'></div>
                 </div>
               </div>
-              <div class='avia-button-wrap avia-button-center  avia-builder-el-41  el_after_av_heading  avia-builder-el-last '><a href='../asset-1/uploads/2022/04/Sheet-Metal-Sample.pdf' class='avia-button av-1gqiwd-2cdfd0aab5214da6e7add15961d717b4 avia-icon_select-no avia-size-small avia-position-center avia-color-theme-color ' target="_blank" rel="noopener noreferrer"><span class='avia_iconbox_title'>Click to view</span></a></div>
+              <div class='avia-button-wrap avia-button-center  avia-builder-el-41  el_after_av_heading  avia-builder-el-last '><a href='#' class='avia-button av-1gqiwd-2cdfd0aab5214da6e7add15961d717b4 avia-icon_select-no avia-size-small avia-position-center avia-color-theme-color ' target="_blank" rel="noopener noreferrer"><span class='avia_iconbox_title'>Click to view</span></a></div>
             </div>
             <div class='flex_column av-19qfa5-d573aa9e83f4d24c5249a2709dac486b av_one_fourth  avia-builder-el-42  el_after_av_one_fourth  el_before_av_one_fourth  flex_column_div column-top-margin'>
               <div class='avia-image-container av-kzcbzlr8-1bc4c4fc7419f361e583c1279ff50fc0 av-styling- avia-align-center  avia-builder-el-43  el_before_av_heading  avia-builder-el-first  ' itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
@@ -165,7 +165,7 @@
                   <div class='special-heading-inner-border'></div>
                 </div>
               </div>
-              <div class='avia-button-wrap avia-button-center  avia-builder-el-45  el_after_av_heading  avia-builder-el-last '><a href='../asset-1/uploads/2022/02/Sample-Rebars.pdf' class='avia-button av-40tet-4e7d1b9934914c183e48b21dd0b4cc35 avia-icon_select-no avia-size-small avia-position-center avia-color-theme-color ' target="_blank" rel="noopener noreferrer"><span class='avia_iconbox_title'>Click to view</span></a></div>
+              <div class='avia-button-wrap avia-button-center  avia-builder-el-45  el_after_av_heading  avia-builder-el-last '><a href='#' class='avia-button av-40tet-4e7d1b9934914c183e48b21dd0b4cc35 avia-icon_select-no avia-size-small avia-position-center avia-color-theme-color ' target="_blank" rel="noopener noreferrer"><span class='avia_iconbox_title'>Click to view</span></a></div>
             </div>
             <div class='flex_column av-v5r5x-fedfee0d766036b1dd96b3b2ebfe7156 av_one_fourth  avia-builder-el-46  el_after_av_one_fourth  el_before_av_one_fourth  flex_column_div column-top-margin'>
               <div class='avia-image-container av-kzcc1vxu-2adbf2d20f8fe0e4d1cf128055726b92 av-styling- avia-align-center  avia-builder-el-47  el_before_av_heading  avia-builder-el-first  ' itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
@@ -179,7 +179,7 @@
                   <div class='special-heading-inner-border'></div>
                 </div>
               </div>
-              <div class='avia-button-wrap avia-button-center  avia-builder-el-49  el_after_av_heading  avia-builder-el-last '><a href='../asset-1/uploads/2022/02/Sample-Concrete.pdf' class='avia-button av-qq0e5-d4a1228130ff2b7f3334cef96c807b47 avia-icon_select-no avia-size-small avia-position-center avia-color-theme-color ' target="_blank" rel="noopener noreferrer"><span class='avia_iconbox_title'>Click to view</span></a></div>
+              <div class='avia-button-wrap avia-button-center  avia-builder-el-49  el_after_av_heading  avia-builder-el-last '><a href='../asset-1/uploads/2022/02/sample/Concrete-Estimating-Sample/Concrete-Estimating-Markups.pdf' class='avia-button av-qq0e5-d4a1228130ff2b7f3334cef96c807b47 avia-icon_select-no avia-size-small avia-position-center avia-color-theme-color ' target="_blank" rel="noopener noreferrer"><span class='avia_iconbox_title'>Click to view</span></a></div>
             </div>
             <div class='flex_column av-mx80d-729204da96ddbbcd0eb249b749457536 av_one_fourth  avia-builder-el-50  el_after_av_one_fourth  el_before_av_one_fourth  first flex_column_div column-top-margin'>
               <div class='avia-image-container av-kzcc42vd-d661600d51d2a17594407465fb7201e6 av-styling- avia-align-center  avia-builder-el-51  el_before_av_heading  avia-builder-el-first  ' itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
@@ -193,7 +193,7 @@
                   <div class='special-heading-inner-border'></div>
                 </div>
               </div>
-              <div class='avia-button-wrap avia-button-center  avia-builder-el-53  el_after_av_heading  avia-builder-el-last '><a href='../asset-1/uploads/2022/02/Sample-Masonry.pdf' class='avia-button av-ajutx-a3d95d5bf04050f86d1ad0238f5b90c2 avia-icon_select-no avia-size-small avia-position-center avia-color-theme-color ' target="_blank" rel="noopener noreferrer"><span class='avia_iconbox_title'>Click to view</span></a></div>
+              <div class='avia-button-wrap avia-button-center  avia-builder-el-53  el_after_av_heading  avia-builder-el-last '><a href='../asset-1/uploads/2022/02/sample/Masonry-Estimating-Sample/Masonry-estimating-Markups.pdf' class='avia-button av-ajutx-a3d95d5bf04050f86d1ad0238f5b90c2 avia-icon_select-no avia-size-small avia-position-center avia-color-theme-color ' target="_blank" rel="noopener noreferrer"><span class='avia_iconbox_title'>Click to view</span></a></div>
             </div>
             <div class='flex_column av-fg6tp-2663c010bf4c68a3f0c6cc086e8644c8 av_one_fourth  avia-builder-el-54  el_after_av_one_fourth  el_before_av_one_fourth  flex_column_div column-top-margin'>
               <div class='avia-image-container av-kzcc7aco-b6c09c18c20f8504150795c45fa0fa5c av-styling- avia-align-center  avia-builder-el-55  el_before_av_heading  avia-builder-el-first  ' itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
@@ -207,7 +207,7 @@
                   <div class='special-heading-inner-border'></div>
                 </div>
               </div>
-              <div class='avia-button-wrap avia-button-center  avia-builder-el-57  el_after_av_heading  avia-builder-el-last '><a href='../asset-1/uploads/2022/02/Sample-Paint.pdf' class='avia-button av-9kg51-97b08984051b58db328423d5c6b38455 avia-icon_select-no avia-size-small avia-position-center avia-color-theme-color ' target="_blank" rel="noopener noreferrer"><span class='avia_iconbox_title'>Click to view</span></a></div>
+              <div class='avia-button-wrap avia-button-center  avia-builder-el-57  el_after_av_heading  avia-builder-el-last '><a href='../asset-1/uploads/2022/02/sample/Painting-Estimating-Sample/Paint-Estimating-Markups.pdf' class='avia-button av-9kg51-97b08984051b58db328423d5c6b38455 avia-icon_select-no avia-size-small avia-position-center avia-color-theme-color ' target="_blank" rel="noopener noreferrer"><span class='avia_iconbox_title'>Click to view</span></a></div>
             </div>
             <div class='flex_column av-pj89p-aa0bb4365dfde2e76a5b20ae8bbfb50c av_one_fourth  avia-builder-el-58  el_after_av_one_fourth  el_before_av_one_fourth  flex_column_div column-top-margin'>
               <div class='avia-image-container av-kzcc9fdx-282450c0c902c554ab038adccdbbce70 av-styling- avia-align-center  avia-builder-el-59  el_before_av_heading  avia-builder-el-first  ' itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
@@ -221,7 +221,7 @@
                   <div class='special-heading-inner-border'></div>
                 </div>
               </div>
-              <div class='avia-button-wrap avia-button-center  avia-builder-el-61  el_after_av_heading  avia-builder-el-last '><a href='../asset-1/uploads/2022/02/Sample-Preliminary-Estimate.pdf' class='avia-button av-24rkd-94b3a94e8589ef373d865724b4c7b31c avia-icon_select-no avia-size-small avia-position-center avia-color-theme-color ' target="_blank" rel="noopener noreferrer"><span class='avia_iconbox_title'>Click to view</span></a></div>
+              <div class='avia-button-wrap avia-button-center  avia-builder-el-61  el_after_av_heading  avia-builder-el-last '><a href='#' class='avia-button av-24rkd-94b3a94e8589ef373d865724b4c7b31c avia-icon_select-no avia-size-small avia-position-center avia-color-theme-color ' target="_blank" rel="noopener noreferrer"><span class='avia_iconbox_title'>Click to view</span></a></div>
             </div>
             <div class='flex_column av-g6q2l-a558148c9aa34a59ad08df91b6251c95 av_one_fourth  avia-builder-el-62  el_after_av_one_fourth  el_before_av_one_fourth  flex_column_div column-top-margin'>
               <div class='avia-image-container av-kzccb6ml-05d396be08f66ee5949ff1d57127cf84 av-styling- avia-align-center  avia-builder-el-63  el_before_av_heading  avia-builder-el-first  ' itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
@@ -235,7 +235,7 @@
                   <div class='special-heading-inner-border'></div>
                 </div>
               </div>
-              <div class='avia-button-wrap avia-button-center  avia-builder-el-65  el_after_av_heading  avia-builder-el-last '><a href='../asset-1/uploads/2022/02/Sample-Quantity-Takeoffs.pdf' class='avia-button av-b5cr1-916e94c857d4e7392ff061d1fcc3c79b avia-icon_select-no avia-size-small avia-position-center avia-color-theme-color ' target="_blank" rel="noopener noreferrer"><span class='avia_iconbox_title'>Click to view</span></a></div>
+              <div class='avia-button-wrap avia-button-center  avia-builder-el-65  el_after_av_heading  avia-builder-el-last '><a href='#' class='avia-button av-b5cr1-916e94c857d4e7392ff061d1fcc3c79b avia-icon_select-no avia-size-small avia-position-center avia-color-theme-color ' target="_blank" rel="noopener noreferrer"><span class='avia_iconbox_title'>Click to view</span></a></div>
             </div>
             <div class='flex_column av-d56ed-90618311930781d9892fcf73225ae239 av_one_fourth  avia-builder-el-66  el_after_av_one_fourth  el_before_av_one_fourth  first flex_column_div column-top-margin'>
               <div class='avia-image-container av-kzccev4r-6484546e280bc8561af9ca4e2f7caf3a av-styling- avia-align-center  avia-builder-el-67  el_before_av_heading  avia-builder-el-first  ' itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
@@ -249,7 +249,7 @@
                   <div class='special-heading-inner-border'></div>
                 </div>
               </div>
-              <div class='avia-button-wrap avia-button-center  avia-builder-el-69  el_after_av_heading  avia-builder-el-last '><a href='../asset-1/uploads/2022/02/Sample-Site-Work.pdf' class='avia-button av-8nmt9-6415adfc272acc55a904af0ffc60216b avia-icon_select-no avia-size-small avia-position-center avia-color-theme-color ' target="_blank" rel="noopener noreferrer"><span class='avia_iconbox_title'>Click to view</span></a></div>
+              <div class='avia-button-wrap avia-button-center  avia-builder-el-69  el_after_av_heading  avia-builder-el-last '><a href='#' class='avia-button av-8nmt9-6415adfc272acc55a904af0ffc60216b avia-icon_select-no avia-size-small avia-position-center avia-color-theme-color ' target="_blank" rel="noopener noreferrer"><span class='avia_iconbox_title'>Click to view</span></a></div>
             </div>
             <div class='flex_column av-1fczpx-63c9b133ce700b844b1f546d9bee436a av_one_fourth  avia-builder-el-70  el_after_av_one_fourth  el_before_av_one_fourth  flex_column_div column-top-margin'>
               <div class='avia-image-container av-kzcch0gg-27775067a0070cba78964f2c0d25ba05 av-styling- avia-align-center  avia-builder-el-71  el_before_av_heading  avia-builder-el-first  ' itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
@@ -263,7 +263,7 @@
                   <div class='special-heading-inner-border'></div>
                 </div>
               </div>
-              <div class='avia-button-wrap avia-button-center  avia-builder-el-73  el_after_av_heading  avia-builder-el-last '><a href='../asset-1/uploads/2022/02/Sample-Thermal-and-Moisture-Protection.pdf' class='avia-button av-17bq51-eee8dcb11721ddc844e8af9386c849c3 avia-icon_select-no avia-size-small avia-position-center avia-color-theme-color ' target="_blank" rel="noopener noreferrer"><span class='avia_iconbox_title'>Click to view</span></a></div>
+              <div class='avia-button-wrap avia-button-center  avia-builder-el-73  el_after_av_heading  avia-builder-el-last '><a href='../asset-1/uploads/2022/02/sample/Thermal-and-Moisture-Estimating-Sample/Thermal-and-Moisture-Protection-Markups.pdf' class='avia-button av-17bq51-eee8dcb11721ddc844e8af9386c849c3 avia-icon_select-no avia-size-small avia-position-center avia-color-theme-color ' target="_blank" rel="noopener noreferrer"><span class='avia_iconbox_title'>Click to view</span></a></div>
             </div>
             <div class='flex_column av-12wfkl-2147cc0908b534ddc901c0fe1775d4b1 av_one_fourth  avia-builder-el-74  el_after_av_one_fourth  el_before_av_one_fourth  flex_column_div column-top-margin'>
               <div class='avia-image-container av-kzccizx3-6c57ed2458cb1bc8f162e87a27211016 av-styling- avia-align-center  avia-builder-el-75  el_before_av_heading  avia-builder-el-first  ' itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
@@ -277,7 +277,7 @@
                   <div class='special-heading-inner-border'></div>
                 </div>
               </div>
-              <div class='avia-button-wrap avia-button-center  avia-builder-el-77  el_after_av_heading  avia-builder-el-last '><a href='../asset-1/uploads/2022/02/Sample-Drywall-and-Insulation-.pdf' class='avia-button av-vrxrx-814b913b1c01185b9467572c5b60229f avia-icon_select-no avia-size-small avia-position-center avia-color-theme-color ' target="_blank" rel="noopener noreferrer"><span class='avia_iconbox_title'>Click to view</span></a></div>
+              <div class='avia-button-wrap avia-button-center  avia-builder-el-77  el_after_av_heading  avia-builder-el-last '><a href='../asset-1/uploads/2022/02/sample/Drywall-and-Insulation-Estimating-Sample/Drywall-and-Insulating-Estimating-Markups.pdf' class='avia-button av-vrxrx-814b913b1c01185b9467572c5b60229f avia-icon_select-no avia-size-small avia-position-center avia-color-theme-color ' target="_blank" rel="noopener noreferrer"><span class='avia_iconbox_title'>Click to view</span></a></div>
             </div>
             <div class='flex_column av-g6txh-338fb4af2f7b9e775603425d4f6c7ea9 av_one_fourth  avia-builder-el-78  el_after_av_one_fourth  el_before_av_one_fourth  flex_column_div column-top-margin'>
               <div class='avia-image-container av-kzcczspq-c42c5df7fd5d0b8be84ebc53d3573d04 av-styling- avia-align-center  avia-builder-el-79  el_before_av_heading  avia-builder-el-first  ' itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
@@ -291,7 +291,7 @@
                   <div class='special-heading-inner-border'></div>
                 </div>
               </div>
-              <div class='avia-button-wrap avia-button-center  avia-builder-el-81  el_after_av_heading  avia-builder-el-last '><a href='../asset-1/uploads/2022/02/Sample-Framing-and-Millwork.pdf' class='avia-button av-7fezp-231d5ce9abf8abcea56f5e803412cdd1 avia-icon_select-no avia-size-small avia-position-center avia-color-theme-color ' target="_blank" rel="noopener noreferrer"><span class='avia_iconbox_title'>Click to view</span></a></div>
+              <div class='avia-button-wrap avia-button-center  avia-builder-el-81  el_after_av_heading  avia-builder-el-last '><a href='#' class='avia-button av-7fezp-231d5ce9abf8abcea56f5e803412cdd1 avia-icon_select-no avia-size-small avia-position-center avia-color-theme-color ' target="_blank" rel="noopener noreferrer"><span class='avia_iconbox_title'>Click to view</span></a></div>
             </div>
             <div class='flex_column av-sd25x-f901ad4dddc50b2c1853160d579be56a av_one_fourth  avia-builder-el-82  el_after_av_one_fourth  el_before_av_one_fourth  first flex_column_div column-top-margin'>
               <div class='avia-image-container av-2bqc5-90e35cb955e7f33ba26a1e8e1ca9259d av-styling- avia-align-center  avia-builder-el-83  el_before_av_heading  avia-builder-el-first  ' itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
@@ -305,7 +305,7 @@
                   <div class='special-heading-inner-border'></div>
                 </div>
               </div>
-              <div class='avia-button-wrap avia-button-center  avia-builder-el-85  el_after_av_heading  avia-builder-el-last '><a href='../asset-1/uploads/2022/02/Sample-Flooring.pdf' class='avia-button av-bfd39-87fc8a86d9e81bd69ab93d5270c03f41 avia-icon_select-no avia-size-small avia-position-center avia-color-theme-color ' target="_blank" rel="noopener noreferrer"><span class='avia_iconbox_title'>Click to view</span></a></div>
+              <div class='avia-button-wrap avia-button-center  avia-builder-el-85  el_after_av_heading  avia-builder-el-last '><a href='#' class='avia-button av-bfd39-87fc8a86d9e81bd69ab93d5270c03f41 avia-icon_select-no avia-size-small avia-position-center avia-color-theme-color ' target="_blank" rel="noopener noreferrer"><span class='avia_iconbox_title'>Click to view</span></a></div>
             </div>
             <div class='flex_column av-qlgt9-be8fb04c9ccb946106cc2775581e51c3 av_one_fourth  avia-builder-el-86  el_after_av_one_fourth  el_before_av_one_fourth  flex_column_div column-top-margin'>
               <div class='avia-image-container av-kzccrhmi-c69cbe60bee5aa0cdf01fce5726c6ea2 av-styling- avia-align-center  avia-builder-el-87  el_before_av_heading  avia-builder-el-first  ' itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
@@ -319,7 +319,7 @@
                   <div class='special-heading-inner-border'></div>
                 </div>
               </div>
-              <div class='avia-button-wrap avia-button-center  avia-builder-el-89  el_after_av_heading  avia-builder-el-last '><a href='../asset-1/uploads/2022/02/Sample-Openings.pdf' class='avia-button av-m9kxh-573b74b265bec0f307b42092ba6daac4 avia-icon_select-no avia-size-small avia-position-center avia-color-theme-color ' target="_blank" rel="noopener noreferrer"><span class='avia_iconbox_title'>Click to view</span></a></div>
+              <div class='avia-button-wrap avia-button-center  avia-builder-el-89  el_after_av_heading  avia-builder-el-last '><a href='#' class='avia-button av-m9kxh-573b74b265bec0f307b42092ba6daac4 avia-icon_select-no avia-size-small avia-position-center avia-color-theme-color ' target="_blank" rel="noopener noreferrer"><span class='avia_iconbox_title'>Click to view</span></a></div>
             </div>
             <div class='flex_column av-geb7x-f0a6a34e5777587fc2e531d7430cce80 av_one_fourth  avia-builder-el-90  el_after_av_one_fourth  avia-builder-el-last  flex_column_div column-top-margin'>
               <div class='avia-image-container av-kzccv26o-3a16e376870b51553dda9b0c0a9dd0a2 av-styling- avia-align-center  avia-builder-el-91  el_before_av_heading  avia-builder-el-first  ' itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
@@ -333,7 +333,7 @@
                   <div class='special-heading-inner-border'></div>
                 </div>
               </div>
-              <div class='avia-button-wrap avia-button-center  avia-builder-el-93  el_after_av_heading  avia-builder-el-last '><a href='../asset-1/uploads/2022/02/Sample-Roofing.pdf' class='avia-button av-8dkxh-fa1ae764170c0eab0965f35c0ba6ec21 avia-icon_select-no avia-size-small avia-position-center avia-color-theme-color ' target="_blank" rel="noopener noreferrer"><span class='avia_iconbox_title'>Click to view</span></a></div>
+              <div class='avia-button-wrap avia-button-center  avia-builder-el-93  el_after_av_heading  avia-builder-el-last '><a href='../asset-1/uploads/2022/02/sample/Roofing-Estimating-Sample/Roofing-Estimating-Markups.pdf' class='avia-button av-8dkxh-fa1ae764170c0eab0965f35c0ba6ec21 avia-icon_select-no avia-size-small avia-position-center avia-color-theme-color ' target="_blank" rel="noopener noreferrer"><span class='avia_iconbox_title'>Click to view</span></a></div>
             </div>
           </div>
         </div>

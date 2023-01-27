@@ -140,7 +140,7 @@
                 <div class='avia_textblock  ' itemprop="text">
                   <p><span style="font-weight: 400;">Here is how you can get started with us!</span></p>
                   <p><span style="font-weight: 400;"> </span></p>
-                  <p><span style="font-weight: 400;">You Can Either Upload Them Here Or Send An Email </span><a href="mailto:info@allstateestimation.com"><span style="font-weight: 400;">info@allstateestimation.com</span></span></a><span style="font-weight: 400;">. With Your Plans. Choose whichever one suits your needs best. We suggest you to please provide us with information about the project&#8217;s goals and scope.</span></p>
+                  <p><span style="font-weight: 400;">You Can Either Upload Them Here Or Send An Email </span><a href="mailto:info@allstateestimation.us"><span style="font-weight: 400;">info@allstateestimation.us</span></span></a><span style="font-weight: 400;">. With Your Plans. Choose whichever one suits your needs best. We suggest you to please provide us with information about the project&#8217;s goals and scope.</span></p>
                   <p><span style="font-weight: 400;"> </span></p>
                   <p><span style="font-weight: 400;">Before beginning, we will provide you with a comprehensive price for our services. Since the needs of each customer are different, we always conduct an in-depth analysis. We will take into account a wide variety of factors, such as the scope, level of complexity, and number of specialists required to complete the project.</span></p>
                   <p><span style="font-weight: 400;"> </span></p>

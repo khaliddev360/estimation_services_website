@@ -16,9 +16,19 @@
             <div class='flex_column av-kzfiepnm-2b93670f3589206d1c3da565f3913400 av_one_full  avia-builder-el-2  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
               <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                 <div class='avia_textblock  ' itemprop="text">
-                  <p>Are you looking for a way to save time, improve accuracy and streamline your construction process? You hit the right spot! Outsource your projects to ESTIMATING and get ready to win the next bid seamlessly. Our professional can help you with the most precise estimations.</p>
-                  <p><img decoding="async" class="size-full wp-image-1532 alignleft" style="margin-right: 20px; margin-top: 20px;" src="asset-1/uploads/2022/01/outsource.jpg" alt="Outsource estimating services" width="416" height="205">The construction industry is fierce and businesses are doing their best to win bids and get more projects which often makes it competitive to hit the bid with the right estimates. Even a minor estimating error will cost you losing your next project. The take such a risk when our professionals are there to help you?<br>
-                    Ours outsourced estimating services team will not only help you in winning bids and step towards your success. It is also a cost effective solution. Now there is no need to hire full time employees and spend a great share of your profits on their monthly salaries with no surety of having projects all the time. &#8220;Outsourcing estimating sevices&#8221; will eventually enable you to pay only when you have a project on hand. It is the right time to take your business beyond the four walls.</p>
+                  <p style="text-align: justify;">Are you trying to find a solution to speed up, get more precise, and simplify the construction process? You
+                    struck the mark perfectly! Hire ESTIMATING to handle your tasks, and get ready to easily win the next bid.
+                    We have experts who can provide you with the most accurate estimates.</p>
+                  <p style="text-align: justify;"><img decoding="async" class="size-full wp-image-1532 alignleft" style="margin-right: 20px; margin-top: 20px;" src="asset-1/uploads/2022/01/outsource.jpg" alt="Outsource estimating services" width="416" height="205">The competitive nature of the construction industry and enterprises' efforts to secure contracts and win
+                    bids make it difficult to hit the bid with accurate estimates. A small estimation error could lose you the
+                    opportunity to win your next assignment. Why would they take such a chance when our experts are ready
+                    to assist them?
+                    <br>In addition to assisting you in winning bids and taking steps toward your success, our team of outsourced
+                    estimating services will. Additionally, it is an economical solution. With no guarantee of constant work,
+                    there is no longer a need to hire full-time staff and pay for their salary with a significant portion of your
+                    income. You will eventually be able to pay just when you have a project in hand by "outsourcing estimating
+                    services." The timing is right to expand your company beyond its current location.
+                  </p>
                 </div>
               </section>
             </div>
@@ -32,8 +42,7 @@
             <div class='flex_column av-d6kof-3d8c5091dc0cf82da9b4ec06d9b65827 av_one_full  avia-builder-el-6  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
               <section class="avia_codeblock_section  avia_code_block_0" itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                 <div class='avia_codeblock ' itemprop="text">
-                  <center> <a class="paoc-popup-click paoc-popup-cust-816 paoc-popup-button paoc-popup-btn subpages_btn" href="javascript:void(0);">Upload Plans</a>
-                  </center>
+                  <center> <a class="paoc-popup-click paoc-popup-cust-816 paoc-popup-button paoc-popup-btn subpages_btn" href="javascript:void(0);">Upload Plans</a> </center>
                 </div>
               </section>
             </div>
@@ -48,8 +57,15 @@
             <div class='flex_column av-1dy1qn-a8dcec7c755d265db4a124c3f4f282a6 av_one_full  avia-builder-el-10  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
               <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                 <div class='avia_textblock  ' itemprop="text">
-                  <p>Outsourcing your projects to construction estimators will have many advantages. It will give you surety that experienced estimating firms will provide high-quality solutions in terms of precise material takeoffs, man-hours, and labor expenses. You can avoid overcharging and undercharging in your bids by providing an accurate estimate. You won’t lose any prospects if you receive fast delivery of your estimations.</p>
-                  <p>A speedy bill of project material quickens your bids, which helps you submit bids for more contracts, increasing your likelihood of winning more. Moreover, you skip paying for pricey software purchases as well as employing and hiring estimating employees. Although when you have an in-house estimator, you can employ his expertise for monitoring bidding networking profile information, and filing bids instead of for estimating. When you have specialists on your side, your estimation accuracy increases.</p>
+                  <p style="text-align: justify;">You will benefit much from hiring construction estimators to handle your projects. You may be confident
+                    that skilled estimating companies will offer superior solutions in terms of accurate material takeoffs, manhours, and labour costs. By including an exact estimate in your bid, you can prevent charging too much or
+                    too little. If you get your estimates quickly, you won't lose any prospects.
+                  </p>
+                  <p style="text-align: justify;">A rapid bill of materials speeds up your bids, which enables you to submit bids for more contracts and
+                    raises your chances of winning more. In addition, you save paying for costly software acquisitions as well
+                    as hiring and managing estimating staff. However, if you have an in-house estimator, you can use his skills
+                    for other purposes besides estimating, such as tracking bidder profile information and submitting bids.
+                    Your estimation accuracy rises when you have experts on your side.</p>
                 </div>
               </section>
             </div>
@@ -64,7 +80,9 @@
             <div class='flex_column av-z9h6v-c61e883864ed3201138de3f6abcf03f8 av_one_full  avia-builder-el-14  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
               <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                 <div class='avia_textblock  ' itemprop="text">
-                  <p>At Estimating, we strive hard to provide innovative solutions to move your business forward. Our accurate estimating and takeoff professionals are the perfect options for your business to win every bid you hit on! We provide the following outsourcing solution for your construction projects:</p>
+                  <p style="text-align: justify;">At Estimating, we work hard to deliver cutting-edge solutions that advance your company. Our precise
+                    estimating and takeoff specialists are the ideal choices for your company to win every bid you submit! The
+                    following outsourcing services are available from us for your construction projects:</p>
                   <ul>
                     <li aria-level="1">Cost analysis</li>
                     <li aria-level="1">Initial estimates</li>
@@ -86,9 +104,17 @@
             <div class='flex_column av-mexyf-f54267729bd163f85ee59302074fc537 av_one_full  avia-builder-el-18  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
               <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                 <div class='avia_textblock  ' itemprop="text">
-                  <p>At Estimating, we know that your construction project is a lot of work. But we also know that it has to be done right. That is why we are here to help you make sure your project is not just done right—it must be done well. Ours outsourced estimating solutions are the perfect choice for every contractor, builder, architect, or other who anticipate budgetary solution with perfect estimations.</p>
-                  <p>No matter where you are, with our, precise estimating solutions the next bid is yours!</p>
-                  <p>You have probably spent years building up your career, and now you are ready to take on the next step. We understand that managing your own team of contractors and subcontractors is already stressful. You want to make sure that each person is doing the best job possible for you so that the job gets done right the first time! In such situations, a busy client can&#8217;t take time out for project estimation. Don’t worry! Our outsourced services with skilled estimators are here for you!</p>
+                  <p style="text-align: justify;">We at Estimating are aware of how much labour your building project entails. We are aware that it must
+                    be done correctly, though. We are here to assist you in making sure that your project is completed not
+                    just correctly but also successfully. For any contractor, builder, architect, or other professional looking for
+                    a budgeted solution with accurate projections, our outsourced estimating solutions are the ideal option.</p>
+                  <p>No matter where you are, the next bid is yours with our accurate estimating solutions!</p>
+                  <p style="text-align: justify;">Your career has likely taken years to develop, and you are now prepared to move forward. We recognize
+                    how demanding it may be to oversee your own group of contractors and subcontractors. To ensure that
+                    the job is done correctly the first time around, you want to make sure that everyone is giving it their all
+                    for you. A busy client cannot schedule time for project estimation under such circumstances. Not to worry!
+                    We're here to help you with our outsourced services and qualified estimators!
+                  </p>
                 </div>
               </section>
             </div>
@@ -103,7 +129,7 @@
             <div class='flex_column av-13nt1b-fe751dd9415f1517296f8874835ff535 av_one_full  avia-builder-el-22  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
               <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                 <div class='avia_textblock  ' itemprop="text">
-                  <p> Estimating provides cost-effective estimating and takeoff solutions to our clients all across the USA. Hire our professional estimators for having the most precise and detailed project estimation and takeoffs. We have a highly qualified and trained staff of cost estimators serving in the industry for years. We offer cost-effective solutions. You will pay on a project basis rather than having a full-service staff. We deliver customized solution crafting exclusively for your project needs. All our Takeoffs are well planned to lead your business to heights by winning every project you will bid on. Moreover, we focus on client satisfaction, quick turnarounds, and dependable solution.</p>
+                  <p Estimating provides cost-effective estimating and takeoff solutions to our clients all across the USA. Hire our professional estimators for having the most precise and detailed project estimation and takeoffs. We have a highly qualified and trained staff of cost estimators serving in the industry for years. We offer cost-effective solutions. You will pay on a project basis rather than having a full-service staff. We deliver customized solution crafting exclusively for your project needs. All our Takeoffs are well planned to lead your business to heights by winning every project you will bid on. Moreover, we focus on client satisfaction, quick turnarounds, and dependable solution.</p>
                 </div>
               </section>
             </div>
@@ -115,7 +141,7 @@
               </div>
             </div>
             <div class='flex_column av-f9dkv-f20b1448d4903274affd158d03fe4e12 av_one_full  avia-builder-el-26  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
-              <div class='avia-button-wrap avia-button-center  avia-builder-el-27  avia-builder-el-no-sibling '><a href='get-estimate/index.htm' class='avia-button av-lauoy1oa-b7f786359f78683af245a040ac92c935 avia-icon_select-no avia-size-x-large avia-position-center avia-color-theme-color ' target="_blank" rel="noopener noreferrer"><span class='avia_iconbox_title'>Get 50% Discount</span></a></div>
+              <div class='avia-button-wrap avia-button-center  avia-builder-el-27  avia-builder-el-no-sibling '><a href='../get-estimate/index.htm' class='avia-button av-lauoy1oa-b7f786359f78683af245a040ac92c935 avia-icon_select-no avia-size-x-large avia-position-center avia-color-theme-color ' target="_blank" rel="noopener noreferrer"><span class='avia_iconbox_title'>Get 50% Discount</span></a></div>
             </div>
             <div class='flex_column av-wrjjb-79f7884699205d2207fc0bb9b7391354 av_one_full  avia-builder-el-28  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
               <div class='av-special-heading av-kzfiujbd-518ed557dbf9ee287ef3f28bbb92f73e av-special-heading-h2 blockquote modern-quote  avia-builder-el-29  avia-builder-el-no-sibling  '>
@@ -128,8 +154,17 @@
             <div class='flex_column av-qo0rb-68cc893ff64c891813f4652b2dfe0722 av_one_full  avia-builder-el-30  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
               <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                 <div class='avia_textblock  ' itemprop="text">
-                  <p>At ESTIMATING, we offer to <strong>outsourced construction accounting</strong> and estimating services to our clients who are looking for someone to help them manage their projects from start to finish. We will work with you throughout every step of the process and provide you with accurate estimates based on our experience working in this industry for many years now.</p>
-                  <p>Not only do we have experience working with contractors and subcontractors all over the country, but we also have access to a variety of resources that can provide more data than what&#8217;s available on paper alone. You can rest assured that you will get precise cost estimates based on your regional pricing. Our outsource estimating services are designed to ensure you have the information you need to make informed decisions. We will work with you to determine the scope of your project and the costs involved, so you don&#8217;t have to guess what it will cost.</p>
+                  <p style="text-align: justify;">We at ESTIMATING provide our clients who are searching for assistance managing their projects from start
+                    to finish with outsourced construction accounting and estimating services. We will collaborate with you
+                    at every stage of the procedure and give you precise estimates based on our extensive prior work in this
+                    field.
+                  </p>
+                  <p style="text-align: justify;">In addition to having worked with contractors and subcontractors around the nation, we also have access
+                    to a number of resources that can offer more information than what is presented on paper alone. You can
+                    be confident that you will receive accurate price quotes based on local costs. Our outsourced estimation
+                    services are made to make sure you have the knowledge necessary to make wise choices. You won't have
+                    to hazard a guess as to how much it will cost because we will work with you to determine the project's
+                    scope and associated costs.</p>
                 </div>
               </section>
             </div>
@@ -146,12 +181,13 @@
                     <p data-fake-id='#toggle-id-1' class='toggler   ' itemprop="headline" role='tab' tabindex='0' aria-controls='toggle-id-1'>What Sort of Estimation do you provide?<span class="toggle_icon"><span class="vert_icon"></span><span class="hor_icon"></span></span></p>
                     <div id='toggle-id-1' class='toggle_wrap  '>
                       <div class='toggle_content invers-color ' itemprop="text">
-                        <p>We provide the following type of estimations to our clients. It depends on their project requirement or personal preferences.</p>
+                        <p>We provide our clients the following kinds of estimations. It relies on the demands of their project or on
+                          their personal preferences.</p>
                         <ul>
-                          <li aria-level="1">Preliminary Estimate.</li>
-                          <li aria-level="1">Detailed Estimate.</li>
-                          <li aria-level="1">Quantity Estimate.</li>
-                          <li aria-level="1">Bid Estimate.</li>
+                          <li aria-level="1">Initial Estimate.</li>
+                          <li aria-level="1">Detailed Budget.</li>
+                          <li aria-level="1">Quantity Prediction.</li>
+                          <li aria-level="1">Estimated Bid.</li>
                         </ul>
                       </div>
                     </div>
@@ -162,7 +198,10 @@
                     <p data-fake-id='#toggle-id-2' class='toggler   ' itemprop="headline" role='tab' tabindex='0' aria-controls='toggle-id-2'>What software do you use for accurate estimation?<span class="toggle_icon"><span class="vert_icon"></span><span class="hor_icon"></span></span></p>
                     <div id='toggle-id-2' class='toggle_wrap  '>
                       <div class='toggle_content invers-color ' itemprop="text">
-                        <p>Our professionals leverage all advanced software like Planswift, Trimble, Xactimate, and others. This software is the best for preparing your estimating &#038; Takeoff with complete accuracy. This software is one of the most well-liked takeoff systems on the market and provides both estimation and takeoff capabilities. For the benefit of estimators, it also provides a pre-built resources directory, pre-built assembling modules, cost codes, as well as other tools.</p>
+                        <p style="text-align: justify;">Our experts use cutting-edge programmed like Planswift, Trimble, Xactimate, and others. This software is
+                          the finest for completely accurate estimation and takeoff preparation. One of the most popular takeoff
+                          systems on the market, this programme offers takeoff and estimating features. A pre-built resources
+                          directory, pre-built assembling modules, cost codes, and other tools are also provided for estimators' use.</p>
                       </div>
                     </div>
                   </div>
@@ -172,7 +211,10 @@
                     <p data-fake-id='#toggle-id-3' class='toggler   ' itemprop="headline" role='tab' tabindex='0' aria-controls='toggle-id-3'>Who Will Develops the Cost Estimates for My Project?<span class="toggle_icon"><span class="vert_icon"></span><span class="hor_icon"></span></span></p>
                     <div id='toggle-id-3' class='toggle_wrap  '>
                       <div class='toggle_content invers-color ' itemprop="text">
-                        <p>Our estimation experts known as professional cost estimators will create cost estimates and takeoff for your projects. Our cost estimators are experts from different construction fields and categories such as &#8220;building estimators,&#8221; &#8220;electrical estimators for <strong>electrical estimating outsourcing</strong>&#8221; or &#8220;chief estimators.&#8221;</p>
+                        <p style="text-align: justify;">For your projects, our estimation specialists, also known as professional cost estimators, will produce cost
+                          estimates and takeoff. Our cost estimators are professionals in a variety of construction-related
+                          specialties, including "building estimators," "electrical estimators for electrical estimating outsourcing,"
+                          and "chief estimators."</p>
                       </div>
                     </div>
                   </div>
@@ -182,7 +224,10 @@
                     <p data-fake-id='#toggle-id-4' class='toggler   ' itemprop="headline" role='tab' tabindex='0' aria-controls='toggle-id-4'>Why Should I Hire Your Experts?<span class="toggle_icon"><span class="vert_icon"></span><span class="hor_icon"></span></span></p>
                     <div id='toggle-id-4' class='toggle_wrap  '>
                       <div class='toggle_content invers-color ' itemprop="text">
-                        <p>Our dedicated and skilled team of professionals will deliver the most accurate estimations and take-off services. We have industry knowledge comprised of over three decades. Our estimators can calculate and explain all your queries. Further, our team can guide you with all kinds of estimations and takeoff.</p>
+                        <p style="text-align: justify;">The most precise estimates and take-off services will be provided by our committed and knowledgeable
+                          team of professionals. Our experience of the sector spans more than three decades. All of your queries
+                          can be calculated and explained by our estimators. Additionally, our crew can assist you with any
+                          estimations or takeoff.</p>
                       </div>
                     </div>
                   </div>
@@ -192,7 +237,10 @@
                     <p data-fake-id='#toggle-id-5' class='toggler   ' itemprop="headline" role='tab' tabindex='0' aria-controls='toggle-id-5'>How Do Your Outsource professionals will work on my construction estimations? <span class="toggle_icon"><span class="vert_icon"></span><span class="hor_icon"></span></span></p>
                     <div id='toggle-id-5' class='toggle_wrap  '>
                       <div class='toggle_content invers-color ' itemprop="text">
-                        <p>As an outsource estimating services provider, our skilled estimators will take all initial data of your projects. After initial analysis and getting local prices and material costs, they will start working on your construction estimations. Within a maximum of three days, they will hand over your project estimations and takeoffs.</p>
+                        <p style="text-align: justify;">As a provider of outsourced estimating services, our knowledgeable estimators will gather all preliminary
+                          information about your projects. They will begin working on your construction estimates after conducting
+                          preliminary research and obtaining local costs for materials and labour. They will deliver your project
+                          estimates and takeoffs in three days at most.</p>
                       </div>
                     </div>
                   </div>

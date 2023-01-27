@@ -13,7 +13,7 @@
                       <h2 style='font-size:48px; ' class='avia-caption-title  ' itemprop="name">Material Takeoff & Construction Estimating Services</h2>
                       <div class='avia-caption-content  av_inherit_color' itemprop="description" style='font-size:21px; '>
                         <p> Estimating Assists Busy Contractors To Estimate And Win Bids</p>
-                        <h3>GET 50% OFF ON YOUR FIRST ESTIMATE</h3>
+                        <h3>get discount ON YOUR FIRST ESTIMATE</h3>
                       </div><a href='services/index.htm' class='avia-slideshow-button avia-button avia-color-theme-color-highlight avia-multi-slideshow-button' data-duration='800' data-easing='easeInOutQuad'>Our Services</a><a href='tel:+1 (917) 983-4975' class='avia-slideshow-button avia-button avia-color-light avia-multi-slideshow-button avia-slideshow-button-2' data-duration='800' data-easing='easeInOutQuad'>Call Now</a>
                     </div>
                   </div>
@@ -1102,10 +1102,10 @@
               </div>
               <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                 <div class='avia_textblock  av_inherit_color ' style='color:#020202; ' itemprop="text">
-                  <p style="text-align: center;">Upload your plan and get a quote within 5 minutes.</p>
+                  <p style="text-align: center;">Upload your plan and get a quote.</p>
                 </div>
               </section>
-              <div class='avia-button-wrap avia-button-center  avia-builder-el-115  el_after_av_textblock  avia-builder-el-last '><a href='get-estimate.htm' class='avia-button av-2u93u-e12b36b7f49bfe8ae92d1944dddbe919 avia-icon_select-no avia-size-x-large avia-position-center avia-color-theme-color ' target="_blank" rel="noopener noreferrer"><span class='avia_iconbox_title'>GET 50% OFF</span></a></div>
+              <div class='avia-button-wrap avia-button-center  avia-builder-el-115  el_after_av_textblock  avia-builder-el-last '><a href='get-estimate.htm' class='avia-button av-2u93u-e12b36b7f49bfe8ae92d1944dddbe919 avia-icon_select-no avia-size-x-large avia-position-center avia-color-theme-color ' target="_blank" rel="noopener noreferrer"><span class='avia_iconbox_title'>get discount</span></a></div>
             </div>
             <div class='flex_column av-20or6-86fe7195689f2fb0cbcf5ed904e367bc av_one_full  avia-builder-el-116  el_after_av_two_fifth  avia-builder-el-last  first flex_column_div '>
               <div class='av-special-heading av-1gysu-22286ad928f4b606c62702ee3ffb67aa av-special-heading-h2 blockquote modern-quote modern-centered  avia-builder-el-117  el_before_av_blog  avia-builder-el-first  '>

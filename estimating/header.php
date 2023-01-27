@@ -24,7 +24,7 @@
     <meta property="og:description" content=" is an established, prominent company which is providing the Construction Estimating and Material Takeoff Services for their clients.">
     <meta property="og:url" content="https://estimating/">
     <meta property="og:site_name" content="Construction Estimating Services">
-    <meta property="article:publisher" content="https://www.facebook.com/erv">
+    <meta property="article:publisher" content="https://www.facebook.com/allstateestimation/erv">
     <meta property="article:modified_time" content="2022-12-13T10:19:03+00:00">
     <meta property="og:image" content="https://estimating/asset-1/uploads/2021/12/service1-300x208.jpg">
     <meta name="twitter:card" content="summary_large_image">
@@ -403,7 +403,7 @@
                 "image": {
                     "@id": "https://estimating/#/schema/logo/image/"
                 },
-                "sameAs": ["https://www.instagram.com/erv", "https://www.linkedin.com/company/erv/", "https://www.pinterest.com/erv/", "https://www.facebook.com/erv", "https://twitter.com/erv"]
+                "sameAs": ["https://www.instagram.com/erv", "https://www.linkedin.com/company/erv/", "https://www.pinterest.com/erv/", "https://www.facebook.com/allstateestimation/erv", "https://twitter.com/erv"]
             }]
         }
     </script>
@@ -575,18 +575,18 @@ fbq('track', 'PageView');
                                                     font-size: 18px;
                                                     line-height: 18px;
                                                 }
-                                            </style> <span class="av_font_icon av-av_font_icon-49bc212a0304b64a23491b750f2ccdea avia_animate_when_visible av-icon-style- avia-icon-pos-left avia-icon-animate avia_start_animation avia_start_delayed_animation"><span class="av-icon-char" aria-hidden="true" data-av_icon="" data-av_iconfont="entypo-fontello"></span></span><a href="mailto:info@allstateestimation.com">info@allstateestimation.com</a>
+                                            </style> <span class="av_font_icon av-av_font_icon-49bc212a0304b64a23491b750f2ccdea avia_animate_when_visible av-icon-style- avia-icon-pos-left avia-icon-animate avia_start_animation avia_start_delayed_animation"><span class="av-icon-char" aria-hidden="true" data-av_icon="" data-av_iconfont="entypo-fontello"></span></span><a href="mailto:info@allstateestimation.us">info@allstateestimation.us</a>
                                         </span></div>
                                 </div>
                             </div>
                         </div>
                         <div class="col-md-4">
                             <div class="permotion-btn"> <a href="get-estimate.php" class="avia-slideshow-button avia-button avia-color-light avia-multi-slideshow-button avia-slideshow-button-2">Click
-                                    here to get 50% off </a> </div>
+                                    here to get discount </a> </div>
                         </div>
                         <div class="col-md-4">
                             <ul class="noLightbox social_bookmarks icon_count_6">
-                                <li class="social_bookmarks_facebook av-social-link-facebook social_icon_1"><a target="_blank" aria-label="Link to Facebook" href="https://www.facebook.com/" aria-hidden="false" data-av_icon="" data-av_iconfont="entypo-fontello" title="Facebook" rel="noopener"><span class="avia_hidden_link_text">Facebook</span></a></li>
+                                <li class="social_bookmarks_facebook av-social-link-facebook social_icon_1"><a target="_blank" aria-label="Link to Facebook" href="https://www.facebook.com/allstateestimation/" aria-hidden="false" data-av_icon="" data-av_iconfont="entypo-fontello" title="Facebook" rel="noopener"><span class="avia_hidden_link_text">Facebook</span></a></li>
                                 <li class="social_bookmarks_twitter av-social-link-twitter social_icon_2"><a target="_blank" aria-label="Link to Twitter" href="https://twitter.com/" aria-hidden="false" data-av_icon="" data-av_iconfont="entypo-fontello" title="Twitter" rel="noopener"><span class="avia_hidden_link_text">Twitter</span></a></li>
                                 <li class="social_bookmarks_pinterest av-social-link-pinterest social_icon_3"><a target="_blank" aria-label="Link to Pinterest" href="https://www.pinterest.com/" aria-hidden="false" data-av_icon="" data-av_iconfont="entypo-fontello" title="Pinterest" rel="noopener"><span class="avia_hidden_link_text">Pinterest</span></a></li>
                                 <li class="social_bookmarks_instagram av-social-link-instagram social_icon_4"><a target="_blank" aria-label="Link to Instagram" href="https://www.instagram.com/" aria-hidden="false" data-av_icon="" data-av_iconfont="entypo-fontello" title="Instagram" rel="noopener"><span class="avia_hidden_link_text">Instagram</span></a></li>

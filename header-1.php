@@ -22,7 +22,7 @@
 <meta property="og:title" content="Our Services - Construction Estimating Services -  Estimating">
 <meta property="og:url" content="../services/">
 <meta property="og:site_name" content="Construction Estimating Services">
-<meta property="article:publisher" content="https://www.facebook.com/erv">
+<meta property="article:publisher" content="https://www.facebook.com/allstateestimation/erv">
 <meta property="article:modified_time" content="2022-06-13T05:38:52+00:00">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@erv">
@@ -394,7 +394,7 @@
                 "image": {
                     "@id": "../#/schema/logo/image/"
                 },
-                "sameAs": ["https://www.instagram.com/erv", "https://www.linkedin.com/company/erv/", "https://www.pinterest.com/erv/", "https://www.facebook.com/erv", "https://twitter.com/erv"]
+                "sameAs": ["https://www.instagram.com/erv", "https://www.linkedin.com/company/erv/", "https://www.pinterest.com/erv/", "https://www.facebook.com/allstateestimation/erv", "https://twitter.com/erv"]
             }]
         }
     </script>
@@ -549,21 +549,21 @@ fbq('track', 'PageView');
                     <div class="row">
                         <div class="col-md-4" style="font-size: 14px; padding-right: 290px;">
                             <ul class="noLightbox social_bookmarks icon_count_6">
-                                <li class="social_bookmarks_facebook av-social-link-facebook social_icon_1"><a target="_blank" aria-label="Link to Facebook" href="https://www.facebook.com/" aria-hidden="false" data-av_icon="" data-av_iconfont="entypo-fontello" title="Facebook" rel="noopener"><span class="avia_hidden_link_text">Facebook</span></a></li>
-                                <li class="social_bookmarks_twitter av-social-link-twitter social_icon_2"><a target="_blank" aria-label="Link to Twitter" href="https://twitter.com/estimating" aria-hidden="false" data-av_icon="" data-av_iconfont="entypo-fontello" title="Twitter" rel="noopener"><span class="avia_hidden_link_text">Twitter</span></a></li>
+                                <li class="social_bookmarks_facebook av-social-link-facebook social_icon_1"><a target="_blank" aria-label="Link to Facebook" href="https://www.facebook.com/allstateestimation/" aria-hidden="false" data-av_icon="" data-av_iconfont="entypo-fontello" title="Facebook" rel="noopener"><span class="avia_hidden_link_text">Facebook</span></a></li>
+                                <li class="social_bookmarks_twitter av-social-link-twitter social_icon_2"><a target="_blank" aria-label="Link to Twitter" href="https://twitter.com/allstateestima2" aria-hidden="false" data-av_icon="" data-av_iconfont="entypo-fontello" title="Twitter" rel="noopener"><span class="avia_hidden_link_text">Twitter</span></a></li>
                                 <li class="social_bookmarks_pinterest av-social-link-pinterest social_icon_3"><a target="_blank" aria-label="Link to Pinterest" href="https://www.pinterest.com/" aria-hidden="false" data-av_icon="" data-av_iconfont="entypo-fontello" title="Pinterest" rel="noopener"><span class="avia_hidden_link_text">Pinterest</span></a></li>
-                                <li class="social_bookmarks_instagram av-social-link-instagram social_icon_4"><a target="_blank" aria-label="Link to Instagram" href="https://www.instagram.com/estimating/" aria-hidden="false" data-av_icon="" data-av_iconfont="entypo-fontello" title="Instagram" rel="noopener"><span class="avia_hidden_link_text">Instagram</span></a></li>
+                                <li class="social_bookmarks_instagram av-social-link-instagram social_icon_4"><a target="_blank" aria-label="Link to Instagram" href="#" aria-hidden="false" data-av_icon="" data-av_iconfont="entypo-fontello" title="Instagram" rel="noopener"><span class="avia_hidden_link_text">Instagram</span></a></li>
                                 <li class="social_bookmarks_youtube av-social-link-youtube social_icon_5"><a target="_blank" aria-label="Link to Youtube" href="https://www.youtube.com/" aria-hidden="false" data-av_icon="" data-av_iconfont="entypo-fontello" title="Youtube" rel="noopener"><span class="avia_hidden_link_text">Youtube</span></a></li>
                                 <li class="social_bookmarks_linkedin av-social-link-linkedin social_icon_6"><a target="_blank" aria-label="Link to LinkedIn" href="https://www.linkedin.com/company/" aria-hidden="false" data-av_icon="" data-av_iconfont="entypo-fontello" title="LinkedIn" rel="noopener"><span class="avia_hidden_link_text">LinkedIn</span></a></li>
                             </ul>
                         </div>
                         <div class="col-md-4">
-                            <div class="permotion-btn"> <a href="../get-estimate.php" class="avia-slideshow-button avia-button avia-color-light avia-multi-slideshow-button avia-slideshow-button-2">Click here to get estimation</a> </div>
+                            <div></div>
                         </div>
                         <div class="col-md-4">
                             <div class="phone-info ">
                                 <div>
-                                    <div><span style="font-size: 14px; padding-left: 0px;">
+                                    <div><span style="font-size: 14px; padding-left: 10px;">
                                             <style type="text/css" id="style-css-av-av_font_icon-8645df3e45cbb680216212d862f07b12">
                                                 .av_font_icon.av-av_font_icon-8645df3e45cbb680216212d862f07b12 {
                                                     color: #ffffff;
@@ -586,7 +586,7 @@ fbq('track', 'PageView');
                                                     font-size: 18px;
                                                     line-height: 18px;
                                                 }
-                                            </style> <span class="av_font_icon av-av_font_icon-49bc212a0304b64a23491b750f2ccdea avia_animate_when_visible av-icon-style- avia-icon-pos-left avia-icon-animate avia_start_animation avia_start_delayed_animation"><span class="av-icon-char" aria-hidden="true" data-av_icon="" data-av_iconfont="entypo-fontello"></span></span><a href="mailto:info@allstateestimation.com">info@allstateestimation.com</a>
+                                            </style> <span class="av_font_icon av-av_font_icon-49bc212a0304b64a23491b750f2ccdea avia_animate_when_visible av-icon-style- avia-icon-pos-left avia-icon-animate avia_start_animation avia_start_delayed_animation"><span class="av-icon-char" aria-hidden="true" data-av_icon="" data-av_iconfont="entypo-fontello"></span></span><a href="mailto:info@allstateestimation.us">info@allstateestimation.us</a>
                                         </span></div>
                                 </div>
                             </div>
