@@ -241,7 +241,7 @@
                     <p data-fake-id='#toggle-id-2' class='toggler   ' itemprop="headline" role='tab' tabindex='0' aria-controls='toggle-id-2'>What Do You Costs for electrical takeoffs and estimations?<span class="toggle_icon"><span class="vert_icon"></span><span class="hor_icon"></span></span></p>
                     <div id='toggle-id-2' class='toggle_wrap  '>
                       <div class='toggle_content invers-color ' itemprop="text">
-                        <p>The average cost for Estimating&#8217;s electrical estimating services range between $250 and 300.0 Although this number might go up or down depending on the specifics of the job. Please contact us at +1 (917) 983-4975 or by email at <a href="mailto:info@allstateestimation.us">info@allstateestimation.us</a> in order to get a more accurate estimate.</p>
+                        <p>The average cost for Estimating&#8217;s electrical estimating services range between $250 and 300.0 Although this number might go up or down depending on the specifics of the job. Please contact us at +1 (917) 695-7873 or by email at <a href="mailto:info@allstateestimation.us">info@allstateestimation.us</a> in order to get a more accurate estimate.</p>
                       </div>
                     </div>
                   </div>

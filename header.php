@@ -34,8 +34,6 @@
     <meta name="twitter:label1" content="Est. reading time">
     <meta name="twitter:data1" content="39 minutes">
     <meta name="yandex-verification" content="0ce12bc32e601fce">
-    <link rel="alternate" type="application/rss+xml" title="Construction Estimating Services &raquo; Feed" href="feed/index.htm">
-    <link rel="alternate" type="application/rss+xml" title="Construction Estimating Services &raquo; Comments Feed" href="comments/feed/index.htm">
     <link rel="https://api.w.org/" href="asset-3/index.htm">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -45,7 +43,6 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="theme-color" content="#ffffff">
-    <link rel="alternate" type="application/rss+xml" title="Construction Estimating Services RSS2 Feed" href="feed/index.htm">
     <link rel="pingback" href="https://estimating/xmlrpc.php">
     <!--[if lt IE 9]><script src="https://estimating/asset-1/themes/enfold/js/html5shiv.js"></script><![endif]-->
     <link rel="icon" href="logo/ESTIMATION.png" type="image/x-icon">
@@ -521,7 +518,8 @@ else{document.documentElement.className+=' avia_desktop '};document.documentElem
   gtag('js', new Date());
   gtag('config', 'UA-216678955-1');
 </script>
-    <script type="rocketlazyloadscript"> !function(f,b,e,v,n,t,s)
+<!-- facebook pixel id -->
+<script type="rocketlazyloadscript"> !function(f,b,e,v,n,t,s)
 {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
 n.callMethod.apply(n,arguments):n.queue.push(arguments)};
 if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
@@ -529,12 +527,27 @@ n.queue=[];t=b.createElement(e);t.async=!0;
 t.src=v;s=b.getElementsByTagName(e)[0];
 s.parentNode.insertBefore(t,s)}(window, document,'script',
 'https://connect.facebook.net/en_US/fbevents.js');
-fbq('init', '746747216368269');
+fbq('init', '906303647137468');
 fbq('track', 'PageView');
-</script> <noscript><img height="1" width="1" style="display:none" src="tr?id=746747216368269&ev=PageView&noscript=1"></noscript>
+</script> <noscript><img height="1" width="1" style="display:none" src="../tr?id=906303647137468&ev=PageView&noscript=1"></noscript>
+
+<!-- facebook pixel id  end-->
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MQ3S7JF');</script>
+<!-- End Google Tag Manager -->
 </head>
 
-<body id="top" class="home page-template-default page page-id-14  rtl_columns stretched pt_sans avia-responsive-images-support" itemscope="itemscope" itemtype="https://schema.org/WebPage"> <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+<body id="top" class="home page-template-default page page-id-14  rtl_columns stretched pt_sans avia-responsive-images-support" itemscope="itemscope" itemtype="https://schema.org/WebPage">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MQ3S7JF"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->   
+<svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
         <defs>
             <filter id="wp-duotone-dark-grayscale">
                 <fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix>
@@ -648,10 +661,10 @@ fbq('track', 'PageView');
                             <ul class="noLightbox social_bookmarks icon_count_6">
                                 <li class="social_bookmarks_facebook av-social-link-facebook social_icon_1"><a target="_blank" aria-label="Link to Facebook" href="https://www.facebook.com/allstateestimation/" aria-hidden="false" data-av_icon="" data-av_iconfont="entypo-fontello" title="Facebook" rel="noopener"><span class="avia_hidden_link_text">Facebook</span></a></li>
                                 <li class="social_bookmarks_twitter av-social-link-twitter social_icon_2"><a target="_blank" aria-label="Link to Twitter" href="https://twitter.com/allstateestima2" aria-hidden="false" data-av_icon="" data-av_iconfont="entypo-fontello" title="Twitter" rel="noopener"><span class="avia_hidden_link_text">Twitter</span></a></li>
-                                <li class="social_bookmarks_pinterest av-social-link-pinterest social_icon_3"><a target="_blank" aria-label="Link to Pinterest" href="https://www.pinterest.com/" aria-hidden="false" data-av_icon="" data-av_iconfont="entypo-fontello" title="Pinterest" rel="noopener"><span class="avia_hidden_link_text">Pinterest</span></a></li>
+                                <li class="social_bookmarks_pinterest av-social-link-pinterest social_icon_3"><a target="_blank" aria-label="Link to Pinterest" href="#" aria-hidden="false" data-av_icon="" data-av_iconfont="entypo-fontello" title="Pinterest" rel="noopener"><span class="avia_hidden_link_text">Pinterest</span></a></li>
                                 <li class="social_bookmarks_instagram av-social-link-instagram social_icon_4"><a target="_blank" aria-label="Link to Instagram" href="#" aria-hidden="false" data-av_icon="" data-av_iconfont="entypo-fontello" title="Instagram" rel="noopener"><span class="avia_hidden_link_text">Instagram</span></a></li>
-                                <li class="social_bookmarks_youtube av-social-link-youtube social_icon_5"><a target="_blank" aria-label="Link to Youtube" href="https://www.youtube.com/" aria-hidden="false" data-av_icon="" data-av_iconfont="entypo-fontello" title="Youtube" rel="noopener"><span class="avia_hidden_link_text">Youtube</span></a></li>
-                                <li class="social_bookmarks_linkedin av-social-link-linkedin social_icon_6"><a target="_blank" aria-label="Link to LinkedIn" href="https://www.linkedin.com/company/" aria-hidden="false" data-av_icon="" data-av_iconfont="entypo-fontello" title="LinkedIn" rel="noopener"><span class="avia_hidden_link_text">LinkedIn</span></a></li>
+                                <li class="social_bookmarks_youtube av-social-link-youtube social_icon_5"><a target="_blank" aria-label="Link to Youtube" href="#" aria-hidden="false" data-av_icon="" data-av_iconfont="entypo-fontello" title="Youtube" rel="noopener"><span class="avia_hidden_link_text">Youtube</span></a></li>
+                                <li class="social_bookmarks_linkedin av-social-link-linkedin social_icon_6"><a target="_blank" aria-label="Link to LinkedIn" href="#" aria-hidden="false" data-av_icon="" data-av_iconfont="entypo-fontello" title="LinkedIn" rel="noopener"><span class="avia_hidden_link_text">LinkedIn</span></a></li>
                             </ul>
                         </div>
                         <!-- <div class="col-md-4">
@@ -674,7 +687,7 @@ fbq('track', 'PageView');
                                                     font-size: 18px;
                                                     line-height: 18px;
                                                 }
-                                            </style> <span class="av_font_icon av-av_font_icon-8645df3e45cbb680216212d862f07b12 avia_animate_when_visible av-icon-style- avia-icon-pos-left phicon avia-icon-animate avia_start_animation avia_start_delayed_animation"><span class="av-icon-char" aria-hidden="true" data-av_icon="" data-av_iconfont="entypo-fontello"></span></span>+1 (917) 983-4975
+                                            </style> <span class="av_font_icon av-av_font_icon-8645df3e45cbb680216212d862f07b12 avia_animate_when_visible av-icon-style- avia-icon-pos-left phicon avia-icon-animate avia_start_animation avia_start_delayed_animation"><span class="av-icon-char" aria-hidden="true" data-av_icon="" data-av_iconfont="entypo-fontello"></span></span><a href="tel:+1 (917) 695-7873">+1 (917) 695-7873</a>
                                         </span><span style="font-size: 14px; padding-left: 10px;">
                                             <style type="text/css" id="style-css-av-av_font_icon-49bc212a0304b64a23491b750f2ccdea">
                                                 .av_font_icon.av-av_font_icon-49bc212a0304b64a23491b750f2ccdea {

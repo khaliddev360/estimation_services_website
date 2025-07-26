@@ -314,7 +314,7 @@
                       <div class='toggle_content invers-color ' itemprop="text">
                         <p>If you want to avail of our professional quantity takeoff services then you can reach us through the
                           following means:
-                          <br> Call us at <b>+1 (917) 983-4975</b> <br> Send an Email: <a href="mailto:info@allstateestimation.us"> <b>info@allstateestimation.us</b> </a><br> Or Visit our physical office: Wallace Ave The Bronx, NY 10462, USA
+                          <br> Call us at <b>+1 (917) 695-7873</b> <br> Send an Email: <a href="mailto:info@allstateestimation.us"> <b>info@allstateestimation.us</b> </a><br> Or Visit our physical office: Wallace Ave The Bronx, NY 10462, USA
                         </p>
                       </div>
                     </div>

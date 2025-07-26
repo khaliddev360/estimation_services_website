@@ -14,7 +14,7 @@
                       <div class='avia-caption-content  av_inherit_color' itemprop="description" style='font-size:21px; '>
                         <p> Estimating Assists Busy Contractors To Estimate And Win Bids</p>
                         <h3>get discount ON YOUR FIRST ESTIMATE</h3>
-                      </div><a href='services/index.htm' class='avia-slideshow-button avia-button avia-color-theme-color-highlight avia-multi-slideshow-button' data-duration='800' data-easing='easeInOutQuad'>Our Services</a><a href='tel:+1 (917) 983-4975' class='avia-slideshow-button avia-button avia-color-light avia-multi-slideshow-button avia-slideshow-button-2' data-duration='800' data-easing='easeInOutQuad'>Call Now</a>
+                      </div><a href='services/index.htm' class='avia-slideshow-button avia-button avia-color-theme-color-highlight avia-multi-slideshow-button' data-duration='800' data-easing='easeInOutQuad'>Our Services</a><a href='tel:+1 (917) 695-7873' class='avia-slideshow-button avia-button avia-color-light avia-multi-slideshow-button avia-slideshow-button-2' data-duration='800' data-easing='easeInOutQuad'>Call Now</a>
                     </div>
                   </div>
                 </div>
@@ -483,7 +483,7 @@
               </div>
               <div class='av-flex-placeholder'></div>
               <div class='flex_column av-r336-5475f9a0215e2a407e55ee8543f17002 av_one_third  avia-builder-el-47  el_after_av_two_third  avia-builder-el-last  flex_column_table_cell av-equal-height-column av-align-middle '>
-                <div class='avia-button-wrap avia-button-center  avia-builder-el-48  avia-builder-el-no-sibling '><a href='tel: +1 (917) 983-4975' class='avia-button av-kxis84p5-306b1990217ac8b18306f0ff016d4f5e avia-icon_select-yes-left-icon avia-size-x-large avia-position-center '><span class='avia_button_icon avia_button_icon_left' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span><span class='avia_iconbox_title'>Call Us Now: +1 (917) 983-4975</span></a></div>
+                <div class='avia-button-wrap avia-button-center  avia-builder-el-48  avia-builder-el-no-sibling '><a href='tel: +1 (917) 695-7873' class='avia-button av-kxis84p5-306b1990217ac8b18306f0ff016d4f5e avia-icon_select-yes-left-icon avia-size-x-large avia-position-center '><span class='avia_button_icon avia_button_icon_left' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span><span class='avia_iconbox_title'>Call Us Now: +1 (917) 695-7873</span></a></div>
               </div>
             </div>
 

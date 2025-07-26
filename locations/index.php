@@ -95,30 +95,30 @@
                 <div class='avia_textblock  ' itemprop="text">
                   <p>As our company has the most professional team of experts. And they have gained a lot of reputation by giving remarkable services around the globe. As our company renown in the market, as we always make sure to provide the most accurate estimating services. Following are the locations which our company mainly covers:</p>
                   <ul>
-                    <li><a href="../australia-construction-estimating-services.htm">Australia</a></li>
+                    <li><a href="../australia-construction-estimating-services.php">Australia</a></li>
                     <li>European Regions</li>
                     <li>Caribbean</li>
-                    <li><a href="../north-america-construction-estimating-services.htm">North America</a></li>
+                    <li><a href="../north-america-construction-estimating-services.php">North America</a></li>
                     <li>The different states of the US
                       <ul>
-                        <li><a href="../california-construction-estimating-services.htm">California</a></li>
-                        <li><a href="../florida-construction-estimating-services.htm">Florida</a></li>
-                        <li><a href="../georgia-construction-estimating-services.htm">Georgia</a></li>
-                        <li><a href="../north-carolina-construction-estimating-services.htm">North Carolina</a></li>
-                        <li><a href="../ohio-construction-estimating-services.htm">Ohio</a></li>
+                        <li><a href="../california-construction-estimating-services.php">California</a></li>
+                        <li><a href="../florida-construction-estimating-services.php">Florida</a></li>
+                        <li><a href="../georgia-construction-estimating-services.php">Georgia</a></li>
+                        <li><a href="../north-carolina-construction-estimating-services.php">North Carolina</a></li>
+                        <li><a href="../ohio-construction-estimating-services.php">Ohio</a></li>
                         <li>Pennsylvania</li>
-                        <li><a href="../new-jersey-construction-estimating-services.htm">New Jersey</a></li>
-                        <li><a href="../colorado-construction-estimating-services.htm">Colorado</a></li>
-                        <li><a href="../massachusetts-construction-estimating-services.htm">Massachusetts</a></li>
-                        <li><a href="../maryland-construction-estimating-services.htm">Maryland</a></li>
-                        <li><a href="../alabama-construction-estimating-services.htm">Alabama</a></li>
-                        <li><a href="../new-york-construction-estimating-services.htm">New York</a></li>
-                        <li><a href="../arizona-construction-estimating-services.htm">Arizona</a></li>
-                        <li><a href="../illinois-construction-estimating-services.htm">Illinois</a></li>
-                        <li><a href="../tennessee-construction-estimating-services.htm">Tennessee</a></li>
-                        <li><a href="../virginia-construction-estimating-services.htm">Virginia</a></li>
-                        <li><a href="../washington-construction-estimating-services.htm">Washington</a></li>
-                        <li><a href="../texas-construction-estimating-services.htm">Texas</a></li>
+                        <li><a href="../new-jersey-construction-estimating-services.php">New Jersey</a></li>
+                        <li><a href="../colorado-construction-estimating-services.php">Colorado</a></li>
+                        <li><a href="../massachusetts-construction-estimating-services.php">Massachusetts</a></li>
+                        <li><a href="../maryland-construction-estimating-services.php">Maryland</a></li>
+                        <li><a href="../alabama-construction-estimating-services.php">Alabama</a></li>
+                        <li><a href="../new-york-construction-estimating-services.php">New York</a></li>
+                        <li><a href="../arizona-construction-estimating-services.php">Arizona</a></li>
+                        <li><a href="../illinois-construction-estimating-services.php">Illinois</a></li>
+                        <li><a href="../tennessee-construction-estimating-services.php">Tennessee</a></li>
+                        <li><a href="../virginia-construction-estimating-services.php">Virginia</a></li>
+                        <li><a href="../washington-construction-estimating-services.php">Washington</a></li>
+                        <li><a href="../texas-construction-estimating-services.php">Texas</a></li>
                       </ul>
                     </li>
                   </ul>

@@ -413,20 +413,25 @@ window.smartsupp||(function(d) {
 
   gtag('config', 'UA-216678955-1');
 </script>
-    <script type="rocketlazyloadscript"> !function(f,b,e,v,n,t,s)
-{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-n.queue=[];t=b.createElement(e);t.async=!0;
-t.src=v;s=b.getElementsByTagName(e)[0];
-s.parentNode.insertBefore(t,s)}(window, document,'script',
-'https://connect.facebook.net/en_US/fbevents.js');
-fbq('init', '746747216368269');
-fbq('track', 'PageView');
-</script> <noscript><img height="1" width="1" style="display:none" src="../tr?id=746747216368269&ev=PageView&noscript=1"></noscript>
+
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MQ3S7JF');</script>
+<!-- End Google Tag Manager -->
+</noscript>
+
 </head>
 
-<body id="top" class="page-template-default page page-id-170  rtl_columns stretched pt_sans avia-responsive-images-support" itemscope="itemscope" itemtype="https://schema.org/WebPage"> <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+<body id="top" class="page-template-default page page-id-170  rtl_columns stretched pt_sans avia-responsive-images-support" itemscope="itemscope" itemtype="https://schema.org/WebPage">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MQ3S7JF"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->   
+<svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
         <defs>
             <filter id="wp-duotone-dark-grayscale">
                 <fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix>
@@ -528,7 +533,7 @@ fbq('track', 'PageView');
                                                     font-size: 18px;
                                                     line-height: 18px;
                                                 }
-                                            </style> <span class="av_font_icon av-av_font_icon-8645df3e45cbb680216212d862f07b12 avia_animate_when_visible av-icon-style- avia-icon-pos-left phicon avia-icon-animate avia_start_animation avia_start_delayed_animation"><span class="av-icon-char" aria-hidden="true" data-av_icon="" data-av_iconfont="entypo-fontello"></span></span>+1 (917) 983-4975
+                                            </style> <span class="av_font_icon av-av_font_icon-8645df3e45cbb680216212d862f07b12 avia_animate_when_visible av-icon-style- avia-icon-pos-left phicon avia-icon-animate avia_start_animation avia_start_delayed_animation"><span class="av-icon-char" aria-hidden="true" data-av_icon="" data-av_iconfont="entypo-fontello"></span></span><a href="+1 (917) 695-7873">+1 (917) 695-7873</a>
                                         </span><span style="font-size: 14px; padding-left: 10px;">
                                             <style type="text/css" id="style-css-av-av_font_icon-49bc212a0304b64a23491b750f2ccdea">
                                                 .av_font_icon.av-av_font_icon-49bc212a0304b64a23491b750f2ccdea {

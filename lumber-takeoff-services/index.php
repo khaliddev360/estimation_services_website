@@ -134,7 +134,7 @@
             <div class='flex_column av-2jqrvc-6db9f0d554d2b8a79f6d6f14502817b2 av_one_full  avia-builder-el-28  el_after_av_one_half  el_before_av_one_full  first flex_column_div column-top-margin'>
               <div id='avia-messagebox-' class='avia_message_box av_notification av-kxuajmy3-fe324e18966151bfb23baa4df902b36b avia-color-red avia-size-large avia-icon_select-yes avia-border-dashed  avia-builder-el-29  avia-builder-el-no-sibling  '><span class='avia_message_box_title'>Note</span>
                 <div class="avia_message_box_content"><span class='avia_message_box_icon' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span>
-                  <p>Having any doubts in your mind? We are here to clear all your problems! Just give us a call <br>at <a href="tel:+1 (917) 983-4975">+1 (917) 983-4975</a> OR click below button to get a free quote.</p>
+                  <p>Having any doubts in your mind? We are here to clear all your problems! Just give us a call <br>at <a href="tel:+1 (917) 695-7873">+1 (917) 695-7873</a> OR click below button to get a free quote.</p>
                 </div>
               </div>
             </div>

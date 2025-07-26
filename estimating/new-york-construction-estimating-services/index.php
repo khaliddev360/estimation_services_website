@@ -130,7 +130,7 @@
             <div class='flex_column av-1w26s4-a5a81b3f336629640031bf650f830d46 av_one_full  avia-builder-el-22  el_after_av_one_half  el_before_av_one_full  first flex_column_div column-top-margin'>
               <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                 <div class='avia_textblock  ' itemprop="text">
-                  <p>Make use of all of our services and reserve your time window. Do not go here and there, as you might waste money. Avail of our monthly package and save your money. You can write an email or can directly call us at +1 (917) 983-4975</p>
+                  <p>Make use of all of our services and reserve your time window. Do not go here and there, as you might waste money. Avail of our monthly package and save your money. You can write an email or can directly call us at +1 (917) 695-7873</p>
                 </div>
               </section>
             </div>
@@ -266,7 +266,7 @@
             <div class='flex_column av-8oa9w-5e9f54c7ca3aa0a679df4fb3775dcdc0 av_one_full  avia-builder-el-48  el_after_av_one_half  avia-builder-el-last  first flex_column_div column-top-margin'>
               <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                 <div class='avia_textblock  ' itemprop="text">
-                  <p>Why are you wasting time? Call us directly at +1 (917) 983-4975 and book your slot. From the beginning to the end, our staff will be there to help you. In other words, you can avail of our different packages, and you can also negotiate with us. We, while offering construction estimating services nyc, are open to customized offers for valuable clients.</p>
+                  <p>Why are you wasting time? Call us directly at +1 (917) 695-7873 and book your slot. From the beginning to the end, our staff will be there to help you. In other words, you can avail of our different packages, and you can also negotiate with us. We, while offering construction estimating services nyc, are open to customized offers for valuable clients.</p>
                 </div>
               </section>
             </div>

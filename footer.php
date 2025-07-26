@@ -58,7 +58,7 @@
                              line-height: 20px;
                          }
                      </style> <span class="av_font_icon av-av_font_icon-5a1fe661ef465468f74a28e43a95cbc5 avia_animate_when_visible av-icon-style- avia-icon-pos-left phicon avia-icon-animate "><span class='av-icon-char' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span></span>
-                     <p>+1 (917) 983-4975</p>
+                     <p>+1 (917) 695-7873</p>
                      <style type="text/css" id="style-css-av-av_font_icon-61c4f1305862cc33e6a4d6808ce7311f">
                          .av_font_icon.av-av_font_icon-61c4f1305862cc33e6a4d6808ce7311f {
                              color: #00a2b4;
@@ -79,7 +79,7 @@
                  <div class="textwidget">
                      <div style="text-align: center;">
                          <h3 style="line-height: 1.5;">Give Us A Call</h3>
-                         <h2 style="line-height: 1.5;"><a href="tel:+1 (917) 983-4975">+1 (917) 983-4975</a></h2>
+                         <h2 style="line-height: 1.5;"><a href="tel:+1 (917) 695-7873">+1 (917) 695-7873</a></h2>
 
                      </div>
                  </div> <span class="seperator extralight-border"></span>

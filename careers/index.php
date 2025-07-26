@@ -83,7 +83,7 @@
                   <p><strong>Wallace Ave The Bronx, NY 10462, USA</strong></p>
                   <p>NY 10462, USA</p>
                   <p><strong><a href="mailto:info@allstateestimation.us">info@allstateestimation.us</a></strong></p>
-                  <p>+1 (917) 983-4975</p>
+                  <p>+1 (917) 695-7873</p>
                   <p>We have mentioned our phone number and mail address as well, on our site . We are just one click away from you. Contact us for any construction estimation service, construction takeoffs and other such mentioned services at our website.</p>
                   <p>Further, you can write to us by uploading your plan or any estimation service you want. So, save your precious money and catch us.</p>
                   <p>In other words, you will get benefits of saving your money and time. We will guide you in detail in the process of construction.</p>

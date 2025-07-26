@@ -267,7 +267,7 @@
                     <li>Once all the plans are made, we hand your project to the senior expert. They will look at the project and verify it. This process will help in providing quality services to clients.</li>
                     <li>Lastly, you would be given your project.</li>
                   </ul>
-                  <p>Our experts always like to give you efficient services. Therefore, they come up with ideas that fully cater to the clients and make your construction easy. We provide the assistance of experts that will aid you throughout your construction procedure. So, why waste time? Call us on +1 (917) 983-4975. Our company has made the support center which works for listening to the needs of the dear clients and gives the outstanding Construction estimating services in New Jersey.</p>
+                  <p>Our experts always like to give you efficient services. Therefore, they come up with ideas that fully cater to the clients and make your construction easy. We provide the assistance of experts that will aid you throughout your construction procedure. So, why waste time? Call us on +1 (917) 695-7873. Our company has made the support center which works for listening to the needs of the dear clients and gives the outstanding Construction estimating services in New Jersey.</p>
                 </div>
               </section>
             </div>

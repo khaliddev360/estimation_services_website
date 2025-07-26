@@ -15,7 +15,7 @@
                       <div class='avia-caption-content  av_inherit_color' itemprop="description" style='font-size:21px; '>
                         <p> Estimating Assists Busy Contractors To Estimate And Win Bids</p>
                         <h3>GET 20% OFF ON YOUR FIRST ESTIMATE</h3>
-                      </div><a href='services/index.php' class='avia-slideshow-button avia-button avia-color-theme-color-highlight avia-multi-slideshow-button' data-duration='800' data-easing='easeInOutQuad'>Our Services</a><a href='tel:+1 (917) 983-4975' class='avia-slideshow-button avia-button avia-color-light avia-multi-slideshow-button avia-slideshow-button-2' data-duration='800' data-easing='easeInOutQuad'>Call Now</a>
+                      </div><a href='services/index.php' class='avia-slideshow-button avia-button avia-color-theme-color-highlight avia-multi-slideshow-button' data-duration='800' data-easing='easeInOutQuad'>Our Services</a><a href='tel:+1 (917) 695-7873' class='avia-slideshow-button avia-button avia-color-light avia-multi-slideshow-button avia-slideshow-button-2' data-duration='800' data-easing='easeInOutQuad'>Call Now</a>
                     </div>
                   </div>
                 </div>
@@ -629,8 +629,8 @@
               </div>
               <div class='av-flex-placeholder'></div>
               <div class='flex_column av-r336-5475f9a0215e2a407e55ee8543f17002 av_one_third  avia-builder-el-47  el_after_av_two_third  avia-builder-el-last  flex_column_table_cell av-equal-height-column av-align-middle '>
-                <div class='avia-button-wrap avia-button-center  avia-builder-el-48  avia-builder-el-no-sibling '><a href='tel: +1 (917) 983-4975' class='avia-button av-kxis84p5-306b1990217ac8b18306f0ff016d4f5e avia-icon_select-yes-left-icon avia-size-x-large avia-position-center '><span class='avia_button_icon avia_button_icon_left' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span>
-                    <span class='avia_iconbox_title'>+1 (917) 983-4975</span>
+                <div class='avia-button-wrap avia-button-center  avia-builder-el-48  avia-builder-el-no-sibling '><a href='tel: +1 (917) 695-7873' class='avia-button av-kxis84p5-306b1990217ac8b18306f0ff016d4f5e avia-icon_select-yes-left-icon avia-size-x-large avia-position-center '><span class='avia_button_icon avia_button_icon_left' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span>
+                    <span class='avia_iconbox_title'>+1 (917) 695-7873</span>
                   </a></div>
               </div>
             </div>
@@ -671,13 +671,13 @@
                   </header>
                   <div class='iconbox_content_container  ' itemprop="text">
                     <p>
-                    <p style="text-align: justify;">Before constructing a residence of your dreams,.. it's miles very essential to recognize how a lot is it going to value you. We have helped variety of domestic proprietors and contractors in this
-                      factor to get an concept of the value to construct their houses and increase their
-                      businesses. Building a domestic is the dream of each employee out there.<span id="dots">...</span><span id="more"> out there. The quickly your activity were given stable, we dream of getting our very own domestic. We price all our clients. in case you are a capacity proprietor or a residential contractor, get our exceptional residential estimating offerings at marketplace competitive
+                    <p style="text-align: justify;">Before constructing a residence of your dreams,.. it's miles very essential to recognize how a lot is it going to value you. We have helped variety of domestic proprietors and contractors in this factor to get an concept of the value to construct their houses and increase their businesses. Building a domestic is the dream of each employee out there.
+                      <span id="dots">...</span><span id="more"> out there. The quickly your activity were given stable, we dream of getting our very own domestic. We price all our clients. in case you are a capacity proprietor or a residential contractor, get our exceptional residential estimating offerings at marketplace competitive
                         rates. Our estimators with take care of the whole thing to your behalf. Our accurate
                         estimation will effortlessly optimize your onsite operation. All you need to do is to
                         get started!
-                      </span></p>
+                      </span>
+                    </p>
                     <button onclick="myFunction()" id="myBtn2">Read more</button>
                     </p>
                   </div>
@@ -807,7 +807,7 @@
                         Estimating Services</a></h3>
                   </header>
                   <div class='iconbox_content_container  ' itemprop="text">
-                    <p>It is crucial to take into attention each the quantity of bricks which might be broken and the substances wasted at some stage in the plastering technique. In order to win contracts with healthy earnings margins, it's miles usually recommended to are trying to find the assistance of skilled masonry estimate offerings.</p>
+                    <p style="text-align: justify;">It is crucial to take into attention each the quantity of bricks which might be broken and the substances wasted at some stage in the plastering technique. In order to win contracts with healthy earnings margins, it's miles usually recommended to are trying to find the assistance of skilled masonry estimate offerings.</p>
                   </div>
                 </div>
                 <footer class="entry-footer"></footer>
@@ -867,7 +867,7 @@
               <div class='flex_column av-kxisndec-2806c8a516cf4f6a55dc2218e27603c3 av_one_full  avia-builder-el-75  el_after_av_one_full  el_before_av_one_full  first flex_column_div column-top-margin'>
                 <section class="av_textblock_section " itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                   <div class='avia_textblock  av_inherit_color ' style='color:#ffffff; ' itemprop="text">
-                    <p style="text-align: center;">We have the software program and educated body of workers to do your
+                    <p style="text-align: justify;">We have the software program and educated body of workers to do your
                       value takeoff estimating with extra velocity and accuracy than any other
                       production estimating corporation in production sector. We can quantify the
                       essential substances required for crowning glory of any assignment.<span id="dotss">...</span><span id="moreee">
